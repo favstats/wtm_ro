@@ -46,12 +46,14 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 3fca8d6b-da0b-400a-9c86-30f5559cca41,USR Agigea,2023-03-17T10:53:55.593Z,04346f97-7ea7-42bb-829d-bc62a0c87d0b,USR,true,true,Romania,ro,338416500146655,USR Agigea,Facebook
 4053c8fc-a8ca-4c3c-bf73-d263292360f3,USR Tărlungeni,2023-06-26T05:08:33.402Z,99d8cfe9-c020-40e7-af7d-1ca3b981853c,USR,true,true,Romania,ro,335049037339996,USR Tărlungeni,Facebook
 415cedb2-591b-4c17-8b56-a2da72c3fe94,Radu Trufan,2023-03-08T18:40:55.964Z,62cafd50-6d24-48b2-9970-3439d7997e5c,USR,true,true,Romania,ro,102130021420312,Radu Trufan,Facebook
+42572457-e254-45df-8c26-1d454dd4dcd5,USR Sânandrei,2023-12-25T05:06:54.528Z,e3c85cfc-4027-49a2-b4b5-33f1f3cb6fcd,USR,true,true,Romania,ro,1495456400467575,USR Sânandrei,Facebook
 44e4ee8e-4012-44fa-88c0-5dfc19863d6a,USR PLUS Vrancea,2023-02-17T10:53:37.676Z,7d9e8e74-03c0-493f-96d6-a83c84500953,USR,true,true,Romania,ro,1780528075550888,USR PLUS Vrancea,Facebook
 459373bd-f627-496b-ba2d-c114f1c3db60,USR PLUS Bucov,2023-03-25T10:53:21.872Z,db988bb7-1ec4-4593-b882-9206a2dd569b,USR,true,true,Romania,ro,252526698818667,USR PLUS Bucov,Facebook
 45efde1f-de85-4aa0-a520-e0c59807dc94,USR Dâmbovița,2023-04-04T10:53:48.850Z,3d8c18b7-6be0-45aa-b5d2-bbecd9de0c53,USR,true,true,Romania,ro,133003303786721,USR Dâmbovița,Facebook
 460b9e03-5bb0-498b-a4ce-889de09c1d03,USR PLUS Sinaia,2023-03-13T10:53:34.719Z,b72d978f-6fc0-4b96-a386-e7a3ff3a48b0,USR,true,true,Romania,ro,111936040217493,USR PLUS Sinaia,Facebook
 477b6491-5fef-48de-ba23-acb3579bf129,USR Târgu Lăpuș,2023-07-21T05:08:13.168Z,0658b850-977c-4774-a26a-3d74564c098f,USR,true,true,Romania,ro,660431470978348,USR Târgu Lăpuș,Facebook
 479dc536-c072-494c-adce-3b338b51cf5e,USR Huși,2023-07-11T06:07:46.581Z,6c8bcd02-1b03-4d77-9b69-e12d355f339c,USR,true,true,Romania,ro,2332034217029587,USR Huși,Facebook
+483911e8-c3ae-42af-85c4-2b417a0c4c1b,USR Brăila,2023-12-28T05:06:48.660Z,190e0f37-341a-4fba-b5b4-bd52608ef8c4,USR,true,true,Romania,ro,176811992738806,USR Brăila,Facebook
 48551216-b513-43c3-a4f3-400ba1fa82a1,Radu Mihaiu,2023-03-08T14:44:14.707Z,3450e7f3-cb3b-412d-adc5-45730f975aea,USR,true,true,Romania,ro,689386518104305,Radu Mihaiu,Facebook
 48594c58-5a7f-4317-92a0-58ea3ed988f0,USR Otopeni,2023-05-23T06:53:32.933Z,37f37033-b16b-4ace-a04f-dce8ca372d75,USR,true,true,Romania,ro,901760756635357,USR Otopeni,Facebook
 48d1a70e-8176-4625-af75-7abe0a132ca6,Cristina Iurisniti Deputat USR BN,2022-08-16T15:24:37.686Z,54cf9b3a-d995-407b-89f3-1798295fb5be,USR,true,true,Romania,ro,745975698891864,Cristina Iurisniti Deputat USR BN,Facebook
@@ -69,6 +71,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 566e8ea8-546a-432b-86b7-a1bf02c0d407,USR Popești-Leordeni,2023-02-28T10:53:58.562Z,f38682c2-d4a0-4112-abc3-7c8e65d58e1d,USR,true,true,Romania,ro,113299893923817,USR Popești-Leordeni,Facebook
 56bad987-9991-4874-9a9a-8bbc35f92f41,USR Tineret Mureș,2023-02-22T10:54:01.601Z,b1dfefee-1422-40cb-9535-cf0c6f1ab2cd,USR,true,true,Romania,ro,108312994755354,USR Tineret Mureș,Facebook
 587c5507-c94f-454e-b180-1a569c53e63b,USR Sânpetru,2023-05-23T06:53:32.836Z,71a214bd-40b5-4933-9338-48eb9d683882,USR,true,true,Romania,ro,363778767496805,USR Sânpetru,Facebook
+59b924e3-1e59-402e-9dd8-1a2023cac630,USR PLUS Câmpina,2023-12-09T05:06:46.496Z,7afd5a40-43a3-43e4-8187-43d1a6d3f73a,USR,true,true,Romania,ro,1758913454373670,USR PLUS Câmpina,Facebook
 5e3a9ab1-2e76-47ce-a109-215012036b5b,USR Sighișoara,2023-10-17T05:07:11.743Z,1d241e8c-6685-40c1-ab0e-87b7b7f1f6e7,USR,true,true,Romania,ro,1894706267209299,USR Sighișoara,Facebook
 5e73a3be-8df9-43ef-82ca-1bce56e5d691,USR Florești,2023-03-08T18:51:31.110Z,04f867d3-c65b-43ab-9a45-0f23b0dcffbd,USR,true,true,Romania,ro,309461116236478,USR Florești,Facebook
 5efc4c3e-6212-456f-b91f-415337128450,Narcis Mircescu,2023-02-12T10:53:39.142Z,c2d17f68-ca3b-4c89-b4d4-2f217ea701f3,USR,true,true,Romania,ro,107414614506121,Narcis Mircescu,Facebook
@@ -88,6 +91,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 7366a44b-25c5-43d2-a8d8-36e5b9e31cb3,USR Mihail Kogălniceanu,2023-04-01T10:53:23.876Z,bc5dd9eb-f7ee-477e-a260-bd1d9efaa336,USR,true,true,Romania,ro,296875844315712,USR Mihail Kogălniceanu,Facebook
 746c5562-d46c-4b40-96c1-f8af5ff47c54,USR Zalău,2023-03-08T19:12:51.009Z,8adec92f-f154-412b-9624-799936e65fab,USR,true,true,Romania,ro,665719730245460,USR Zalău,Facebook
 754bb575-bb2e-4833-be8e-ee7e83e0d097,USR Telega,2023-05-09T06:53:23.012Z,e4f032bd-6a89-44c1-a939-2e85402e8481,USR,true,true,Romania,ro,103732705939837,USR Telega,Facebook
+794630e1-50d6-4d44-9ec1-c416101fdf4c,Vlad Voiculescu,2023-12-12T05:07:46.091Z,74255f8c-883c-4593-9b5d-d09f565802e6,USR,true,true,Romania,ro,106810404209140,Vlad Voiculescu,Facebook
 7b30c495-7bb3-4c04-84b6-a2fbfe5bc0fc,USR Argeș,2023-02-19T10:54:02.264Z,cd9f9bcd-e3aa-4c5d-ab98-2fa29d82940d,USR,true,true,Romania,ro,987000488084806,USR Argeș,Facebook
 7b7b7281-0ebf-4b0a-b68e-9d2136d596fe,Stefan Cojanu,2023-02-07T15:05:01.463Z,6f705311-9de8-4274-9a99-14df9f0bba0b,USR,true,true,Romania,ro,111568014776093,Stefan Cojanu,Facebook
 7f6a66a1-a0d2-4f7b-b7e3-e99458ab3d95,Irineu Darău,2023-02-11T10:53:34.392Z,51e420e1-1b53-49dd-84c6-9fb5a6a3aac7,USR,true,true,Romania,ro,104143560936377,Irineu Darău,Facebook
@@ -169,6 +173,8 @@ eb403af6-fd30-4c70-98df-5b513cbdce2b,USR Tecuci,2023-02-07T15:05:01.143Z,4bf783b
 ec21a647-58c4-45ca-8355-e7b78ea36ba5,USR Bistrița,2023-03-08T16:03:04.229Z,3fc29130-7299-478c-89a8-0d8f99fc28ce,USR,true,true,Romania,ro,2080496382236240,USR Bistrița,Facebook
 ef66875b-c5a8-4c22-8f92-5ecc3cc44b1e,Uniunea Salvați România - USR Băilești,2023-05-06T06:53:27.742Z,611d5520-b2a7-4032-b3dc-cc4fb6f7ea8d,USR,true,true,Romania,ro,102470608223985,Uniunea Salvați România - USR Băilești,Facebook
 f3b3cae5-0263-49ca-bd62-e29abfbc6ab8,Daniela Cozmeci - Consilier local Bragadiru,2023-02-13T10:53:57.657Z,17c506c7-b13b-4128-925c-e9ff2b8aa15b,USR,true,true,Romania,ro,110547470730217,Daniela Cozmeci - Consilier local Bragadiru,Facebook
+f52d92c5-2ce6-480c-a3c1-a5e8aabd1882,USR Călărași,2023-12-12T05:07:46.580Z,3a107d7f-6d39-4544-b567-7fab0eeb86c3,USR,true,true,Romania,ro,466447517219196,USR Călărași,Facebook
+f5bcce8a-601c-4efd-92e7-fa5a9e9a75f8,USR Câmpia Turzii,2023-12-11T05:06:41.024Z,437bd2d6-a12b-4087-bc20-98b4b84b363e,USR,true,true,Romania,ro,1904015986577702,USR Câmpia Turzii,Facebook
 f652ce34-be9c-46d8-a2f7-9406025ebb6a,USR Arad,2023-02-24T10:53:53.638Z,a8357394-8907-4d7d-9da7-25818a032c33,USR,true,true,Romania,ro,1210260295704425,USR Arad,Facebook
 f90f0b16-5f4b-4f6e-97e1-533ae14ba640,Florin Drăgulin,2023-04-11T10:53:24.105Z,c489ba85-1e90-42e4-9953-48350fc38150,USR,true,true,Romania,ro,110771637893787,Florin Drăgulin,Facebook
 fa72fa24-eafa-4bff-bd50-7d66119d2c84,Alianța 2020 USR PLUS Pantelimon,2023-07-03T06:16:09.202Z,11740626-ca28-4f87-be48-62ae5f712c20,USR,true,true,Romania,ro,104137401171119,Alianța 2020 USR PLUS Pantelimon,Facebook
@@ -176,37 +182,43 @@ fcb04b0c-a2b9-4c31-93fc-e6a96a44ca3d,USR Sector 6,2022-08-16T15:24:37.530Z,e5243
 fe8325fb-e3d2-4d62-8570-c6d821fc5bdf,Lucian Mara • USR,2023-03-12T10:53:47.029Z,0d1f6bdc-57d3-4873-b4cf-03068daa9b5f,USR,true,true,Romania,ro,103511534892298,Lucian Mara • USR,Facebook
 fee065d7-8286-4de2-80ba-1f2541c0c61f,USR Periș,2023-07-25T05:07:59.960Z,9dfeda24-2035-4729-89b1-6d56d0bacead,USR,true,true,Romania,ro,277599969452226,USR Periș,Facebook
 ec397797-3b43-4984-be1a-5706b443fed2,Alianța Liberalilor și Democraților,2022-08-16T15:24:29.964Z,f0c8d15a-0e4b-4bfb-97a5-016d07097ab9,ALDE,false,true,Romania,ro,1445317929104540,Alianța Liberalilor și Democraților,Facebook
-1a294553-b70b-4aa7-bb1d-83f6c07b9d89,Oláh Emese,2023-02-09T06:28:17.629Z,3b8ba738-9408-4833-9fbe-a47378b65d67,RMDSZ,true,true,Romania,ro,309748249443745,Oláh Emese,Facebook
-1bf9f4e5-8440-4b92-b59d-c823391caabc,RMDSZ Udvarhelyszéki Szervezete,2023-07-12T15:00:11.658Z,b8111317-489a-4d3b-8bbb-f7049af04fc7,RMDSZ,true,true,Romania,ro,100576298460580,RMDSZ Udvarhelyszéki Szervezete,Facebook
-212ca70d-53c3-47b6-8290-7ead4c734e90,Cseke Attila,2023-05-30T06:53:43.558Z,1e82b587-a5f2-44b7-94fc-b95b5832ddad,RMDSZ,true,true,Romania,ro,232486986822622,Cseke Attila,Facebook
-3223b5a4-d255-46bf-95e2-c6fd81ffb950,Tasnádi István Szilárd,2023-02-17T10:53:37.701Z,d474de40-da84-4c3b-aaa1-f92b8f928361,RMDSZ,true,true,Romania,ro,100843568397388,Tasnádi István Szilárd,Facebook
-3c1e4be1-ecb3-47db-accc-0efb16f3703d,RMDSZ Kolozsvári Szervezet,2023-02-28T10:53:58.538Z,50a4a46b-1423-44e2-9108-f8bd0958aff7,RMDSZ,true,true,Romania,ro,297642743698707,RMDSZ Kolozsvári Szervezet,Facebook
-4f81e9ef-b944-4205-8e65-57281c8a257c,RMDSZ - Háromszéki Területi Szervezet,2023-07-01T05:08:16.181Z,b770b6d3-5fb3-402c-8ee0-2612be608abf,RMDSZ,true,true,Romania,ro,270735699659179,RMDSZ - Háromszéki Területi Szervezet,Facebook
-55930ecd-4286-4a6d-a4a1-fc182246e1b0,RMDSZ Máramaros Megyei Szervezet,2023-02-08T05:57:28.024Z,a1f894ee-5ba3-4da1-8c57-79fab4c63a0c,RMDSZ,true,true,Romania,ro,111221864566989,RMDSZ Máramaros Megyei Szervezet,Facebook
-65ec36be-7f9c-4925-a3dd-ff52b3fc7373,RMDSZ Bihar Megye,2023-02-21T10:53:46.043Z,202611f6-dbdd-4c5a-b594-904906d3f311,RMDSZ,true,true,Romania,ro,1427831627527824,RMDSZ Bihar Megye,Facebook
-698e0f76-d01c-4174-96af-8962da4111b5,Uniunea Democrată Maghiară din România,2022-08-16T15:24:29.956Z,cfff183c-a8d5-4640-9d30-c8941002cd02,RMDSZ,true,true,Romania,ro,102601499822802,Uniunea Democrată Maghiară din România,Facebook
-6c6a5e39-fa5b-47b6-b7c9-44863876f507,RMDSZ Kolozs Megye,2023-02-07T15:05:00.605Z,e3943fe0-7dc9-4b5d-88c2-11a46a597fc4,RMDSZ,true,true,Romania,ro,1601334153417885,RMDSZ Kolozs Megye,Facebook
-7d08831a-8977-455b-8cb5-1aec32fa2b70,RMDSZ Gyergyószárhegy,2023-02-08T05:57:28.034Z,87c41f00-a172-4485-9ffc-1e8d7609dbaf,RMDSZ,true,true,Romania,ro,101578415382513,RMDSZ Gyergyószárhegy,Facebook
-8a6a9909-e8fe-4074-aa0d-f9492a4b6927,RMDSZ Szászfenes,2023-05-20T06:53:37.305Z,4670a4c5-9e3e-4db5-9101-12fb6560e3e1,RMDSZ,true,true,Romania,ro,1480241218942236,RMDSZ Szászfenes,Facebook
-8f137a89-42cc-4a2b-8b0a-6c1949aa9471,RMDSZ Nagybánya,2023-04-28T06:53:22.119Z,3d100b59-a810-4346-a286-5d1cfcef80ed,RMDSZ,true,true,Romania,ro,490297611136991,RMDSZ Nagybánya,Facebook
-b893c72f-5990-4edc-aaed-3c050fdb68fb,"RMDSZ, Maros megyei szervezet",2023-03-06T10:53:53.580Z,b6bedbc6-402b-4f3a-aa69-cd8b425ee32d,RMDSZ,true,true,Romania,ro,151241544943262,"RMDSZ, Maros megyei szervezet",Facebook
-b9f18625-b533-4cbf-a105-3733b5a37435,RMDSZ Hunyad Megyei Szervezete,2023-03-12T10:53:46.999Z,91be4837-d467-4664-a386-c570c6ffdc83,RMDSZ,true,true,Romania,ro,351920454997749,RMDSZ Hunyad Megyei Szervezete,Facebook
-bac1b686-ad97-4e3b-97bd-6532f7ae0fd3,Rés Éva,2023-02-07T15:05:01.398Z,237022d7-cf36-4d97-ab93-96c4a2c9a99b,RMDSZ,true,true,Romania,ro,112210580583588,Rés Éva,Facebook
-bc539f95-bc38-453c-b178-75645a106a7c,Nagyváradi RMDSZ,2023-07-10T06:51:31.563Z,c55eb526-6e1b-4ea4-a955-71fb19bd00af,RMDSZ,true,true,Romania,ro,514769285337113,Nagyváradi RMDSZ,Facebook
-c1b9dfd3-e6b3-4cc6-a906-9467f8bc08d4,Kelemen Hunor,2023-02-11T10:53:34.650Z,8b863db4-1bac-4183-98b7-4aac434674da,RMDSZ,true,true,Romania,ro,175293925828191,Kelemen Hunor,Facebook
-c1d4b97b-b1ca-49bb-b702-c196e2eee057,Kolozs Megyei Ifjúsági Fórum - Kifor,2023-04-23T06:53:08.792Z,809c2864-ace5-4b7c-9bee-dc1542da60c5,RMDSZ,true,true,Romania,ro,196110100428834,Kolozs Megyei Ifjúsági Fórum - Kifor,Facebook
-cb5e06ac-a1d9-456b-b212-5a01a381f7c4,Temes Megyei RMDSZ,2023-04-25T06:53:21.091Z,ff33484e-0702-40bf-801e-cca23dbced43,RMDSZ,true,true,Romania,ro,672131309580307,Temes Megyei RMDSZ,Facebook
-d0bdcc6b-25f9-4b53-97bb-4aa164c546f8,Csoma Botond,2023-02-17T10:53:37.761Z,ec2df56b-254d-4393-a701-c90d7e4d6859,RMDSZ,true,true,Romania,ro,1305418182809740,Csoma Botond,Facebook
-d0c2c4f4-8bc6-4712-8ef3-cbb0675ac1d7,Szeben megyei RMDSZ,2023-07-09T06:08:36.688Z,1a9635f5-b9a2-41b0-b543-f8396d3c7b39,RMDSZ,true,true,Romania,ro,108669214034558,Szeben megyei RMDSZ,Facebook
-d396f79b-f384-4bff-b18c-b135e1908007,Hegedüs Csilla,2023-02-19T10:54:02.482Z,9626dcc9-8c9e-4269-a3bb-ca65a03d31a6,RMDSZ,true,true,Romania,ro,447704011932385,Hegedüs Csilla,Facebook
-d68474ee-bb67-4062-822a-724601d16eb3,Rácz Béla-Gergely,2023-03-08T16:23:40.603Z,9d1b46ef-9168-4c9e-b012-7c97ad2027a0,RMDSZ,true,true,Romania,ro,101938368284859,Rácz Béla-Gergely,Facebook
-e045b2fc-07aa-4b29-81e1-5fa106e10af5,Székelyudvarhelyi RMDSZ,2023-07-07T13:16:38.713Z,2c3e1e8e-fbb0-4bea-ba54-4081e0f3e70d,RMDSZ,true,true,Romania,ro,1061565310537770,Székelyudvarhelyi RMDSZ,Facebook
-e1c3f743-0b03-49be-a99c-2c7665cbfb37,Kelemen Attila,2023-02-27T10:53:52.277Z,e0165800-d380-4082-b393-e1c29360ba70,RMDSZ,true,true,Romania,ro,100658152065911,Kelemen Attila,Facebook
-f7126220-db86-465d-804f-700ab3bcfba2,RMDSZ Nőszervezet,2023-03-01T10:53:46.066Z,1e36851b-b06f-49d6-9f0c-eeb0dbc0ec36,RMDSZ,true,true,Romania,ro,379633622148337,RMDSZ Nőszervezet,Facebook
+1a294553-b70b-4aa7-bb1d-83f6c07b9d89,Oláh Emese,2023-02-09T06:28:17.629Z,3b8ba738-9408-4833-9fbe-a47378b65d67,UDMR,true,true,Romania,ro,309748249443745,Oláh Emese,Facebook
+1bf9f4e5-8440-4b92-b59d-c823391caabc,RMDSZ Udvarhelyszéki Szervezete,2023-07-12T15:00:11.658Z,b8111317-489a-4d3b-8bbb-f7049af04fc7,UDMR,true,true,Romania,ro,100576298460580,RMDSZ Udvarhelyszéki Szervezete,Facebook
+212ca70d-53c3-47b6-8290-7ead4c734e90,Cseke Attila,2023-05-30T06:53:43.558Z,1e82b587-a5f2-44b7-94fc-b95b5832ddad,UDMR,true,true,Romania,ro,232486986822622,Cseke Attila,Facebook
+3223b5a4-d255-46bf-95e2-c6fd81ffb950,Tasnádi István Szilárd,2023-02-17T10:53:37.701Z,d474de40-da84-4c3b-aaa1-f92b8f928361,UDMR,true,true,Romania,ro,100843568397388,Tasnádi István Szilárd,Facebook
+378abee3-baad-4133-b961-bc45fe0eb5c6,RMDSZ Mehedinți - UDMR Mehedinți,2023-12-22T05:06:47.182Z,727c55d2-5956-4888-be45-17afc8029c2e,UDMR,true,true,Romania,ro,175101259023330,RMDSZ Mehedinți - UDMR Mehedinți,Facebook
+3c1e4be1-ecb3-47db-accc-0efb16f3703d,RMDSZ Kolozsvári Szervezet,2023-02-28T10:53:58.538Z,50a4a46b-1423-44e2-9108-f8bd0958aff7,UDMR,true,true,Romania,ro,297642743698707,RMDSZ Kolozsvári Szervezet,Facebook
+4f81e9ef-b944-4205-8e65-57281c8a257c,RMDSZ - Háromszéki Területi Szervezet,2023-07-01T05:08:16.181Z,b770b6d3-5fb3-402c-8ee0-2612be608abf,UDMR,true,true,Romania,ro,270735699659179,RMDSZ - Háromszéki Területi Szervezet,Facebook
+55930ecd-4286-4a6d-a4a1-fc182246e1b0,RMDSZ Máramaros Megyei Szervezet,2023-02-08T05:57:28.024Z,a1f894ee-5ba3-4da1-8c57-79fab4c63a0c,UDMR,true,true,Romania,ro,111221864566989,RMDSZ Máramaros Megyei Szervezet,Facebook
+65ec36be-7f9c-4925-a3dd-ff52b3fc7373,RMDSZ Bihar Megye,2023-02-21T10:53:46.043Z,202611f6-dbdd-4c5a-b594-904906d3f311,UDMR,true,true,Romania,ro,1427831627527824,RMDSZ Bihar Megye,Facebook
+698e0f76-d01c-4174-96af-8962da4111b5,Uniunea Democrată Maghiară din România,2022-08-16T15:24:29.956Z,cfff183c-a8d5-4640-9d30-c8941002cd02,UDMR,true,true,Romania,ro,102601499822802,Uniunea Democrată Maghiară din România,Facebook
+6c6a5e39-fa5b-47b6-b7c9-44863876f507,RMDSZ Kolozs Megye,2023-02-07T15:05:00.605Z,e3943fe0-7dc9-4b5d-88c2-11a46a597fc4,UDMR,true,true,Romania,ro,1601334153417885,RMDSZ Kolozs Megye,Facebook
+79bf987a-3278-4454-9190-6bf01bc105dd,RMDSZ Galac - UDMR Galați,2023-12-22T05:06:47.110Z,a0778f0d-3448-47f4-82fe-927383ef77a6,UDMR,true,true,Romania,ro,190857324106796,RMDSZ Galac - UDMR Galați,Facebook
+7d08831a-8977-455b-8cb5-1aec32fa2b70,RMDSZ Gyergyószárhegy,2023-02-08T05:57:28.034Z,87c41f00-a172-4485-9ffc-1e8d7609dbaf,UDMR,true,true,Romania,ro,101578415382513,RMDSZ Gyergyószárhegy,Facebook
+8a6a9909-e8fe-4074-aa0d-f9492a4b6927,RMDSZ Szászfenes,2023-05-20T06:53:37.305Z,4670a4c5-9e3e-4db5-9101-12fb6560e3e1,UDMR,true,true,Romania,ro,1480241218942236,RMDSZ Szászfenes,Facebook
+8f137a89-42cc-4a2b-8b0a-6c1949aa9471,RMDSZ Nagybánya,2023-04-28T06:53:22.119Z,3d100b59-a810-4346-a286-5d1cfcef80ed,UDMR,true,true,Romania,ro,490297611136991,RMDSZ Nagybánya,Facebook
+b2352719-a102-4b45-a226-f466c7664c2d,RMDSZ Konstanca - UDMR Constanța,2023-12-04T05:06:38.874Z,62d345c3-5cb1-4207-8f47-fa284cd4a086,UDMR,true,true,Romania,ro,177156505475320,RMDSZ Konstanca - UDMR Constanța,Facebook
+b893c72f-5990-4edc-aaed-3c050fdb68fb,"RMDSZ, Maros megyei szervezet",2023-03-06T10:53:53.580Z,b6bedbc6-402b-4f3a-aa69-cd8b425ee32d,UDMR,true,true,Romania,ro,151241544943262,"RMDSZ, Maros megyei szervezet",Facebook
+b9f18625-b533-4cbf-a105-3733b5a37435,RMDSZ Hunyad Megyei Szervezete,2023-03-12T10:53:46.999Z,91be4837-d467-4664-a386-c570c6ffdc83,UDMR,true,true,Romania,ro,351920454997749,RMDSZ Hunyad Megyei Szervezete,Facebook
+bac1b686-ad97-4e3b-97bd-6532f7ae0fd3,Rés Éva,2023-02-07T15:05:01.398Z,237022d7-cf36-4d97-ab93-96c4a2c9a99b,UDMR,true,true,Romania,ro,112210580583588,Rés Éva,Facebook
+bc539f95-bc38-453c-b178-75645a106a7c,Nagyváradi RMDSZ,2023-07-10T06:51:31.563Z,c55eb526-6e1b-4ea4-a955-71fb19bd00af,UDMR,true,true,Romania,ro,514769285337113,Nagyváradi RMDSZ,Facebook
+c1b9dfd3-e6b3-4cc6-a906-9467f8bc08d4,Kelemen Hunor,2023-02-11T10:53:34.650Z,8b863db4-1bac-4183-98b7-4aac434674da,UDMR,true,true,Romania,ro,175293925828191,Kelemen Hunor,Facebook
+c1d4b97b-b1ca-49bb-b702-c196e2eee057,Kolozs Megyei Ifjúsági Fórum - Kifor,2023-04-23T06:53:08.792Z,809c2864-ace5-4b7c-9bee-dc1542da60c5,UDMR,true,true,Romania,ro,196110100428834,Kolozs Megyei Ifjúsági Fórum - Kifor,Facebook
+cb5e06ac-a1d9-456b-b212-5a01a381f7c4,Temes Megyei RMDSZ,2023-04-25T06:53:21.091Z,ff33484e-0702-40bf-801e-cca23dbced43,UDMR,true,true,Romania,ro,672131309580307,Temes Megyei RMDSZ,Facebook
+d0bdcc6b-25f9-4b53-97bb-4aa164c546f8,Csoma Botond,2023-02-17T10:53:37.761Z,ec2df56b-254d-4393-a701-c90d7e4d6859,UDMR,true,true,Romania,ro,1305418182809740,Csoma Botond,Facebook
+d0c2c4f4-8bc6-4712-8ef3-cbb0675ac1d7,Szeben megyei RMDSZ,2023-07-09T06:08:36.688Z,1a9635f5-b9a2-41b0-b543-f8396d3c7b39,UDMR,true,true,Romania,ro,108669214034558,Szeben megyei RMDSZ,Facebook
+d2c36cc7-849d-4938-9807-97d858c2513a,RMDSZ Giurgiu -  UDMR Giurgiu,2023-12-22T05:06:47.283Z,4698dd73-5671-414d-a9da-89cfba5f1f6b,UDMR,true,true,Romania,ro,163407260197503,RMDSZ Giurgiu -  UDMR Giurgiu,Facebook
+d396f79b-f384-4bff-b18c-b135e1908007,Hegedüs Csilla,2023-02-19T10:54:02.482Z,9626dcc9-8c9e-4269-a3bb-ca65a03d31a6,UDMR,true,true,Romania,ro,447704011932385,Hegedüs Csilla,Facebook
+d68474ee-bb67-4062-822a-724601d16eb3,Rácz Béla-Gergely,2023-03-08T16:23:40.603Z,9d1b46ef-9168-4c9e-b012-7c97ad2027a0,UDMR,true,true,Romania,ro,101938368284859,Rácz Béla-Gergely,Facebook
+e045b2fc-07aa-4b29-81e1-5fa106e10af5,Székelyudvarhelyi RMDSZ,2023-07-07T13:16:38.713Z,2c3e1e8e-fbb0-4bea-ba54-4081e0f3e70d,UDMR,true,true,Romania,ro,1061565310537770,Székelyudvarhelyi RMDSZ,Facebook
+e1c3f743-0b03-49be-a99c-2c7665cbfb37,Kelemen Attila,2023-02-27T10:53:52.277Z,e0165800-d380-4082-b393-e1c29360ba70,UDMR,true,true,Romania,ro,100658152065911,Kelemen Attila,Facebook
+f7126220-db86-465d-804f-700ab3bcfba2,RMDSZ Nőszervezet,2023-03-01T10:53:46.066Z,1e36851b-b06f-49d6-9f0c-eeb0dbc0ec36,UDMR,true,true,Romania,ro,379633622148337,RMDSZ Nőszervezet,Facebook
+04ee4108-8724-41c4-b779-415057830778,TNL Pitesti,2023-11-29T05:07:47.521Z,3da0fa54-37f0-43a7-865e-d3fd97e12abe,PNL,true,true,Romania,ro,210351472711576,TNL Pitesti,Facebook
 059d22ad-d93b-4c12-82ab-bdf92bba57ec,PNL Raucesti,2023-10-09T05:07:17.525Z,03559d0c-9e83-43de-942a-a32780847306,PNL,true,true,Romania,ro,104367125771483,PNL Raucesti,Facebook
 06ffc4b3-25f9-4865-ba39-b5d1043345fb,PNL Arad,2023-03-08T16:44:05.647Z,05c8888e-f221-48de-ab80-1b4be9cc0de1,PNL,true,true,Romania,ro,1415002928807791,PNL Arad,Facebook
 07191ec5-a47f-4640-989b-562eed59252d,Daniel Buda,2023-02-07T15:05:00.344Z,def213e1-7604-4893-bb2b-28263ce26d54,PNL,true,true,Romania,ro,220579784732993,Daniel Buda,Facebook
 07704f7d-ad6a-4b28-bfb0-39020e833c1c,PNL Romani,2023-10-09T05:07:17.587Z,367252f6-f32d-4ef8-b8db-ad31158c0875,PNL,true,true,Romania,ro,104425822420076,PNL Romani,Facebook
+09bae6bd-94d4-4320-9938-1f1f9fed6149,Norris Marcu Măgeanu,2023-11-27T05:07:18.593Z,654a1773-1eee-4f28-b52c-abd235229504,PNL,true,true,Romania,ro,102473346544685,Norris Marcu Măgeanu,Facebook
 0bac123c-8f82-4658-a095-e6bda3ec73b9,Dan Alexandru Tică,2023-03-01T10:53:46.295Z,c4a4887c-0d2c-4a92-9025-b56d83bf3165,PNL,true,true,Romania,ro,110479207242174,Dan Alexandru Tică,Facebook
 152748e8-f420-468a-9685-99d3a06b8af1,Raluca Turcan,2023-02-07T15:05:00.698Z,104ec0de-df4f-4a7f-bdcc-3d6e71646214,PNL,true,true,Romania,ro,360184320712594,Raluca Turcan,Facebook
 15a8c9df-d1a2-4c9e-a6ea-8652aebf4299,PNL Baltatesti,2023-10-04T05:07:11.323Z,91aa885d-b6d9-4b46-980a-97e49d44f622,PNL,true,true,Romania,ro,104902645680233,PNL Baltatesti,Facebook
@@ -229,6 +241,8 @@ f7126220-db86-465d-804f-700ab3bcfba2,RMDSZ Nőszervezet,2023-03-01T10:53:46.066Z
 4531f5ea-a888-4451-84db-a1f37d6194b0,Nicolae Ionel Ciucă,2023-02-20T10:53:50.585Z,fc4ffa43-5224-467e-839a-8a1b643f4bc2,PNL,true,true,Romania,ro,1577877239102295,Nicolae Ionel Ciucă,Facebook
 4cd5a7c8-9dcf-4ce7-8678-761323ba3c9e,Senator Liviu Dumitru Voiculescu- Președinte PNL OLT,2023-09-16T05:07:05.989Z,09854ad8-33c7-4425-be5d-912dd1f7719a,PNL,true,true,Romania,ro,1701562153421178,Senator Liviu Dumitru Voiculescu- Președinte PNL OLT,Facebook
 53b84b4d-4df4-42a5-b86f-e338632e9e72,Romeo Dunca,2023-04-27T06:53:32.478Z,27895758-7c2d-42a5-bda5-12f351349f79,PNL,true,true,Romania,ro,105371064626304,Romeo Dunca,Facebook
+553312b7-c7f3-41b0-a8e7-f30b00bca196,PNL Valea Jiului,2023-12-19T05:06:27.983Z,66eb77ab-f89c-4c9d-99df-86491de9b108,PNL,true,true,Romania,ro,163443083514737,PNL Valea Jiului,Facebook
+553dc5c1-321e-4b77-a36f-45139df74bc3,Brezeanu Gabriel,2023-11-18T05:07:09.975Z,a0d813c6-afbd-4983-88fe-185f5f30d08c,PNL,true,true,Romania,ro,134360129764877,Brezeanu Gabriel,Facebook
 556839bd-0506-4ac8-98cf-5f075775ab95,PNL Vâlcea,2023-03-08T10:53:46.604Z,f3fb55a0-983d-4875-a9c2-c43be3d0d349,PNL,true,true,Romania,ro,389883831183141,PNL Vâlcea,Facebook
 56634f5b-7982-4b9a-a1db-2439bb2e67ff,PNL Satu Mare,2023-05-30T06:53:43.569Z,8bcc09a7-8beb-4585-bf6f-71ec158ee442,PNL,true,true,Romania,ro,1487319541548619,PNL Satu Mare,Facebook
 5b5e4408-0e2c-4936-995c-2a93b0d6a3f2,PNL Botosani - Organizatia Municipala,2023-02-21T10:53:46.156Z,79370aa9-97cb-4470-9e2d-04f4db823c09,PNL,true,true,Romania,ro,619545431391444,PNL Botosani - Organizatia Municipala,Facebook
@@ -239,6 +253,8 @@ f7126220-db86-465d-804f-700ab3bcfba2,RMDSZ Nőszervezet,2023-03-01T10:53:46.066Z
 64a520a6-ce89-477c-817b-40c73d20044e,Organizația Femeilor Liberale Pitești,2023-03-12T10:53:46.707Z,2df01d6b-a0ab-46c8-aacb-addbd15e9141,PNL,true,true,Romania,ro,669185233290571,Organizația Femeilor Liberale Pitești,Facebook
 67d583ec-051f-46ab-b328-911c6253bd72,Ionel Bogdan,2023-02-07T15:05:00.386Z,9165a7bc-22de-4cb0-ad52-6b4f48f26bbe,PNL,true,true,Romania,ro,1449284915381234,Ionel Bogdan,Facebook
 68a00583-3637-445a-981b-76d80e66db7b,PNL Câmpulung,2023-02-15T10:53:40.505Z,021f1fa2-f4b6-4aa6-95f5-3dc10ed0c679,PNL,true,true,Romania,ro,201835610228573,PNL Câmpulung,Facebook
+6a3db346-c7f4-4e12-9302-9e936fc8d36d,Tatomir Florin,2023-11-17T05:06:58.448Z,1a59632e-4bdf-473d-90af-b1b6015cc9c8,PNL,true,true,Romania,ro,146219405238370,Tatomir Florin,Facebook
+6c4622db-fc52-4580-91ec-929ab2a681d6,PNL Sector 5,2023-11-29T05:07:47.150Z,c4566320-b860-4513-abef-d58fb4c7d749,PNL,true,true,Romania,ro,1549073781993174,PNL Sector 5,Facebook
 7215eaf1-24b9-4d53-ad69-3ff11097e86c,PNL Garcina,2023-04-25T06:53:21.125Z,cf55a05b-fdf2-42f6-9854-8d83abb28fdd,PNL,true,true,Romania,ro,106225618898874,PNL Garcina,Facebook
 78b4e9ad-e376-4d5a-9fd3-054b44e61b83,Panescu Ana-Maria,2023-11-13T05:07:56.358Z,4e27a13b-73b4-434a-970a-97732d6efc9c,PNL,true,true,Romania,ro,105930017642049,Panescu Ana-Maria,Facebook
 7af4108a-83f0-4072-b9c1-c908962b5152,Călin Bota,2023-06-09T06:53:12.582Z,dae8fa11-374c-4610-86aa-62bd80840309,PNL,true,true,Romania,ro,100397374873309,Călin Bota,Facebook
@@ -262,6 +278,7 @@ a3db307c-e1bf-4cdc-9cbb-b18e4d50b066,PNL Sector 1,2023-05-10T06:53:50.482Z,1c105
 a565fc6e-0621-424e-ad16-46f3c9e4d564,PNL Pitești,2023-02-22T10:54:01.981Z,5f723a07-016c-488d-bbb8-a28cdc4ea778,PNL,true,true,Romania,ro,1140563426028729,PNL Pitești,Facebook
 a6883183-c975-4d25-80b8-fe28effe9785,PNL Sendreni,2023-09-03T05:07:02.383Z,3a3c90de-a300-430c-9324-cce5a1243276,PNL,true,true,Romania,ro,356052881647967,PNL Sendreni,Facebook
 a82a9f1c-0a5f-41b8-8698-bea6295c803c,PNL Coșești,2023-07-31T12:52:14.216Z,e9ae8303-fdf5-494b-aed5-71fb73eceff1,PNL,true,true,Romania,ro,237482543654497,PNL Coșești,Facebook
+a9ce569c-d88c-4de7-abe5-b5581bc16b94,PNL Drăgășani,2023-12-16T05:06:58.303Z,78642112-c4e6-412d-8949-68cc79c4cd6c,PNL,true,true,Romania,ro,1717984828477411,PNL Drăgășani,Facebook
 acbd7f81-308d-43ca-bfa3-75ce3f0dd12b,Florin-Alexandru Alexe,2023-02-07T15:05:00.574Z,cb464b18-17f2-4739-9cea-e9188631d187,PNL,true,true,Romania,ro,412140715514446,Florin-Alexandru Alexe,Facebook
 af1698e0-09d4-4c12-b8de-abb65c40e45f,,2023-05-17T06:53:02.701Z,3ee3f97e-333c-417f-ad8a-f62d010c66b2,PNL,true,true,Romania,ro,1165695813506096,,Facebook
 af83734c-f965-4119-9fc5-bc9627fb5a27,PNL Olt,2023-03-06T10:53:53.422Z,2d394e2c-a4e2-49a8-b484-5a727d25fe06,PNL,true,true,Romania,ro,533912330091050,PNL Olt,Facebook
@@ -277,14 +294,19 @@ bd57c503-27e6-4836-b86e-2ddbd9fd6f43,PNL Călinești Argeș,2023-02-26T10:53:57.
 bf9257ca-0a11-4459-bc9b-fbd26fcd9405,Oana Marciana Özmen,2023-02-10T10:53:56.229Z,6cf1f694-6945-4224-88a2-e8fc7ffa559d,PNL,true,true,Romania,ro,1634415100191327,Oana Marciana Özmen,Facebook
 c039674c-d7e3-4d72-82a5-a266de6d998c,PNL Stefanesti AG,2023-05-18T06:53:46.609Z,2c585191-5768-4e97-8ee8-c9af70885698,PNL,true,true,Romania,ro,871128232947897,PNL Stefanesti AG,Facebook
 c4b64cb5-8104-469f-8a01-5b67be7533c9,Diana Mardarovici,2023-02-07T15:05:01.107Z,0e06b7ed-1d8e-4380-a8c9-855d16f6b684,PNL,true,true,Romania,ro,575680309781551,Diana Mardarovici,Facebook
+c679bab1-d867-423f-a26c-9ff15d373eee,Ivașcu Florina,2023-11-26T05:07:41.067Z,20243bb6-d6d6-4abf-b21c-bd96a1c059e1,PNL,true,true,Romania,ro,141864085677593,Ivașcu Florina,Facebook
 c7234f34-9848-45dd-b891-54a6bdb6c58d,PNL Dambovita,2023-02-07T15:05:00.574Z,eeba0ee2-8bba-427e-b3fc-01ca41c5e13c,PNL,true,true,Romania,ro,1469610256621123,PNL Dambovita,Facebook
 cb1950a8-041d-499c-8a17-2fa7bd1e7153,Vlad Mircea Pufu,2023-05-11T06:53:49.415Z,7c638a37-db9a-4cd5-8cf4-6da351a62336,PNL,true,true,Romania,ro,106177581286223,Vlad Mircea Pufu,Facebook
+cbca29fc-800e-49b1-96ae-fd00478fa3b7,PNL ZALĂU,2023-12-19T05:06:27.712Z,cdfe34df-6786-4773-8aa5-0b450f5f3be3,PNL,true,true,Romania,ro,1550368535216198,PNL ZALĂU,Facebook
 cbfa6350-dbda-4cef-ac03-89450e99fbda,PNL Targu Neamt,2023-10-10T05:07:20.638Z,9ee2d72d-8689-40bc-83d7-a23a049654a0,PNL,true,true,Romania,ro,106551672147337,PNL Targu Neamt,Facebook
 d1c4ff2f-7f46-4659-90ef-69f0480f8756,PNL Margineni,2023-10-04T05:07:11.312Z,acab29e8-47b1-4934-83d9-be5797f2f17e,PNL,true,true,Romania,ro,100986826100157,PNL Margineni,Facebook
+d44fa19e-58a5-4005-93b6-60b7d952eead,PNL Focsani,2024-01-14T05:06:27.356Z,e235f876-4efe-4cef-8109-ab528f129765,PNL,true,true,Romania,ro,436554276386143,PNL Focsani,Facebook
 d821480a-6ba4-4ac1-b6d6-ffd180161fa4,Partidul Național Liberal,2022-08-16T15:24:29.956Z,65a20031-b068-43aa-aa63-9b6716ede92a,PNL,true,true,Romania,ro,181375448581167,Partidul Național Liberal,Facebook
+d8cdd1ef-230f-44a7-aabe-5fbbfeb4be4d,Adrian Voica,2023-11-26T05:07:41.250Z,d9e28b85-0f00-4b13-a064-c284c45a16d2,PNL,true,true,Romania,ro,114023475130169,Adrian Voica,Facebook
 db2238f8-d411-4143-8077-e276084fad6f,Alina Gorghiu,2023-02-07T15:05:00.574Z,30f28ab2-dcaa-4e8f-8322-1dfe60d9953f,PNL,true,true,Romania,ro,821269587938298,Alina Gorghiu,Facebook
 e34f43d4-11df-4cc5-bed0-93ba433a6bd6,PNL Florești,2023-02-07T15:05:01.312Z,da7fab0c-7cf7-48ba-9de1-26268ded3670,PNL,true,true,Romania,ro,114235440119945,PNL Florești,Facebook
 e3d405f9-d6bf-42af-b905-02a5495af5d3,Alexandru Gyorgy,2023-02-12T10:53:39.027Z,e2558b9e-c4f9-4d5b-b9eb-9e4964a5d5e2,PNL,true,true,Romania,ro,101167822409042,Alexandru Gyorgy,Facebook
+e6da8c31-ca25-448e-9ea5-d90d19e4be83,TNL Argeș,2023-12-12T05:07:46.460Z,379da836-7306-40da-97bb-5f2e74586947,PNL,true,true,Romania,ro,535052440369195,TNL Argeș,Facebook
 e6e19d3c-0066-4be1-a71d-b8f996b812e2,Mihaela Andrei - Consilier Municipal Pnl,2023-02-19T10:54:02.305Z,397b1ca0-43d5-488d-b7a0-208737e321f0,PNL,true,true,Romania,ro,644437482249671,Mihaela Andrei - Consilier Municipal Pnl,Facebook
 e88c09fd-2c19-46b4-a4f3-e3a832599425,PNL Grumazesti,2023-10-16T05:07:13.559Z,f9ac183a-e6b8-427d-b09e-6f2ef11df7e4,PNL,true,true,Romania,ro,105799195607308,PNL Grumazesti,Facebook
 eec3c667-7943-48b9-9b53-3a7435e84b0a,PNL Curtea de Arges,2023-03-08T17:36:45.499Z,973dff1c-c80b-46b8-9d5e-d57f045537f9,PNL,true,true,Romania,ro,1847975788757673,PNL Curtea de Arges,Facebook
@@ -298,15 +320,18 @@ fc29b190-acaa-45f1-a621-dade8b19020e,Cristian Niculescu Țâgârlaș,2023-02-07T
 0b1abfdc-2688-4485-9334-39a555377102,Stefan Radu Oprea,2023-02-11T10:53:34.287Z,9d553087-6e2c-4585-8473-3a328f4a3670,PSD,true,true,Romania,ro,425051144215846,Stefan Radu Oprea,Facebook
 0c8efad1-558b-4135-b76c-34a749213767,Lucian N. Romascanu,2023-03-06T10:53:53.143Z,a0b17fe8-7032-46d2-8234-1e87646b21a1,PSD,true,true,Romania,ro,318417928527284,Lucian N. Romascanu,Facebook
 0cb0f53d-7f65-472e-bb95-00d1944444f0,Bogdan Balaniscu,2023-02-07T15:04:59.993Z,69328876-578a-4073-b653-32f4057f6ebe,PSD,true,true,Romania,ro,100187575506085,Bogdan Balaniscu,Facebook
+1367569a-a352-4529-af4d-9bea227f150d,PSD Miroslava,2023-12-27T05:06:52.638Z,d682b2df-8459-485a-8c52-2fa2ef36fe4c,PSD,true,true,Romania,ro,1025282390879638,PSD Miroslava,Facebook
 13808460-89ad-4732-9d72-25e32affce1a,Alexandru Iovescu,2023-02-07T15:05:01.312Z,9a4b15ec-25a0-4db1-b5bf-e323255ebe59,PSD,true,true,Romania,ro,312564186105027,Alexandru Iovescu,Facebook
 13fa9b3d-b373-454e-8e91-9bd911394374,Moga Liliana,2023-03-01T10:53:46.645Z,c558e170-a5e9-49d6-8681-2550bf43621c,PSD,true,true,Romania,ro,204648893268835,Moga Liliana,Facebook
 18fbe511-8fd3-4098-8acf-53f0d91f08a3,Mihai Ritivoiu,2023-02-24T10:53:53.360Z,007ec2e6-9430-4d13-8a62-c9753490855b,PSD,true,true,Romania,ro,311276575895950,Mihai Ritivoiu,Facebook
+1a458714-348c-4716-a895-1f59842937ee,PSD - Snagov,2023-11-20T05:07:22.868Z,a2d9ba5f-cca4-42df-a6e8-681b300fdba5,PSD,true,true,Romania,ro,1513746145538351,PSD - Snagov,Facebook
 1ac076af-a193-4f18-887a-06d0758cc3b0,Sorin Grindeanu,2023-03-08T14:44:14.655Z,b77f6881-dde6-4459-91f3-02a3ce602b9a,PSD,true,true,Romania,ro,1208682419220715,Sorin Grindeanu,Facebook
 2313c594-fed3-4b42-9b15-e66b27187ff2,Gabriel Valer Zetea,2023-02-07T15:05:01.197Z,ebaeda47-ad16-405e-95c8-04c7d90c3e6f,PSD,true,true,Romania,ro,174291436685142,Gabriel Valer Zetea,Facebook
 2525f931-dc54-4ba9-8ba3-7b4886a1f16f,Marcel Ciolacu,2023-02-07T15:04:59.964Z,4208eb66-cafb-4fea-96ee-5d3ed5c2e331,PSD,true,true,Romania,ro,1395939193764858,Marcel Ciolacu,Facebook
 28cc2a72-183a-4c81-a2dc-bd5bfcaa27fd,Deputat PSD Silviu Macovei,2023-02-07T15:05:01.040Z,366b3e02-0e2a-4013-9a13-5735df84c153,PSD,true,true,Romania,ro,1790762164534311,Deputat PSD Silviu Macovei,Facebook
 2dc02c6e-66e8-4427-8eea-b4017b60a3f3,PSD Câmpeni,2023-03-08T18:40:56.185Z,380d7ecd-0608-454d-b7d3-2198cd27baf7,PSD,true,true,Romania,ro,2254647624747931,PSD Câmpeni,Facebook
 30012342-c13b-4fc4-8a7a-09cb3bd6d022,PSD Bihor,2023-07-31T12:52:14.226Z,08ffe983-af06-4a40-b8a8-cfa6830b199f,PSD,true,true,Romania,ro,117848065510546,PSD Bihor,Facebook
+3083e80a-55d7-4b9f-bd46-fb1ea464ac72,PSD Ciuruleasa,2023-11-16T06:58:57.285Z,5bb5d07a-9c58-4037-91a3-7aece9e0584f,PSD,true,true,Romania,ro,107434891439139,PSD Ciuruleasa,Facebook
 3d8a0af7-ddaf-4492-bfea-9eb93d000270,Organizatia Municipala PSD Bârlad,2023-02-08T05:57:27.833Z,2b322ce4-81d4-42d5-838e-fc8e19fe6bbd,PSD,true,true,Romania,ro,1570718999843520,Organizatia Municipala PSD Bârlad,Facebook
 4fdd945a-8304-4a08-bc7d-a5579ac2540c,PSD Sântandrei,2023-06-05T06:53:35.856Z,07218198-b8a9-428b-b4c4-99f44872cc05,PSD,true,true,Romania,ro,102171222557906,PSD Sântandrei,Facebook
 534599ef-2da7-44d2-81a5-26370d1b0576,Alexandru Petrescu,2023-02-27T10:53:51.504Z,2615c474-738d-4d25-a87b-cc68a58fd394,PSD,true,true,Romania,ro,1549421062018459,Alexandru Petrescu,Facebook
@@ -318,10 +343,12 @@ fc29b190-acaa-45f1-a621-dade8b19020e,Cristian Niculescu Țâgârlaș,2023-02-07T
 6774dbd9-a6b5-4139-a8e4-81e0042d176e,Daniel Suciu,2023-02-07T15:04:59.964Z,a5f288eb-3960-4e51-b0d3-494ff01a15b6,PSD,true,true,Romania,ro,108723169291363,Daniel Suciu,Facebook
 6809f087-e196-49a2-87be-0b9fd0d09461,PSD Alba,2023-04-30T06:53:11.174Z,328c9296-c55c-41fd-a822-f5d3d27a1344,PSD,true,true,Romania,ro,340592236419862,PSD Alba,Facebook
 6dda88e8-2ef8-499d-b684-205c18a7027b,Cojocaru Petru Bogdan,2023-02-07T15:04:59.991Z,31092cb3-42e9-44d0-ad56-111e83af76e4,PSD,true,true,Romania,ro,108801900624850,Cojocaru Petru Bogdan,Facebook
+7149665d-9162-481e-a179-586fb1054904,OPSD Mehedinți,2023-11-18T05:07:09.957Z,c65b4972-15f9-4b55-825e-9195857b9aa0,PSD,true,true,Romania,ro,1186769148127139,OPSD Mehedinți,Facebook
 719b7b53-7f4d-4cd9-95cf-7f2d45759969,Ioan Turcin,2023-02-27T10:53:51.740Z,3a26d174-b1cb-467e-b27d-a47b82ab8aac,PSD,true,true,Romania,ro,105791877606395,Ioan Turcin,Facebook
 73f7e1af-4825-4cc9-a9a7-d49f5bb90bd5,Marius Eugen Ostaficiuc,2023-02-25T10:53:54.829Z,d66923c7-235f-4297-9bf5-773cce5bc62b,PSD,true,true,Romania,ro,106739977698088,Marius Eugen Ostaficiuc,Facebook
 76730147-cf5c-4895-ae3c-fbbe8f586614,Laura Vicol,2023-02-07T15:05:00.386Z,dbed2c51-f2d2-4446-826c-c85e7472ce97,PSD,true,true,Romania,ro,104484254797326,Laura Vicol,Facebook
 76887324-204f-4f4d-ba42-393b7c0797f8,PSD Iasi,2023-10-08T05:07:28.626Z,8e45c9b1-76ba-4ac2-be19-262c5570951d,PSD,true,true,Romania,ro,1852885741703458,PSD Iasi,Facebook
+80c90c67-9787-4480-81d6-a1db9c2baa89,PSD Sebeș,2024-01-09T05:06:54.237Z,98b31598-1840-4ea0-a2a2-7730d0d9b104,PSD,true,true,Romania,ro,533863563419776,PSD Sebeș,Facebook
 80cf520d-323e-4095-b197-fc044acf5f8c,PSD Găești,2023-08-04T05:07:51.665Z,25d60940-36f7-444f-9362-b20294bcaa76,PSD,true,true,Romania,ro,731331673635869,PSD Găești,Facebook
 8281268b-446d-44d1-873b-b598124a0198,Lucian Patrascu,2023-02-07T15:04:59.987Z,183d3b66-337e-4db7-ae81-79a00d4e9b54,PSD,true,true,Romania,ro,1133289623473565,Lucian Patrascu,Facebook
 8c80d657-947b-4e93-833f-93bdf73a5f5a,Partidul Social Democrat,2022-08-16T15:24:29.956Z,cd799afb-0f60-4fa7-be07-fb1f6f0c9119,PSD,true,true,Romania,ro,291177524360702,Partidul Social Democrat,Facebook
@@ -334,11 +361,14 @@ a84138bd-b603-4514-be19-972a28100c2f,Bogdan Toader,2023-02-07T15:05:01.206Z,2c3a
 af8d1afe-91ce-4924-ba0b-a653209b48b3,Alfred Simonis,2023-02-25T10:53:54.409Z,074876c9-440a-4b4d-b5d9-cecc483c3a98,PSD,true,true,Romania,ro,243027859216579,Alfred Simonis,Facebook
 b0c1c91f-fd24-4c06-bdb2-06b49e4157c3,Cristi Valentin Misăilă,2023-02-28T10:53:58.606Z,af60d3de-4d42-4b8c-8229-52c58efe1c1f,PSD,true,true,Romania,ro,132253820510443,Cristi Valentin Misăilă,Facebook
 b44b06e8-d3f0-487b-806b-400b26656686,Bogdan Mîndrescu,2023-03-08T15:13:50.346Z,1491d189-1f65-4762-a287-7e8343eead2d,PSD,true,true,Romania,ro,101447775999828,Bogdan Mîndrescu,Facebook
+b6124233-e5a7-4b81-a832-625317f1888f,PSD Prahova,2024-01-10T05:06:31.713Z,77b8d597-bac9-42da-8dcd-7dee30f961b2,PSD,true,true,Romania,ro,1585243028421258,PSD Prahova,Facebook
 b9082f60-7030-4a84-9690-f85ec5680058,Grupul Parlamentar PSD Camera Deputatilor,2023-03-01T10:53:46.331Z,952190b1-8476-4d1b-93ae-f966ecac167a,PSD,true,true,Romania,ro,623391021427907,Grupul Parlamentar PSD Camera Deputatilor,Facebook
 ba78c422-1f9d-49ea-813a-6bfdf3e1dcdc,PSD Municipiul Bistrița,2023-06-24T06:47:45.944Z,810f67c0-f747-4c62-8f8d-c57615a46307,PSD,true,true,Romania,ro,1506702476266241,PSD Municipiul Bistrița,Facebook
 bc233089-4546-44c5-9c81-24801a59b656,PSD NEAMT,2023-05-27T06:53:10.301Z,05904b37-3f3f-400e-8342-dc626fc15692,PSD,true,true,Romania,ro,463917500346335,PSD NEAMT,Facebook
+bf1e0d43-4339-4d66-a9e3-6676607caedd,PSD Gheorgheni Cluj-Napoca,2023-12-11T05:06:41.108Z,a184df08-afd9-4d32-ac13-293a91dc360a,PSD,true,true,Romania,ro,103010038530642,PSD Gheorgheni Cluj-Napoca,Facebook
 c65c5901-95a6-4c88-ad8e-281c28548dea,Robert Cazanciuc,2023-02-07T15:04:59.964Z,09f4252d-d1fb-446d-b49d-8365d145ffc6,PSD,true,true,Romania,ro,102025778125741,Robert Cazanciuc,Facebook
 c7dab31b-b893-4dcb-8887-8881c4090b5f,TSD România,2023-04-09T10:53:36.564Z,e004bee4-6fc2-47bb-9ceb-61e38beaf353,PSD,true,true,Romania,ro,524093900996192,TSD România,Facebook
+cf89443d-518b-4f49-b6c6-d2cef86f736f,PSD Brasov,2023-12-27T05:06:52.135Z,9ed400b7-de11-49d3-a32e-b3dca6af5c0e,PSD,true,true,Romania,ro,336513669713770,PSD Brasov,Facebook
 d223b9d2-f06d-423b-8bcf-39702392c93a,Daniel Harpa,2023-02-22T10:54:01.862Z,c456a045-78b9-4f58-8b7d-dc11f77c2954,PSD,true,true,Romania,ro,233460426760688,Daniel Harpa,Facebook
 d28aa57d-9739-488d-9896-945f848ffc5a,Vasile Dîncu,2023-03-01T10:53:46.565Z,c0d2f7e9-63c1-48b8-8f76-a63ce392a776,PSD,true,true,Romania,ro,1667054373538354,Vasile Dîncu,Facebook
 d2f974f0-17e7-4ba3-af1e-a4a3774dd7a9,PSD Gherla,2023-10-25T05:08:25.387Z,2114ce35-5584-42a5-8c18-d9e8dc95f4ac,PSD,true,true,Romania,ro,1065295346863549,PSD Gherla,Facebook
@@ -348,13 +378,17 @@ d64b1844-f510-4273-82fd-9125a45849ff,Ioan Mang,2023-03-02T10:53:49.842Z,7f893328
 dcdc3e1a-bc9f-4cd8-a434-99d10193f859,PSD Alba Iulia,2023-11-14T12:27:21.918Z,044eabdb-b244-4dc2-867a-d2487060bbc0,PSD,true,true,Romania,ro,974011969350207,PSD Alba Iulia,Facebook
 de75525d-a07a-4390-be4b-d0eaeea976f5,Marius Constantin Budăi,2023-04-07T10:53:38.957Z,1c11c035-df8e-42d5-b40b-29d27deaa696,PSD,true,true,Romania,ro,112479373774600,Marius Constantin Budăi,Facebook
 df018673-896a-405c-a7a8-00a867458ce4,Gelu Panfil,2023-03-04T10:53:56.862Z,d802cef0-2593-4fc9-99e7-6ba7eeb12823,PSD,true,true,Romania,ro,872508899534866,Gelu Panfil,Facebook
+e4662ec8-0269-4d0d-a811-defbf77ac74c,PSD Pingarati,2023-12-11T05:06:41.124Z,14adb119-9f34-436c-a7df-d4a816e523cc,PSD,true,true,Romania,ro,496149817537306,PSD Pingarati,Facebook
 e937df35-cdac-4c4e-a9b8-1005c93b316b,Gabriel Mutu,2023-09-10T05:07:03.906Z,deea0f00-2b91-45a4-8eaa-9b5be6f85a0e,PSD,true,true,Romania,ro,828728423846906,Gabriel Mutu,Facebook
 ea4feaa4-e4c3-472e-97ce-cfc2e630497e,PSD Cernavoda,2023-06-20T05:20:55.958Z,3559230f-22b2-4e75-aef4-2f4f0a1c26cf,PSD,true,true,Romania,ro,660854010634356,PSD Cernavoda,Facebook
+f5180f3a-35cf-4588-ad33-4d13ee486c13,Alexandru Marius Dunca,2024-01-03T05:06:36.970Z,5385581e-f1d9-42a7-8fe7-578feedb47e9,PSD,true,true,Romania,ro,858367900895256,Alexandru Marius Dunca,Facebook
 f9148ea6-bd65-4248-87df-23f16f64728d,Corneliu Muresan,2023-03-02T10:53:49.765Z,9586f365-6611-442d-b35e-5157a2c707ef,PSD,true,true,Romania,ro,101587722591263,Corneliu Muresan,Facebook
 f985be95-54f1-484b-954a-33e6f2b620bd,Nicușor Halici,2023-02-07T15:05:00.313Z,1ff1fe65-55e9-425b-bdd5-f1fe3af14b69,PSD,true,true,Romania,ro,107029625474765,Nicușor Halici,Facebook
 0d82a345-5c23-48f8-abc2-7429d71b7c0d,Iulian Naipeanu,2023-03-02T10:53:49.873Z,e4e5c6eb-e3f3-4c20-941c-927a2c96bea2,AUR,true,true,Romania,ro,113926198259978,Iulian Naipeanu,Facebook
+463c4667-f7a9-48fa-8b44-9ee11aded604,AUR Germania Alianța pentru Unirea Românilor,2023-11-11T05:06:52.064Z,1abe9603-fbba-4814-aace-d65852e06b1f,AUR,true,true,Romania,ro,107152204306430,AUR Germania Alianța pentru Unirea Românilor,Facebook
 4e3067c9-6a63-4fff-9afc-471087d122a3,Susținătorii AUR,2023-05-14T06:53:42.546Z,48661d34-a343-431c-bbe7-b571cfc9ca9b,AUR,true,true,Romania,ro,101125638954378,Susținătorii AUR,Facebook
 59b5061c-b5aa-4e69-b4a1-6dad88d09908,Alianța pentru Unirea Românilor Sălaj,2023-09-12T05:06:37.188Z,1c35a6b5-f620-420f-bb84-e2aec1cf5d1d,AUR,true,true,Romania,ro,108914137434331,Alianța pentru Unirea Românilor Sălaj,Facebook
+79617d74-1884-48e0-8843-b83c629c7103,Tineretul AUR,2023-12-02T17:14:32.209Z,6104bb18-c402-4398-b805-c034bd1ce0a3,AUR,true,true,Romania,ro,134311835456588,Tineretul AUR,Facebook
 8a218297-556e-4e52-8340-ff65f22db947,Alianta pentru Unirea Romanilor - Marginea,2023-10-24T05:07:07.592Z,ba0abde7-ef33-4fd3-85dc-b1def8aac8fe,AUR,true,true,Romania,ro,105116684648056,Alianta pentru Unirea Romanilor - Marginea,Facebook
 a0ff1621-326d-4eb5-996a-94bfe7dc04fa,Alianța pentru Unirea Românilor Buzău,2023-04-27T06:53:32.776Z,91b5373f-f8df-45a8-bed8-68c64b302f1b,AUR,true,true,Romania,ro,518884591591983,Alianța pentru Unirea Românilor Buzău,Facebook
 afaa817a-dabd-4524-bc53-29dd3163d578,Alianța pentru Unirea Romanilor Ialomița,2023-04-21T06:53:45.957Z,52a5a7b9-d31e-44c7-8f80-4dcebf223580,AUR,true,true,Romania,ro,106977887628728,Alianța pentru Unirea Romanilor Ialomița,Facebook
@@ -401,3 +435,4 @@ f55a96a8-a616-431f-a732-3cbe5eec33a6,Forța Dreptei Alba,2023-03-03T10:53:50.368
 921636f9-52eb-4343-93b4-3345e8115a20,Costin Iulian,2023-02-28T10:53:58.624Z,24511b45-4923-4147-80be-4b65cc7279c3,REPER,true,true,Romania,ro,103074994837661,Costin Iulian,Facebook
 d4a3b295-571a-45c3-baab-f2be8751c4bb,REPER Cluj,2023-07-05T06:07:33.671Z,189045e3-966b-482d-a1e5-d9290523ff9e,REPER,true,true,Romania,ro,104842045659467,REPER Cluj,Facebook
 e0d125b7-c16b-4a33-89d5-077599c8ff11,REPER Maramureș,2023-03-12T10:53:47.020Z,efbb77c7-a9a3-4bd2-a845-5db13782a1ea,REPER,true,true,Romania,ro,109489128491555,REPER Maramureș,Facebook
+648233a5-0705-4207-9439-fc4a312a4d2d,Petru Florea,2023-12-20T05:06:47.771Z,32ca44fd-9e73-473a-9a79-e95f29fac56b,PRO,true,true,Romania,ro,114658323574275,Petru Florea,Facebook
