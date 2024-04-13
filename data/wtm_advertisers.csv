@@ -245,13 +245,6 @@ b8ed8368-e598-4ae6-ad08-f2029df61c01,USR Barlad,2023-02-20T10:53:50.796Z,23b1134
 1b9e499c-e64f-47f7-9904-111d468ef5dc,Cosmin Petrescu,2023-05-14T06:53:42.779Z,adbe0eec-7950-4d79-ac3a-7ceac9ba3aee,PNL,Romania,ro,103608188903509,Cosmin Petrescu,Facebook
 f9896168-d45b-4606-9ae1-4ac8f5f90be4,PNL Costești Argeș,2023-04-04T10:53:49.101Z,ae9eb6e7-badf-4db5-8ec1-350535310196,PNL,Romania,ro,167295107428703,PNL Costești Argeș,Facebook
 5f037361-5966-4bdb-98c4-46d0bae90eae,PNL Brașov,2023-06-02T06:53:44.052Z,0a2f7da2-ef1e-4d57-829e-c06b1f92e470,PNL,Romania,ro,1801899166702042,PNL Brașov,Facebook
-2784857b-cf9f-4b4a-b384-7388ea347aef,USR Ilfov,2023-02-22T10:54:01.697Z,43b38aed-db7a-451b-96ae-8517ed2d5e8d,USR,Romania,ro,1871260176434584,USR Ilfov,Facebook
-6e3e2db5-7ccb-47b0-9447-a520ac08a8ad,USR Năvodari,2023-03-08T10:53:46.274Z,77c566f1-20c9-4026-908c-c55aa0546633,USR,Romania,ro,1859195804406999,USR Năvodari,Facebook
-415cedb2-591b-4c17-8b56-a2da72c3fe94,Radu Trufan,2023-03-08T18:40:55.964Z,62cafd50-6d24-48b2-9970-3439d7997e5c,USR,Romania,ro,102130021420312,Radu Trufan,Facebook
-c065c4b9-dcf9-4ea0-969c-e8f848540612,Alexandru Săbădașu,2023-06-23T05:17:00.663Z,cf5a346e-e0e8-483d-9e82-a70261c32bc1,USR,Romania,ro,104181234878407,Alexandru Săbădașu,Facebook
-7f786c88-d5d1-407b-b2ef-964c3854ca47,USR Mediaș,2023-07-10T06:51:31.566Z,09bd2a18-5aad-4f9d-947e-d9de2501b990,USR,Romania,ro,404386353506138,USR Mediaș,Facebook
-afc7a8b2-7a3c-421e-8729-1f807d988179,Sorin Năcuță,2023-02-21T10:53:45.971Z,d19e143c-44ea-45d9-82ec-36cb02ccf49c,PNL,Romania,ro,239145286500903,Sorin Năcuță,Facebook
-64a520a6-ce89-477c-817b-40c73d20044e,Organizația Femeilor Liberale Pitești,2023-03-12T10:53:46.707Z,2df01d6b-a0ab-46c8-aacb-addbd15e9141,PNL,Romania,ro,669185233290571,Organizația Femeilor Liberale Pitești,Facebook
 f652ce34-be9c-46d8-a2f7-9406025ebb6a,USR Arad,2023-02-24T10:53:53.638Z,a8357394-8907-4d7d-9da7-25818a032c33,USR,Romania,ro,1210260295704425,USR Arad,Facebook
 998b4738-5514-4c14-8d5a-ba61f4c65e59,USR Cornetu,2023-03-08T15:23:36.041Z,dbe35dfc-83f5-48dd-9a95-aee0227eadb4,USR,Romania,ro,2032788533635313,USR Cornetu,Facebook
 2377a8d7-08c8-438d-830f-7abeb47bcde8,USR pentru Educație,2023-05-29T06:53:10.315Z,fa161c31-7293-4bc1-99da-daf8894a10cb,USR,Romania,ro,106256121790763,USR pentru Educație,Facebook
@@ -380,9 +373,13 @@ f6c6d6fa-8889-470d-83a4-5997d84a491b,Organizația Femeilor Liberale Râmnicu Vâ
 e88c09fd-2c19-46b4-a4f3-e3a832599425,PNL Grumazesti,2023-10-16T05:07:13.559Z,f9ac183a-e6b8-427d-b09e-6f2ef11df7e4,PNL,Romania,ro,105799195607308,PNL Grumazesti,Facebook
 07704f7d-ad6a-4b28-bfb0-39020e833c1c,PNL Romani,2023-10-09T05:07:17.587Z,367252f6-f32d-4ef8-b8db-ad31158c0875,PNL,Romania,ro,104425822420076,PNL Romani,Facebook
 c4b64cb5-8104-469f-8a01-5b67be7533c9,Diana Mardarovici,2023-02-07T15:05:01.107Z,0e06b7ed-1d8e-4380-a8c9-855d16f6b684,PNL,Romania,ro,575680309781551,Diana Mardarovici,Facebook
-5c02ceea-c898-4b61-93d1-229b8ca4ff0e,Cristian Buican,2023-10-09T05:07:17.647Z,2e7b6394-447b-421a-95c5-cdb58417f263,PNL,Romania,ro,807077632707044,Cristian Buican,Facebook
-b77c822d-e68a-43b3-8fd6-efa8a094b1a4,PNL Icusesti,2023-10-04T05:07:11.304Z,76923408-f93c-4fe5-a7b7-5de687e8383e,PNL,Romania,ro,107098218810216,PNL Icusesti,Facebook
-059d22ad-d93b-4c12-82ab-bdf92bba57ec,PNL Raucesti,2023-10-09T05:07:17.525Z,03559d0c-9e83-43de-942a-a32780847306,PNL,Romania,ro,104367125771483,PNL Raucesti,Facebook
+2784857b-cf9f-4b4a-b384-7388ea347aef,USR Ilfov,2023-02-22T10:54:01.697Z,43b38aed-db7a-451b-96ae-8517ed2d5e8d,USR,Romania,ro,1871260176434584,USR Ilfov,Facebook
+6e3e2db5-7ccb-47b0-9447-a520ac08a8ad,USR Năvodari,2023-03-08T10:53:46.274Z,77c566f1-20c9-4026-908c-c55aa0546633,USR,Romania,ro,1859195804406999,USR Năvodari,Facebook
+415cedb2-591b-4c17-8b56-a2da72c3fe94,Radu Trufan,2023-03-08T18:40:55.964Z,62cafd50-6d24-48b2-9970-3439d7997e5c,USR,Romania,ro,102130021420312,Radu Trufan,Facebook
+c065c4b9-dcf9-4ea0-969c-e8f848540612,Alexandru Săbădașu,2023-06-23T05:17:00.663Z,cf5a346e-e0e8-483d-9e82-a70261c32bc1,USR,Romania,ro,104181234878407,Alexandru Săbădașu,Facebook
+7f786c88-d5d1-407b-b2ef-964c3854ca47,USR Mediaș,2023-07-10T06:51:31.566Z,09bd2a18-5aad-4f9d-947e-d9de2501b990,USR,Romania,ro,404386353506138,USR Mediaș,Facebook
+afc7a8b2-7a3c-421e-8729-1f807d988179,Sorin Năcuță,2023-02-21T10:53:45.971Z,d19e143c-44ea-45d9-82ec-36cb02ccf49c,PNL,Romania,ro,239145286500903,Sorin Năcuță,Facebook
+64a520a6-ce89-477c-817b-40c73d20044e,Organizația Femeilor Liberale Pitești,2023-03-12T10:53:46.707Z,2df01d6b-a0ab-46c8-aacb-addbd15e9141,PNL,Romania,ro,669185233290571,Organizația Femeilor Liberale Pitești,Facebook
 929956de-f809-4475-8db9-018382c78f22,PNL Bodesti,2023-10-10T05:07:20.796Z,25c51c6f-43e6-40ce-b097-7f2694d08893,PNL,Romania,ro,111912804961961,PNL Bodesti,Facebook
 d1c4ff2f-7f46-4659-90ef-69f0480f8756,PNL Margineni,2023-10-04T05:07:11.312Z,acab29e8-47b1-4934-83d9-be5797f2f17e,PNL,Romania,ro,100986826100157,PNL Margineni,Facebook
 28ca4e52-8765-4a71-bd3f-0e71a6bf25c0,PNL Stefan cel Mare,2023-10-16T05:07:13.538Z,423fedc3-f3a0-475b-8f0c-ab568732aab4,PNL,Romania,ro,101305319418339,PNL Stefan cel Mare,Facebook
@@ -445,33 +442,9 @@ dc1302ed-f840-4368-bfad-c6e53313c812,Erdélyi Magyar Látássérültekért Alap�
 4470d33b-bb3b-4f12-a2ec-a1c01fe3e81b,Laica Romania,2023-04-04T10:53:49.110Z,da68b13f-5ad4-44f0-9f46-fca81f5c035d,ZZZ,Romania,ro,1037587893118930,Laica Romania,Facebook
 2cfd15ae-e10a-466d-84df-499568383c40,Strategikon,2023-04-23T06:53:08.848Z,dc9655b0-1841-4667-a246-9a5db704e078,ZZZ,Romania,ro,104793855473920,Strategikon,Facebook
 f4c4a002-23fe-4a75-96cc-d240717825ac,Teatrul National de Opera si Balet Maria Biesu,2023-04-23T06:53:08.904Z,6e172777-3166-47d0-8f6a-ad7e0a16a335,ZZZ,Romania,ro,192785144170168,Teatrul National de Opera si Balet Maria Biesu,Facebook
-3879fcba-729a-447e-9163-6e777d3b4720,Valeriu Iftime,2023-05-01T06:53:18.651Z,20d60eff-3713-48f3-993b-33c3a37c15d0,ZZZ,Romania,ro,103932459326736,Valeriu Iftime,Facebook
-16d11d22-9143-4c5f-952b-74b5cd7cef0f,dariagdsgn,2023-06-12T06:53:10.664Z,944d8a02-d24f-4b5d-8353-d6365c747647,ZZZ,Romania,ro,108682378829580,dariagdsgn,Facebook
-fce773be-9259-45e2-9615-d1a222b54602,Renault Trucks Romania,2023-06-12T06:53:10.684Z,da504a38-ae21-4e86-a17f-6811340e6f8b,ZZZ,Romania,ro,259825531124512,Renault Trucks Romania,Facebook
-88440ddf-2120-40c3-8d02-9bc39525de3f,AXN Romania,2023-07-07T13:16:38.263Z,96ef6e3a-7d26-47c9-a288-9c9e145b4540,ZZZ,Romania,ro,363188807102,AXN Romania,Facebook
-bb498d9b-db11-43a6-8733-07dca4a160bf,The President Limousine,2023-02-23T10:53:48.227Z,7b4736e3-60e3-48bc-aa72-01c1161f673f,ZZZ,Romania,ro,106527772125609,The President Limousine,Facebook
-2a2b02c9-09cf-4c80-a70a-00bbddc5d489,Bookfest - Salonul Internațional de Carte,2023-03-29T10:53:40.869Z,5d9f36c9-78d9-4a99-84b8-acd3af147ab6,ZZZ,Romania,ro,280368728718564,Bookfest - Salonul Internațional de Carte,Facebook
-67a4a9b9-00a4-472b-83d9-d72e46d14f6e,Alianța Antreprenorilor și Agricultorilor Hunedoara,2023-04-16T15:05:51.775Z,6aba3d6e-2456-4c8d-be1c-aa7289a0f4ec,ZZZ,Romania,ro,108879152166658,Alianța Antreprenorilor și Agricultorilor Hunedoara,Facebook
-0c90eb39-32a8-4759-a305-e0c8f965c9fb,eZiarultău,2023-02-09T06:28:17.666Z,09b326c3-219e-45ad-875a-d64f9056b4f4,ZZZ,Romania,ro,555994601561861,eZiarultău,Facebook
-c652000a-42a7-400f-b7b5-3e1f9eb14947,Nosalty,2023-02-07T15:05:01.468Z,b36c54dd-c18d-430c-8446-383a7054ee0b,ZZZ,Romania,ro,188445078461,Nosalty,Facebook
-ef72b950-ec6a-4c50-8e67-48507c4795f1,aico_news,2023-02-07T15:05:00.740Z,7c8c99bc-953a-43b2-aabf-36f3f286f378,ZZZ,Romania,ro,103231785018508,aico_news,Facebook
-a281dfdb-d441-43f4-8eb3-813726fb2307,Axis Communications,2023-02-07T15:05:01.279Z,8a877024-cab3-4703-a11b-a7e304ac3bf1,ZZZ,Romania,ro,1056552677786617,Axis Communications,Facebook
-d3416e91-dbce-4723-811b-eb73c72716f9,cugetari.emancipate,2023-02-08T05:57:27.934Z,e7e4bab2-8f6a-4f99-9193-03e34ea2aa6f,ZZZ,Romania,ro,106128408976310,cugetari.emancipate,Facebook
-2ea64bdb-a88e-47c4-a7b9-53561d3f2eba,Babel Școală și Liceu,2023-02-08T05:57:27.967Z,7f08922f-4c0b-4a8c-af6d-eeea6dfd60db,ZZZ,Romania,ro,496798537191628,Babel Școală și Liceu,Facebook
-41b46d07-832a-45b3-bcc4-308362b11063,Noutăți Și Evenimente Romgaz,2023-07-23T05:08:10.698Z,55c6c67b-8763-42c0-ab2e-fa328f82ee70,ZZZ,Romania,ro,115198274972446,Noutăți Și Evenimente Romgaz,Facebook
-da245d7a-9df9-4c85-a20e-b9ec45b1306e,Litera Educațional,2023-07-23T05:08:11.060Z,5b16902a-1e27-41aa-a085-5499d5f86e64,ZZZ,Romania,ro,102253747978662,Litera Educațional,Facebook
-a947f44d-c612-4ce3-abc1-11890ed9a2c1,Lib Humanitas,2023-02-22T10:54:02.028Z,1ce3426c-869c-481b-911d-65083858f87b,ZZZ,Romania,ro,148444565222546,Lib Humanitas,Facebook
-a7305ce2-4d7d-4592-bdec-dd4e68d6ba47,Patronatul Producătorilor de Tâmplărie Termoizolantă,2023-04-26T06:53:46.404Z,98f7816d-d398-419d-8825-777bfb781c16,ZZZ,Romania,ro,227267277434974,Patronatul Producătorilor de Tâmplărie Termoizolantă,Facebook
-cbc1a921-c9f4-46be-92b7-f1dca81d1771,ROD Festival,2023-05-02T06:53:33.839Z,14ae63a6-4302-492c-98a0-3878b56698cb,ZZZ,Romania,ro,494399267295882,ROD Festival,Facebook
-e10919c4-3c0d-4fcb-b7ff-71ee7811dc96,Inspira International School,2023-05-04T06:53:12.566Z,76c1ce7a-4e71-4264-813f-2fca6f801a28,ZZZ,Romania,ro,102544325391398,Inspira International School,Facebook
-0fc2d0f8-fa30-4edc-8dd8-d0102391e098,Csíkszeredai Könyvvásár,2023-05-08T06:53:16.043Z,1139faa6-eb30-4ed4-ab2a-5d36b2012cfd,ZZZ,Romania,ro,164790560895516,Csíkszeredai Könyvvásár,Facebook
-51256309-9e83-4e43-aee3-6365cb59e9a5,Orbán Balázs Akadémia,2023-05-10T06:53:50.522Z,315767f2-95f6-481a-bd22-a8d5f5305671,ZZZ,Romania,ro,1200997296577379,Orbán Balázs Akadémia,Facebook
-dc5ac424-08a8-44a6-a409-bc2daac1960e,Sindicatul Forum din Primaria Municipiului București,2023-03-08T18:40:56.306Z,e3a85193-5788-47e5-b8ba-431d92ced389,ZZZ,Romania,ro,104568927924902,Sindicatul Forum din Primaria Municipiului București,Facebook
-a8f15b6c-630b-45a1-a1be-0600e6f9de92,Iubește Moroșenește,2023-03-08T19:02:15.457Z,f60ea84a-5d27-466c-a71d-beb7ec3137a9,ZZZ,Romania,ro,1085467844958092,Iubește Moroșenește,Facebook
-f1642219-4129-4b5a-a91f-ca795ee36728,Asociația Pescarilor Sportivi Brăila - Galați,2023-05-19T06:53:36.414Z,57d434fa-3c8b-4da1-9141-2962e906b412,ZZZ,Romania,ro,135251643824697,Asociația Pescarilor Sportivi Brăila - Galați,Facebook
-6b99dff1-9ba3-4227-a470-2be1c07329fe,OMV Petrom,2023-05-30T06:53:43.591Z,178cb762-f466-4b9d-b640-e55f7c29f428,ZZZ,Romania,ro,151927328156638,OMV Petrom,Facebook
-73879c36-2d43-42b4-a980-eef0dc421786,Libertatea pentru Femei,2023-06-23T06:15:35.178Z,4b31b1ce-8379-460f-88fe-623a8275bc4f,ZZZ,Romania,ro,431061226927787,Libertatea pentru Femei,Facebook
-ed3351b4-cb2b-4c15-971d-52b6a92cf634,Revista AVANTAJE,2023-06-23T06:15:35.202Z,531425d9-4eb7-4288-9307-ea6e5d669402,ZZZ,Romania,ro,119879218026441,Revista AVANTAJE,Facebook
+5c02ceea-c898-4b61-93d1-229b8ca4ff0e,Cristian Buican,2023-10-09T05:07:17.647Z,2e7b6394-447b-421a-95c5-cdb58417f263,PNL,Romania,ro,807077632707044,Cristian Buican,Facebook
+b77c822d-e68a-43b3-8fd6-efa8a094b1a4,PNL Icusesti,2023-10-04T05:07:11.304Z,76923408-f93c-4fe5-a7b7-5de687e8383e,PNL,Romania,ro,107098218810216,PNL Icusesti,Facebook
+059d22ad-d93b-4c12-82ab-bdf92bba57ec,PNL Raucesti,2023-10-09T05:07:17.525Z,03559d0c-9e83-43de-942a-a32780847306,PNL,Romania,ro,104367125771483,PNL Raucesti,Facebook
 79bf987a-3278-4454-9190-6bf01bc105dd,RMDSZ Galac - UDMR Galați,2023-12-22T05:06:47.110Z,a0778f0d-3448-47f4-82fe-927383ef77a6,UDMR,Romania,ro,190857324106796,RMDSZ Galac - UDMR Galați,Facebook
 f5180f3a-35cf-4588-ad33-4d13ee486c13,Alexandru Marius Dunca,2024-01-03T05:06:36.970Z,5385581e-f1d9-42a7-8fe7-578feedb47e9,PSD,Romania,ro,858367900895256,Alexandru Marius Dunca,Facebook
 f5bcce8a-601c-4efd-92e7-fa5a9e9a75f8,USR Câmpia Turzii,2023-12-11T05:06:41.024Z,437bd2d6-a12b-4087-bc20-98b4b84b363e,USR,Romania,ro,1904015986577702,USR Câmpia Turzii,Facebook
@@ -509,6 +482,34 @@ f52d92c5-2ce6-480c-a3c1-a5e8aabd1882,USR Călărași,2023-12-12T05:07:46.580Z,3a
 553dc5c1-321e-4b77-a36f-45139df74bc3,Brezeanu Gabriel,2023-11-18T05:07:09.975Z,a0d813c6-afbd-4983-88fe-185f5f30d08c,PNL,Romania,ro,134360129764877,Brezeanu Gabriel,Facebook
 46fa1300-fa54-490f-b550-be6bb0587b88,Partidul S.O.S România - Filiala Galați,2023-02-07T15:05:01.002Z,3ecaecdf-c846-4954-a729-c7f06c39d5ed,SOS,Romania,ro,106622998770089,Partidul S.O.S România - Filiala Galați,Facebook
 0285c175-3d6b-4242-88a0-b2bc8edc08ed,Partidul S.O.S România-Filiala Periam-Timiș,2023-09-25T05:07:10.350Z,ac872ced-cdde-4f88-9658-ecea0e19adc1,SOS,Romania,ro,139064855950188,Partidul S.O.S România-Filiala Periam-Timiș,Facebook
+9b9c21d2-79e5-4a31-a093-81c1407ab8e8,Universitatea POLITEHNICA din București,2023-03-05T10:53:57.673Z,6df39a74-80d3-4c84-80eb-7ea08bec47b7,ZZZ,Romania,ro,100527086679302,Universitatea POLITEHNICA din București,Facebook
+3879fcba-729a-447e-9163-6e777d3b4720,Valeriu Iftime,2023-05-01T06:53:18.651Z,20d60eff-3713-48f3-993b-33c3a37c15d0,ZZZ,Romania,ro,103932459326736,Valeriu Iftime,Facebook
+16d11d22-9143-4c5f-952b-74b5cd7cef0f,dariagdsgn,2023-06-12T06:53:10.664Z,944d8a02-d24f-4b5d-8353-d6365c747647,ZZZ,Romania,ro,108682378829580,dariagdsgn,Facebook
+fce773be-9259-45e2-9615-d1a222b54602,Renault Trucks Romania,2023-06-12T06:53:10.684Z,da504a38-ae21-4e86-a17f-6811340e6f8b,ZZZ,Romania,ro,259825531124512,Renault Trucks Romania,Facebook
+88440ddf-2120-40c3-8d02-9bc39525de3f,AXN Romania,2023-07-07T13:16:38.263Z,96ef6e3a-7d26-47c9-a288-9c9e145b4540,ZZZ,Romania,ro,363188807102,AXN Romania,Facebook
+bb498d9b-db11-43a6-8733-07dca4a160bf,The President Limousine,2023-02-23T10:53:48.227Z,7b4736e3-60e3-48bc-aa72-01c1161f673f,ZZZ,Romania,ro,106527772125609,The President Limousine,Facebook
+2a2b02c9-09cf-4c80-a70a-00bbddc5d489,Bookfest - Salonul Internațional de Carte,2023-03-29T10:53:40.869Z,5d9f36c9-78d9-4a99-84b8-acd3af147ab6,ZZZ,Romania,ro,280368728718564,Bookfest - Salonul Internațional de Carte,Facebook
+67a4a9b9-00a4-472b-83d9-d72e46d14f6e,Alianța Antreprenorilor și Agricultorilor Hunedoara,2023-04-16T15:05:51.775Z,6aba3d6e-2456-4c8d-be1c-aa7289a0f4ec,ZZZ,Romania,ro,108879152166658,Alianța Antreprenorilor și Agricultorilor Hunedoara,Facebook
+0c90eb39-32a8-4759-a305-e0c8f965c9fb,eZiarultău,2023-02-09T06:28:17.666Z,09b326c3-219e-45ad-875a-d64f9056b4f4,ZZZ,Romania,ro,555994601561861,eZiarultău,Facebook
+c652000a-42a7-400f-b7b5-3e1f9eb14947,Nosalty,2023-02-07T15:05:01.468Z,b36c54dd-c18d-430c-8446-383a7054ee0b,ZZZ,Romania,ro,188445078461,Nosalty,Facebook
+ef72b950-ec6a-4c50-8e67-48507c4795f1,aico_news,2023-02-07T15:05:00.740Z,7c8c99bc-953a-43b2-aabf-36f3f286f378,ZZZ,Romania,ro,103231785018508,aico_news,Facebook
+a281dfdb-d441-43f4-8eb3-813726fb2307,Axis Communications,2023-02-07T15:05:01.279Z,8a877024-cab3-4703-a11b-a7e304ac3bf1,ZZZ,Romania,ro,1056552677786617,Axis Communications,Facebook
+d3416e91-dbce-4723-811b-eb73c72716f9,cugetari.emancipate,2023-02-08T05:57:27.934Z,e7e4bab2-8f6a-4f99-9193-03e34ea2aa6f,ZZZ,Romania,ro,106128408976310,cugetari.emancipate,Facebook
+2ea64bdb-a88e-47c4-a7b9-53561d3f2eba,Babel Școală și Liceu,2023-02-08T05:57:27.967Z,7f08922f-4c0b-4a8c-af6d-eeea6dfd60db,ZZZ,Romania,ro,496798537191628,Babel Școală și Liceu,Facebook
+41b46d07-832a-45b3-bcc4-308362b11063,Noutăți Și Evenimente Romgaz,2023-07-23T05:08:10.698Z,55c6c67b-8763-42c0-ab2e-fa328f82ee70,ZZZ,Romania,ro,115198274972446,Noutăți Și Evenimente Romgaz,Facebook
+da245d7a-9df9-4c85-a20e-b9ec45b1306e,Litera Educațional,2023-07-23T05:08:11.060Z,5b16902a-1e27-41aa-a085-5499d5f86e64,ZZZ,Romania,ro,102253747978662,Litera Educațional,Facebook
+a947f44d-c612-4ce3-abc1-11890ed9a2c1,Lib Humanitas,2023-02-22T10:54:02.028Z,1ce3426c-869c-481b-911d-65083858f87b,ZZZ,Romania,ro,148444565222546,Lib Humanitas,Facebook
+a7305ce2-4d7d-4592-bdec-dd4e68d6ba47,Patronatul Producătorilor de Tâmplărie Termoizolantă,2023-04-26T06:53:46.404Z,98f7816d-d398-419d-8825-777bfb781c16,ZZZ,Romania,ro,227267277434974,Patronatul Producătorilor de Tâmplărie Termoizolantă,Facebook
+cbc1a921-c9f4-46be-92b7-f1dca81d1771,ROD Festival,2023-05-02T06:53:33.839Z,14ae63a6-4302-492c-98a0-3878b56698cb,ZZZ,Romania,ro,494399267295882,ROD Festival,Facebook
+e10919c4-3c0d-4fcb-b7ff-71ee7811dc96,Inspira International School,2023-05-04T06:53:12.566Z,76c1ce7a-4e71-4264-813f-2fca6f801a28,ZZZ,Romania,ro,102544325391398,Inspira International School,Facebook
+0fc2d0f8-fa30-4edc-8dd8-d0102391e098,Csíkszeredai Könyvvásár,2023-05-08T06:53:16.043Z,1139faa6-eb30-4ed4-ab2a-5d36b2012cfd,ZZZ,Romania,ro,164790560895516,Csíkszeredai Könyvvásár,Facebook
+51256309-9e83-4e43-aee3-6365cb59e9a5,Orbán Balázs Akadémia,2023-05-10T06:53:50.522Z,315767f2-95f6-481a-bd22-a8d5f5305671,ZZZ,Romania,ro,1200997296577379,Orbán Balázs Akadémia,Facebook
+dc5ac424-08a8-44a6-a409-bc2daac1960e,Sindicatul Forum din Primaria Municipiului București,2023-03-08T18:40:56.306Z,e3a85193-5788-47e5-b8ba-431d92ced389,ZZZ,Romania,ro,104568927924902,Sindicatul Forum din Primaria Municipiului București,Facebook
+a8f15b6c-630b-45a1-a1be-0600e6f9de92,Iubește Moroșenește,2023-03-08T19:02:15.457Z,f60ea84a-5d27-466c-a71d-beb7ec3137a9,ZZZ,Romania,ro,1085467844958092,Iubește Moroșenește,Facebook
+f1642219-4129-4b5a-a91f-ca795ee36728,Asociația Pescarilor Sportivi Brăila - Galați,2023-05-19T06:53:36.414Z,57d434fa-3c8b-4da1-9141-2962e906b412,ZZZ,Romania,ro,135251643824697,Asociația Pescarilor Sportivi Brăila - Galați,Facebook
+6b99dff1-9ba3-4227-a470-2be1c07329fe,OMV Petrom,2023-05-30T06:53:43.591Z,178cb762-f466-4b9d-b640-e55f7c29f428,ZZZ,Romania,ro,151927328156638,OMV Petrom,Facebook
+73879c36-2d43-42b4-a980-eef0dc421786,Libertatea pentru Femei,2023-06-23T06:15:35.178Z,4b31b1ce-8379-460f-88fe-623a8275bc4f,ZZZ,Romania,ro,431061226927787,Libertatea pentru Femei,Facebook
+ed3351b4-cb2b-4c15-971d-52b6a92cf634,Revista AVANTAJE,2023-06-23T06:15:35.202Z,531425d9-4eb7-4288-9307-ea6e5d669402,ZZZ,Romania,ro,119879218026441,Revista AVANTAJE,Facebook
 247100c8-9487-4e08-be93-da9bf49b9e11,Life Care,2023-06-04T06:53:09.086Z,17adaa64-777d-4276-8626-288925065783,ZZZ,Romania,ro,103447376107003,Life Care,Facebook
 2df0cc05-1d8b-4844-89a7-a9b280350bb7,Panorama.ro,2023-02-07T15:05:00.624Z,4ec61416-5ea4-49f1-861c-7a57ebed7a6e,ZZZ,Romania,ro,107066808189586,Panorama.ro,Facebook
 e73ea214-e306-43f1-ac02-85496b6061d9,Societatea pentru Proiecte Morale Structurate Calitativ,2023-02-14T10:53:51.063Z,dd2b4307-0c36-4967-a7ca-3a3bf85a251e,ZZZ,Romania,ro,129456640529106,Societatea pentru Proiecte Morale Structurate Calitativ,Facebook
@@ -529,6 +530,58 @@ d8f8f091-a545-4d2e-ba3d-a5bdd4c82bbe,Editura Cuantic,2023-02-21T10:53:46.174Z,23
 9dc273a5-59a2-4167-8dcc-9978126d04ad,British Council Romania,2023-08-28T05:06:56.442Z,2dc5ca71-3650-4b80-b21b-b6d3f2d9fc9c,ZZZ,Romania,ro,203016430996,British Council Romania,Facebook
 e41756fc-4974-4e5f-884e-80ef17ae2faf,Tikaboo Romania,2023-08-28T05:06:57.083Z,8a0ad34f-437d-42be-8fcb-8efd6951e182,ZZZ,Romania,ro,617570241716349,Tikaboo Romania,Facebook
 9d3b1b32-61f2-49f1-a205-4f942f337753,Romane de neuitat,2023-02-23T10:53:48.037Z,8ba0aed3-4f40-4c15-acd6-5aa2f848b540,ZZZ,Romania,ro,103461272005103,Romane de neuitat,Facebook
+c646fd7c-8532-4713-a2bf-e45b4e9ca8a2,Primăria Bodești,2023-03-05T10:53:57.709Z,5d1b2a0c-393a-4fc0-b065-2194a08a8478,ZZZ,Romania,ro,101363907989983,Primăria Bodești,Facebook
+bd56fc07-607c-40a7-a6e9-a48c13e1aeaa,C.S. Silvicultorul Maieru,2023-03-05T10:53:57.968Z,1bce10e8-8781-4075-a2ef-4c382753d8b2,ZZZ,Romania,ro,101622669355670,C.S. Silvicultorul Maieru,Facebook
+772e8ec3-e9c3-4e66-a29b-07d0c2106ce1,Vagabond Studio #madebysociety,2023-03-05T10:53:57.970Z,4ed6b919-27c7-4cf7-8f9f-9dc5827a8a13,ZZZ,Romania,ro,1508626542718669,Vagabond Studio #madebysociety,Facebook
+6cbab03c-789e-40d6-b8bd-2dd488078907,Aqua Rius,2023-08-02T05:07:53.655Z,313ee8df-e50c-42eb-8667-3679603eca7e,ZZZ,Romania,ro,104025226059160,Aqua Rius,Facebook
+ea753f94-14fc-42ca-a9d4-e0f2761bf9d1,Best Germany Autos Arad,2023-08-02T05:07:53.656Z,796789a9-b01c-474e-b543-43c499fb05fd,ZZZ,Romania,ro,100146543175468,Best Germany Autos Arad,Facebook
+2a9e403e-ac78-4feb-bbb9-cb3e49b90da9,Stefan Sandu - Life and Bussines Coach / Master Trainer NLP Terapeutic,2023-03-06T10:53:53.536Z,43cee580-6682-426b-aa24-2d44a01f5708,ZZZ,Romania,ro,1716756635220733,Stefan Sandu - Life and Bussines Coach / Master Trainer NLP Terapeutic,Facebook
+1f614c3d-6d87-4940-8c5c-513cfaf0b868,Revista Biz,2023-03-06T10:53:53.362Z,09d7feaf-9cc7-4bc3-85c1-4e70de7efee5,ZZZ,Romania,ro,50289870862,Revista Biz,Facebook
+8594494f-4a69-49e9-a052-0313688160a6,Transtelex.ro,2023-03-06T10:53:53.425Z,ced41113-ddd6-451f-a0b5-94181130e7fe,ZZZ,Romania,ro,104516198809853,Transtelex.ro,Facebook
+f50bac7b-3b2c-4f72-be01-d060a66b0984,1896.home,2023-11-11T05:06:52.064Z,8b269dc7-fd40-4a56-a542-af219f4bcdf1,ZZZ,Romania,ro,106165965731375,1896.home,Facebook
+c443b356-a11e-490c-ae00-9ade3f94a63d,Eco BriQ,2023-03-08T10:53:46.727Z,f57f9f1e-d21b-42db-b925-1b9e088de7dc,ZZZ,Romania,ro,113979251614281,Eco BriQ,Facebook
+7caddbac-4a1f-460e-91e7-ad2fd9327025,"Universitatea de Vest ""Vasile Goldis"" din Arad",2023-03-08T14:44:14.799Z,5d358a2e-e3a7-473a-8d54-2f49ca1a56b9,ZZZ,Romania,ro,293933050636354,"Universitatea de Vest ""Vasile Goldis"" din Arad",Facebook
+9cbfcc2b-5042-4a25-8726-49406f210ac8,POOL 4 NEETs - 149217,2023-03-08T14:44:14.983Z,e908bbeb-e588-4938-b9b9-755d8c8fb8b6,ZZZ,Romania,ro,100882019188057,POOL 4 NEETs - 149217,Facebook
+80ff6050-f15e-4519-90fa-79c61a5a8bdc,Alexandru Mușătoiu,2023-03-08T14:44:14.818Z,604d711a-aa23-4509-a4ea-934b8a222a78,ZZZ,Romania,ro,163535503800528,Alexandru Mușătoiu,Facebook
+706aca74-f2f5-4b2b-a57c-8f679017be34,Teatrul Fără Nume,2023-09-24T05:07:15.965Z,36e025fd-234d-4d7a-8139-5d74b218af59,ZZZ,Romania,ro,2229791760621058,Teatrul Fără Nume,Facebook
+1a09e8d9-b604-464e-8d02-3920582fad6c,Academia de Politie,2023-09-24T05:07:15.903Z,8aed9b0c-b5c3-44e0-a4c8-a31e4730e6d1,ZZZ,Romania,ro,136134236406564,Academia de Politie,Facebook
+045f8a22-068c-4536-87e1-709168c76de3,Superdent 92,2023-11-11T05:06:51.462Z,a572d7e2-d512-480a-bf18-2be71665e998,ZZZ,Romania,ro,122434777868916,Superdent 92,Facebook
+f9c264b3-7f74-4320-8895-5c33c163d9d4,TVAction,2023-03-08T14:54:03.409Z,b2f1d4aa-13a0-42ef-946d-bb077c88b929,ZZZ,Romania,ro,280692145787257,TVAction,Facebook
+7cef0566-748e-4bfc-b2a4-901d111e754c,voyo.ro,2023-12-11T05:06:40.800Z,17bdd849-200f-4aad-a6c1-7c9160cfb490,ZZZ,Romania,ro,223067997717194,voyo.ro,Facebook
+3d3fcad7-713e-450f-8e82-7ae66717ac7e,SCOALA DE MACHIAJ FOREVER YOUNG PARIS,2023-10-26T05:07:11.606Z,12c852b0-20f7-4c08-a8e5-8ecd779782b7,ZZZ,Romania,ro,1490691481146294,SCOALA DE MACHIAJ FOREVER YOUNG PARIS,Facebook
+ccadc7ff-65eb-4693-ae67-c0104ee131e8,UCDR,2023-03-08T15:04:04.712Z,7241adcc-0180-475a-b9b2-9dbb75fe5035,ZZZ,Romania,ro,206346809400257,UCDR,Facebook
+e1d68b6e-95e2-4094-a7e6-915524022324,MyOwnTree.org,2023-03-08T15:04:04.656Z,cba325aa-5ecd-4125-8e6b-bab23aec17a4,ZZZ,Romania,ro,1189234427895124,MyOwnTree.org,Facebook
+bb25538c-cd03-4d3c-a2aa-d5bd37b58c88,Trust Engagement Consulting,2023-03-08T15:04:04.712Z,5d25aa8e-0f18-4a08-9700-b9373c0b14b5,ZZZ,Romania,ro,103892735871598,Trust Engagement Consulting,Facebook
+629e9471-6383-4738-9c7e-f2e0264b959b,Cetateni activi in Podisul Mediasului,2023-03-08T15:13:50.557Z,2562a84f-b8bc-4cef-88d0-2b4c56a7f5ff,ZZZ,Romania,ro,112668274248829,Cetateni activi in Podisul Mediasului,Facebook
+af3d1fd0-24e9-4408-b51e-0de1029f1e29,Strict Secret,2023-03-08T15:23:35.938Z,8b153b89-a688-43fd-8d75-364b41b05cb5,ZZZ,Romania,ro,229090462412338,Strict Secret,Facebook
+e4c036e6-7864-41ed-8919-46ffe9d66b51,NataliiaSelezneva,2023-03-08T15:43:01.070Z,afe462bf-0de0-4563-b7ea-7db2bd03a863,ZZZ,Romania,ro,106113335678200,NataliiaSelezneva,Facebook
+f1167505-fe09-42a2-b415-1ee9e74a5a8b,MedLife - Genesys,2023-03-08T15:43:01.148Z,526f6f1c-f716-4d69-8176-79059c851e0f,ZZZ,Romania,ro,319032008187853,MedLife - Genesys,Facebook
+92ce570b-4157-42ef-b6e3-4307ae2a5dab,Shine Yoga,2023-03-08T15:53:02.614Z,b546cc0d-f712-4653-a032-2ca8f8548f73,ZZZ,Romania,ro,2602611383298730,Shine Yoga,Facebook
+475c0f38-cb3b-4136-9a9f-f897671e391e,We Invent,2023-11-12T05:07:13.808Z,06993f5e-b8d2-41d3-9a4e-f1df460ef562,ZZZ,Romania,ro,155609694450457,We Invent,Facebook
+44c6e087-f4e2-4f61-bacb-829e6bbd302a,Еnеl Cariеre,2023-12-06T05:06:51.492Z,61bb0afb-8653-4fd7-aa06-b089cd1af06a,ZZZ,Romania,ro,118149081391316,Еnеl Cariеre,Facebook
+a47eca74-28d1-4233-aec3-fb1ef8910e26,A-iq AfterSchool,2023-12-06T05:06:51.923Z,11a3930d-0751-4ded-b70c-eb360f2e0519,ZZZ,Romania,ro,119288931259747,A-iq AfterSchool,Facebook
+d663cfea-c8fa-4050-90a6-14d4fc7e1ed2,Lidl Romania,2023-03-08T16:13:18.568Z,dde180e9-aa90-4188-83db-ca5b85adf991,ZZZ,Romania,ro,185899758126310,Lidl Romania,Facebook
+c3417784-b234-49d9-8cfe-1e12784d8199,Nestlé Professional Romania,2023-03-08T16:13:18.675Z,80cc43a3-9bd3-4b40-87cd-a540c3782872,ZZZ,Romania,ro,246513238733636,Nestlé Professional Romania,Facebook
+2631908b-f9c4-4208-ab70-b0f22dfd0c01,Strong&Healthy,2023-12-06T05:06:51.844Z,f9580016-16a3-4be6-aa70-6f543cee181c,ZZZ,Romania,ro,107684245663832,Strong&Healthy,Facebook
+725fe6dd-a9ed-401f-9d16-824a3d812cd6,Santa Brigitta Greta Mediator & Consilier juridic,2023-07-05T06:07:33.966Z,3b066443-8d6d-482c-87d5-2dcf91ef1c2d,ZZZ,Romania,ro,108659102252414,Santa Brigitta Greta Mediator & Consilier juridic,Facebook
+6c61a956-c700-469e-a558-02a70070db84,Facultatea de Istorie și Științe Politice - FISP Oficial,2023-07-05T06:07:34.023Z,aa08b924-aa4d-4037-9913-12ed2c2c0be2,ZZZ,Romania,ro,725195920861997,Facultatea de Istorie și Științe Politice - FISP Oficial,Facebook
+6610b94c-bc76-4fbf-b440-971630ed1774,Q Society,2023-07-05T06:07:33.991Z,18beaa2d-933c-4ad1-8c2c-f935f36ad89a,ZZZ,Romania,ro,109410527108189,Q Society,Facebook
+ed85855e-6c6f-4188-b211-8b835588bb00,Andrey Magic,2023-07-06T06:07:45.946Z,82273800-5703-4ca0-a496-44b3a97a65e2,ZZZ,Romania,ro,115886174858165,Andrey Magic,Facebook
+4b5bee1e-94fe-459b-a35e-71c57fb547c8,Mie îmi pasă,2023-07-06T06:07:45.932Z,36f20d16-9dd8-455b-bf9c-32dc606b5579,ZZZ,Romania,ro,108884494160243,Mie îmi pasă,Facebook
+ee20704e-c772-4b64-9278-42e0a29e9b43,Romanian Business Leaders,2023-08-04T05:07:51.631Z,b91581f3-6718-49aa-9314-e28ca735f0da,ZZZ,Romania,ro,139449442839888,Romanian Business Leaders,Facebook
+7abf1ef3-f8ad-49d6-8a46-4ed37405e624,Apuseni Spirit,2023-07-07T13:16:38.635Z,aca9876b-873b-4df3-a5f4-6315b49753f3,ZZZ,Romania,ro,108046788363445,Apuseni Spirit,Facebook
+5d50561a-f091-4d64-8d30-9647137db04d,Nethuszár,2023-07-07T13:16:38.720Z,6d3be346-7811-42a3-9058-95dc69bae52d,ZZZ,Romania,ro,495301503857485,Nethuszár,Facebook
+5c23c963-d6ed-4645-9b6a-248321151050,Madalina Preda Lash Academy & Salon,2023-07-07T13:16:38.308Z,01350b8c-35dd-47c0-9263-525e5815c117,ZZZ,Romania,ro,100253672075886,Madalina Preda Lash Academy & Salon,Facebook
+109b986e-0143-405a-97e2-a8a175dba7d8,Casa Paleologu,2023-07-07T13:16:38.708Z,4bcfe970-74ac-4fd0-b02e-de56f4174215,ZZZ,Romania,ro,657744697947035,Casa Paleologu,Facebook
+48cbdf2c-3a50-46d9-b021-c467a7e10d4d,All Aboard Romania,2023-07-08T06:07:46.917Z,2c442a5c-3adf-4288-994d-a71b235f0ad8,ZZZ,Romania,ro,102218328265035,All Aboard Romania,Facebook
+33814969-e5a8-4170-9fe9-61b2731918b2,GGt Media,2023-07-08T06:07:46.874Z,0fb17c70-c3fe-4162-8b08-9b659b8bbb22,ZZZ,Romania,ro,109255102224877,GGt Media,Facebook
+9d14d4f4-289d-4b47-afc5-5781c9539ed9,imobiliare.ro,2023-07-09T06:08:36.658Z,12f22126-63b4-4775-aacd-96d60eb0828d,ZZZ,Romania,ro,53617461443,imobiliare.ro,Facebook
+9a72cde2-680c-419b-a597-bff45c8692bb,Adevărul,2023-07-09T06:08:36.450Z,01d485fc-98ed-4ad9-a5bd-f8801e2ca00c,ZZZ,Romania,ro,60005271242,Adevărul,Facebook
+618f0ba0-326b-480d-8620-60d4201e711a,Covasna 45,2023-07-09T06:08:36.631Z,2c12aca4-1b73-4eba-90e1-2deb76673a2c,ZZZ,Romania,ro,116912091276389,Covasna 45,Facebook
+4e47d0a8-c943-4ad2-bc13-6aedf1bcc45b,Stop-At Traficul de persoane,2023-11-28T06:16:44.846Z,fce0461d-9a05-4b33-ae51-d57e88d4b8d7,ZZZ,Romania,ro,101127179030382,Stop-At Traficul de persoane,Facebook
+42b9c50f-392c-4c98-b9bf-5ab8c90f9146,consolid8 Festival,2023-07-10T06:51:31.563Z,1ad23b94-dc7a-49dc-9469-dde3da718058,ZZZ,Romania,ro,102370532598550,consolid8 Festival,Facebook
+4604d4a3-18ca-4caa-9e09-d70b81c84753,Climate Change Summit,2023-09-18T05:07:03.723Z,f67827b8-a7d5-411b-95c0-f8541d9973f1,ZZZ,Romania,ro,102772015802715,Climate Change Summit,Facebook
+3771e50b-c5f5-4d55-bfbf-8b3102dc719e,Social Moms,2023-09-18T05:07:03.788Z,d4684878-113b-4e61-9fb4-0d50b1a45a87,ZZZ,Romania,ro,426476927537538,Social Moms,Facebook
 5f0618d0-9aef-44c2-99e2-6550281a98c0,Corola,2023-02-23T10:53:47.987Z,ed5d0fce-5a1c-46d0-babd-aeb366f1e43c,ZZZ,Romania,ro,109455823104907,Corola,Facebook
 0ba9aa51-701f-4efe-83aa-6975283cc898,CONAF - Confederația Națională pentru Antreprenoriat Feminin,2023-02-23T10:53:48.096Z,c5b112a9-ddb3-438b-a6af-9c84d13562d9,ZZZ,Romania,ro,1895352057238257,CONAF - Confederația Națională pentru Antreprenoriat Feminin,Facebook
 c24ad8c9-be36-4c8f-90eb-2d05d4214791,TicketStore.ro,2023-02-23T10:53:48.310Z,07b1f8cc-ffa0-4e19-be05-ea86ec99399d,ZZZ,Romania,ro,154524984598323,TicketStore.ro,Facebook
@@ -590,59 +643,96 @@ d2aeb1d6-62af-4b5b-94a9-1f96d3375f76,ING Romania,2023-03-04T10:53:56.773Z,8141d1
 b71f22cc-ae28-407e-8fb4-15f093e6f145,UTA Edenred - Romania,2023-03-04T10:53:57.004Z,ffdd791f-179f-4666-acd6-18bfc4f8cfb5,ZZZ,Romania,ro,211170215881211,UTA Edenred - Romania,Facebook
 f1906257-d487-47e5-8b48-9b514386c41f,SEXUL vs BARZA,2023-09-13T05:06:55.915Z,1d7a54ea-b87e-4fb2-a188-fcf00a1fe075,ZZZ,Romania,ro,446825142022199,SEXUL vs BARZA,Facebook
 d0776857-065a-4695-827e-328dc43699f0,Bankwatch Romania,2023-03-05T10:53:57.822Z,61bc0f81-f04a-45f2-b79d-033da697fd5c,ZZZ,Romania,ro,428941830493010,Bankwatch Romania,Facebook
-9b9c21d2-79e5-4a31-a093-81c1407ab8e8,Universitatea POLITEHNICA din București,2023-03-05T10:53:57.673Z,6df39a74-80d3-4c84-80eb-7ea08bec47b7,ZZZ,Romania,ro,100527086679302,Universitatea POLITEHNICA din București,Facebook
-c646fd7c-8532-4713-a2bf-e45b4e9ca8a2,Primăria Bodești,2023-03-05T10:53:57.709Z,5d1b2a0c-393a-4fc0-b065-2194a08a8478,ZZZ,Romania,ro,101363907989983,Primăria Bodești,Facebook
-bd56fc07-607c-40a7-a6e9-a48c13e1aeaa,C.S. Silvicultorul Maieru,2023-03-05T10:53:57.968Z,1bce10e8-8781-4075-a2ef-4c382753d8b2,ZZZ,Romania,ro,101622669355670,C.S. Silvicultorul Maieru,Facebook
-772e8ec3-e9c3-4e66-a29b-07d0c2106ce1,Vagabond Studio #madebysociety,2023-03-05T10:53:57.970Z,4ed6b919-27c7-4cf7-8f9f-9dc5827a8a13,ZZZ,Romania,ro,1508626542718669,Vagabond Studio #madebysociety,Facebook
-6cbab03c-789e-40d6-b8bd-2dd488078907,Aqua Rius,2023-08-02T05:07:53.655Z,313ee8df-e50c-42eb-8667-3679603eca7e,ZZZ,Romania,ro,104025226059160,Aqua Rius,Facebook
-ea753f94-14fc-42ca-a9d4-e0f2761bf9d1,Best Germany Autos Arad,2023-08-02T05:07:53.656Z,796789a9-b01c-474e-b543-43c499fb05fd,ZZZ,Romania,ro,100146543175468,Best Germany Autos Arad,Facebook
-2a9e403e-ac78-4feb-bbb9-cb3e49b90da9,Stefan Sandu - Life and Bussines Coach / Master Trainer NLP Terapeutic,2023-03-06T10:53:53.536Z,43cee580-6682-426b-aa24-2d44a01f5708,ZZZ,Romania,ro,1716756635220733,Stefan Sandu - Life and Bussines Coach / Master Trainer NLP Terapeutic,Facebook
-1f614c3d-6d87-4940-8c5c-513cfaf0b868,Revista Biz,2023-03-06T10:53:53.362Z,09d7feaf-9cc7-4bc3-85c1-4e70de7efee5,ZZZ,Romania,ro,50289870862,Revista Biz,Facebook
-8594494f-4a69-49e9-a052-0313688160a6,Transtelex.ro,2023-03-06T10:53:53.425Z,ced41113-ddd6-451f-a0b5-94181130e7fe,ZZZ,Romania,ro,104516198809853,Transtelex.ro,Facebook
-f50bac7b-3b2c-4f72-be01-d060a66b0984,1896.home,2023-11-11T05:06:52.064Z,8b269dc7-fd40-4a56-a542-af219f4bcdf1,ZZZ,Romania,ro,106165965731375,1896.home,Facebook
-c443b356-a11e-490c-ae00-9ade3f94a63d,Eco BriQ,2023-03-08T10:53:46.727Z,f57f9f1e-d21b-42db-b925-1b9e088de7dc,ZZZ,Romania,ro,113979251614281,Eco BriQ,Facebook
-7caddbac-4a1f-460e-91e7-ad2fd9327025,"Universitatea de Vest ""Vasile Goldis"" din Arad",2023-03-08T14:44:14.799Z,5d358a2e-e3a7-473a-8d54-2f49ca1a56b9,ZZZ,Romania,ro,293933050636354,"Universitatea de Vest ""Vasile Goldis"" din Arad",Facebook
-9cbfcc2b-5042-4a25-8726-49406f210ac8,POOL 4 NEETs - 149217,2023-03-08T14:44:14.983Z,e908bbeb-e588-4938-b9b9-755d8c8fb8b6,ZZZ,Romania,ro,100882019188057,POOL 4 NEETs - 149217,Facebook
-80ff6050-f15e-4519-90fa-79c61a5a8bdc,Alexandru Mușătoiu,2023-03-08T14:44:14.818Z,604d711a-aa23-4509-a4ea-934b8a222a78,ZZZ,Romania,ro,163535503800528,Alexandru Mușătoiu,Facebook
-706aca74-f2f5-4b2b-a57c-8f679017be34,Teatrul Fără Nume,2023-09-24T05:07:15.965Z,36e025fd-234d-4d7a-8139-5d74b218af59,ZZZ,Romania,ro,2229791760621058,Teatrul Fără Nume,Facebook
-1a09e8d9-b604-464e-8d02-3920582fad6c,Academia de Politie,2023-09-24T05:07:15.903Z,8aed9b0c-b5c3-44e0-a4c8-a31e4730e6d1,ZZZ,Romania,ro,136134236406564,Academia de Politie,Facebook
-045f8a22-068c-4536-87e1-709168c76de3,Superdent 92,2023-11-11T05:06:51.462Z,a572d7e2-d512-480a-bf18-2be71665e998,ZZZ,Romania,ro,122434777868916,Superdent 92,Facebook
-f9c264b3-7f74-4320-8895-5c33c163d9d4,TVAction,2023-03-08T14:54:03.409Z,b2f1d4aa-13a0-42ef-946d-bb077c88b929,ZZZ,Romania,ro,280692145787257,TVAction,Facebook
-7cef0566-748e-4bfc-b2a4-901d111e754c,voyo.ro,2023-12-11T05:06:40.800Z,17bdd849-200f-4aad-a6c1-7c9160cfb490,ZZZ,Romania,ro,223067997717194,voyo.ro,Facebook
-3d3fcad7-713e-450f-8e82-7ae66717ac7e,SCOALA DE MACHIAJ FOREVER YOUNG PARIS,2023-10-26T05:07:11.606Z,12c852b0-20f7-4c08-a8e5-8ecd779782b7,ZZZ,Romania,ro,1490691481146294,SCOALA DE MACHIAJ FOREVER YOUNG PARIS,Facebook
-ccadc7ff-65eb-4693-ae67-c0104ee131e8,UCDR,2023-03-08T15:04:04.712Z,7241adcc-0180-475a-b9b2-9dbb75fe5035,ZZZ,Romania,ro,206346809400257,UCDR,Facebook
-e1d68b6e-95e2-4094-a7e6-915524022324,MyOwnTree.org,2023-03-08T15:04:04.656Z,cba325aa-5ecd-4125-8e6b-bab23aec17a4,ZZZ,Romania,ro,1189234427895124,MyOwnTree.org,Facebook
-bb25538c-cd03-4d3c-a2aa-d5bd37b58c88,Trust Engagement Consulting,2023-03-08T15:04:04.712Z,5d25aa8e-0f18-4a08-9700-b9373c0b14b5,ZZZ,Romania,ro,103892735871598,Trust Engagement Consulting,Facebook
-629e9471-6383-4738-9c7e-f2e0264b959b,Cetateni activi in Podisul Mediasului,2023-03-08T15:13:50.557Z,2562a84f-b8bc-4cef-88d0-2b4c56a7f5ff,ZZZ,Romania,ro,112668274248829,Cetateni activi in Podisul Mediasului,Facebook
-af3d1fd0-24e9-4408-b51e-0de1029f1e29,Strict Secret,2023-03-08T15:23:35.938Z,8b153b89-a688-43fd-8d75-364b41b05cb5,ZZZ,Romania,ro,229090462412338,Strict Secret,Facebook
-e4c036e6-7864-41ed-8919-46ffe9d66b51,NataliiaSelezneva,2023-03-08T15:43:01.070Z,afe462bf-0de0-4563-b7ea-7db2bd03a863,ZZZ,Romania,ro,106113335678200,NataliiaSelezneva,Facebook
-f1167505-fe09-42a2-b415-1ee9e74a5a8b,MedLife - Genesys,2023-03-08T15:43:01.148Z,526f6f1c-f716-4d69-8176-79059c851e0f,ZZZ,Romania,ro,319032008187853,MedLife - Genesys,Facebook
-92ce570b-4157-42ef-b6e3-4307ae2a5dab,Shine Yoga,2023-03-08T15:53:02.614Z,b546cc0d-f712-4653-a032-2ca8f8548f73,ZZZ,Romania,ro,2602611383298730,Shine Yoga,Facebook
-475c0f38-cb3b-4136-9a9f-f897671e391e,We Invent,2023-11-12T05:07:13.808Z,06993f5e-b8d2-41d3-9a4e-f1df460ef562,ZZZ,Romania,ro,155609694450457,We Invent,Facebook
-44c6e087-f4e2-4f61-bacb-829e6bbd302a,Еnеl Cariеre,2023-12-06T05:06:51.492Z,61bb0afb-8653-4fd7-aa06-b089cd1af06a,ZZZ,Romania,ro,118149081391316,Еnеl Cariеre,Facebook
-a47eca74-28d1-4233-aec3-fb1ef8910e26,A-iq AfterSchool,2023-12-06T05:06:51.923Z,11a3930d-0751-4ded-b70c-eb360f2e0519,ZZZ,Romania,ro,119288931259747,A-iq AfterSchool,Facebook
-d663cfea-c8fa-4050-90a6-14d4fc7e1ed2,Lidl Romania,2023-03-08T16:13:18.568Z,dde180e9-aa90-4188-83db-ca5b85adf991,ZZZ,Romania,ro,185899758126310,Lidl Romania,Facebook
-c3417784-b234-49d9-8cfe-1e12784d8199,Nestlé Professional Romania,2023-03-08T16:13:18.675Z,80cc43a3-9bd3-4b40-87cd-a540c3782872,ZZZ,Romania,ro,246513238733636,Nestlé Professional Romania,Facebook
-2631908b-f9c4-4208-ab70-b0f22dfd0c01,Strong&Healthy,2023-12-06T05:06:51.844Z,f9580016-16a3-4be6-aa70-6f543cee181c,ZZZ,Romania,ro,107684245663832,Strong&Healthy,Facebook
-725fe6dd-a9ed-401f-9d16-824a3d812cd6,Santa Brigitta Greta Mediator & Consilier juridic,2023-07-05T06:07:33.966Z,3b066443-8d6d-482c-87d5-2dcf91ef1c2d,ZZZ,Romania,ro,108659102252414,Santa Brigitta Greta Mediator & Consilier juridic,Facebook
-6c61a956-c700-469e-a558-02a70070db84,Facultatea de Istorie și Științe Politice - FISP Oficial,2023-07-05T06:07:34.023Z,aa08b924-aa4d-4037-9913-12ed2c2c0be2,ZZZ,Romania,ro,725195920861997,Facultatea de Istorie și Științe Politice - FISP Oficial,Facebook
-6610b94c-bc76-4fbf-b440-971630ed1774,Q Society,2023-07-05T06:07:33.991Z,18beaa2d-933c-4ad1-8c2c-f935f36ad89a,ZZZ,Romania,ro,109410527108189,Q Society,Facebook
-ed85855e-6c6f-4188-b211-8b835588bb00,Andrey Magic,2023-07-06T06:07:45.946Z,82273800-5703-4ca0-a496-44b3a97a65e2,ZZZ,Romania,ro,115886174858165,Andrey Magic,Facebook
-4b5bee1e-94fe-459b-a35e-71c57fb547c8,Mie îmi pasă,2023-07-06T06:07:45.932Z,36f20d16-9dd8-455b-bf9c-32dc606b5579,ZZZ,Romania,ro,108884494160243,Mie îmi pasă,Facebook
-ee20704e-c772-4b64-9278-42e0a29e9b43,Romanian Business Leaders,2023-08-04T05:07:51.631Z,b91581f3-6718-49aa-9314-e28ca735f0da,ZZZ,Romania,ro,139449442839888,Romanian Business Leaders,Facebook
-7abf1ef3-f8ad-49d6-8a46-4ed37405e624,Apuseni Spirit,2023-07-07T13:16:38.635Z,aca9876b-873b-4df3-a5f4-6315b49753f3,ZZZ,Romania,ro,108046788363445,Apuseni Spirit,Facebook
-5d50561a-f091-4d64-8d30-9647137db04d,Nethuszár,2023-07-07T13:16:38.720Z,6d3be346-7811-42a3-9058-95dc69bae52d,ZZZ,Romania,ro,495301503857485,Nethuszár,Facebook
-5c23c963-d6ed-4645-9b6a-248321151050,Madalina Preda Lash Academy & Salon,2023-07-07T13:16:38.308Z,01350b8c-35dd-47c0-9263-525e5815c117,ZZZ,Romania,ro,100253672075886,Madalina Preda Lash Academy & Salon,Facebook
-109b986e-0143-405a-97e2-a8a175dba7d8,Casa Paleologu,2023-07-07T13:16:38.708Z,4bcfe970-74ac-4fd0-b02e-de56f4174215,ZZZ,Romania,ro,657744697947035,Casa Paleologu,Facebook
-48cbdf2c-3a50-46d9-b021-c467a7e10d4d,All Aboard Romania,2023-07-08T06:07:46.917Z,2c442a5c-3adf-4288-994d-a71b235f0ad8,ZZZ,Romania,ro,102218328265035,All Aboard Romania,Facebook
-33814969-e5a8-4170-9fe9-61b2731918b2,GGt Media,2023-07-08T06:07:46.874Z,0fb17c70-c3fe-4162-8b08-9b659b8bbb22,ZZZ,Romania,ro,109255102224877,GGt Media,Facebook
-9d14d4f4-289d-4b47-afc5-5781c9539ed9,imobiliare.ro,2023-07-09T06:08:36.658Z,12f22126-63b4-4775-aacd-96d60eb0828d,ZZZ,Romania,ro,53617461443,imobiliare.ro,Facebook
-9a72cde2-680c-419b-a597-bff45c8692bb,Adevărul,2023-07-09T06:08:36.450Z,01d485fc-98ed-4ad9-a5bd-f8801e2ca00c,ZZZ,Romania,ro,60005271242,Adevărul,Facebook
-618f0ba0-326b-480d-8620-60d4201e711a,Covasna 45,2023-07-09T06:08:36.631Z,2c12aca4-1b73-4eba-90e1-2deb76673a2c,ZZZ,Romania,ro,116912091276389,Covasna 45,Facebook
-4e47d0a8-c943-4ad2-bc13-6aedf1bcc45b,Stop-At Traficul de persoane,2023-11-28T06:16:44.846Z,fce0461d-9a05-4b33-ae51-d57e88d4b8d7,ZZZ,Romania,ro,101127179030382,Stop-At Traficul de persoane,Facebook
-42b9c50f-392c-4c98-b9bf-5ab8c90f9146,consolid8 Festival,2023-07-10T06:51:31.563Z,1ad23b94-dc7a-49dc-9469-dde3da718058,ZZZ,Romania,ro,102370532598550,consolid8 Festival,Facebook
-4604d4a3-18ca-4caa-9e09-d70b81c84753,Climate Change Summit,2023-09-18T05:07:03.723Z,f67827b8-a7d5-411b-95c0-f8541d9973f1,ZZZ,Romania,ro,102772015802715,Climate Change Summit,Facebook
-3771e50b-c5f5-4d55-bfbf-8b3102dc719e,Social Moms,2023-09-18T05:07:03.788Z,d4684878-113b-4e61-9fb4-0d50b1a45a87,ZZZ,Romania,ro,426476927537538,Social Moms,Facebook
+1aee4a24-b8af-472c-8829-b98f52d0288d,Agra Asigurări,2023-03-08T17:57:50.645Z,1f728e64-2974-4e5b-b734-26f39231cc3c,ZZZ,Romania,ro,106715688123735,Agra Asigurări,Facebook
+2995b1f8-9c0a-418a-a265-0e23acf0e0f9,TSD Organizația Județeană Călărași,2023-03-08T17:57:50.660Z,b8cc3315-85b4-400a-a471-50f197720524,ZZZ,Romania,ro,833989853351001,TSD Organizația Județeană Călărași,Facebook
+af88bf09-00de-4bba-a33e-cc411b1836b7,bucharestofficialevents,2023-03-08T18:08:46.818Z,ebd5e2dc-4aec-445f-bd08-e542e8f43a09,ZZZ,Romania,ro,104527608893259,bucharestofficialevents,Facebook
+4f51f2cd-9576-4161-8b25-698fabb2bc65,bizz.club Ploiești Networking,2023-03-08T18:19:19.626Z,4ca49ca6-b96d-46d3-b19d-82b6c1f8ef6e,ZZZ,Romania,ro,901761319903190,bizz.club Ploiești Networking,Facebook
+7419dcfe-4fa5-437e-a442-2019d1826138,Anticriză,2023-03-08T18:19:19.695Z,ab4e4c06-d938-45a1-89bd-8e5039fa0838,ZZZ,Romania,ro,116762651302559,Anticriză,Facebook
+1717293c-4600-4ed4-81c2-5fb41e95ec1e,Radio Vision 24,2023-03-08T18:19:19.719Z,a5a58e12-ec2e-4f5f-8618-844d423682ee,ZZZ,Romania,ro,120942015970917,Radio Vision 24,Facebook
+ec7d0d80-11e2-4b99-883a-523c68895443,Wetterbest,2023-03-08T18:19:19.670Z,03114908-72a3-4d7d-9d77-2ab70931ceda,ZZZ,Romania,ro,227280317283754,Wetterbest,Facebook
+53b7397f-458e-4c38-ab01-bf58851c871f,Thailanda Altfel,2023-03-08T18:30:02.786Z,38b7bf67-0524-4db4-87ac-42d7ea1f3d70,ZZZ,Romania,ro,108691205451382,Thailanda Altfel,Facebook
+027fc375-1157-441c-ba30-e500cb759dc0,Trei Bețivi Bar,2023-03-08T18:30:02.812Z,8efb2a77-9f80-410c-8ef3-2cf3d3f02020,ZZZ,Romania,ro,149446588421265,Trei Bețivi Bar,Facebook
+bf5267ca-89e6-404f-b2f5-4e347f807715,Terre des hommes - Romania,2023-03-08T18:30:02.832Z,269f23f6-fb9c-4021-8828-105d8b580f82,ZZZ,Romania,ro,856883627814621,Terre des hommes - Romania,Facebook
+8292c08e-7fba-4183-b839-884157f99e1d,bespaliuc.catrin_art,2023-03-08T18:30:02.842Z,dbc9e224-204b-4ad5-9c5b-77f254c13894,ZZZ,Romania,ro,104686248959147,bespaliuc.catrin_art,Facebook
+30536005-6990-44af-af50-40768b3ad7a2,Universul Fiscal,2023-03-08T18:40:56.207Z,c5f0814d-e0c5-458e-8033-0304dec3295c,ZZZ,Romania,ro,1801593683498719,Universul Fiscal,Facebook
+7e7730d1-69da-481e-94c2-8c442ea55d55,Brit,2023-03-08T18:40:56.295Z,ac550068-843f-43e0-911d-14a31a68f3b9,ZZZ,Romania,ro,111667524353407,Brit,Facebook
+e78f062a-5501-4f56-80b1-998034cde43f,ProCredit Bank Romania,2023-03-08T18:40:56.293Z,0daaf0a5-d8d9-4046-9052-f734d7ffebbd,ZZZ,Romania,ro,2316295345280857,ProCredit Bank Romania,Facebook
+775780bf-4a5d-4410-87a8-649477f174f5,Electrocasnice Arctic,2023-03-08T19:02:15.433Z,ff27bc18-5168-4f0a-b0a4-5be5068c6a11,ZZZ,Romania,ro,1691529741068979,Electrocasnice Arctic,Facebook
+b55a3518-042c-4676-b016-2c5d1e20a9a7,Propagarta,2023-03-08T18:51:31.124Z,de6c8328-bf3d-444f-b9a1-a6b5a02d33e9,ZZZ,Romania,ro,101724508548402,Propagarta,Facebook
+48204490-9351-4069-8269-79b87c44d43a,H4L - home4life,2023-03-08T19:02:15.330Z,2229fedc-c12e-4a41-a509-3ca32d169845,ZZZ,Romania,ro,358909111252930,H4L - home4life,Facebook
+5f77b192-87fe-4ac6-9ed7-ec39fe31aa27,The Solomon Effect,2023-03-08T19:02:15.433Z,81537d4d-2f51-4f52-b7de-22b2c5344fb7,ZZZ,Romania,ro,111300113903116,The Solomon Effect,Facebook
+959cf201-2c1e-48f3-b18f-3c588b1a0fb7,TAXEU Forum,2023-03-08T19:12:50.861Z,1ca3bebe-ed31-4501-ba50-b7b9da4722b4,ZZZ,Romania,ro,471786019660741,TAXEU Forum,Facebook
+53376d85-a8b9-4ddb-9f50-59fb936d7dd4,IOM Romania,2023-03-08T19:23:33.751Z,f0b10191-d8cc-48fc-8e8b-36a7d01b0e00,ZZZ,Romania,ro,496967856999789,IOM Romania,Facebook
+fe69bb19-81ab-4b28-be45-361770fa22f7,Panouri Fotovoltaice Romania,2023-03-08T19:34:08.630Z,293d45fb-b0c0-49c7-9479-b7fc97438037,ZZZ,Romania,ro,482377718563494,Panouri Fotovoltaice Romania,Facebook
+1279cb31-e834-4e6d-bd28-0e85b71e45d9,nnromania,2023-03-08T19:34:08.775Z,8ab455e4-5476-4dde-9349-3cf98b33bc4c,ZZZ,Romania,ro,106988155552863,nnromania,Facebook
+081bee6b-449c-4c16-96c8-5799b553f053,AJOFM Bihor,2023-03-08T19:23:33.766Z,166572de-2b79-44c1-8eec-5847a83ef9b2,ZZZ,Romania,ro,611757062262641,AJOFM Bihor,Facebook
+a91ba402-d1fb-4168-a229-54a1db775ba6,Dragoș-Cristian VLAD,2023-03-08T19:23:33.766Z,92e65705-3799-4867-bae8-f75a772c32d6,ZZZ,Romania,ro,104574242437184,Dragoș-Cristian VLAD,Facebook
+0dcc4a5f-8a8d-403b-b23f-dfa3248468cd,Storia.ro,2023-03-08T19:23:33.674Z,8913d73c-b000-4f01-9c9a-1f5c026529da,ZZZ,Romania,ro,1737861319788511,Storia.ro,Facebook
+09ac24ea-5b3f-42f5-b3f2-e53b2bebfc85,ENTR ro,2023-03-08T19:34:08.427Z,5c129e8b-a0c3-496f-bd51-6b2a60589b6b,ZZZ,Romania,ro,101710008717971,ENTR ro,Facebook
+bb8e9a95-b06b-44b3-99aa-274afe7a0147,Studii de mediu si dezvoltare durabila - Masterat SNSPA,2023-03-08T19:34:08.745Z,11e38967-b354-40f9-a9a3-a6ff3e5c7e19,ZZZ,Romania,ro,104132791281170,Studii de mediu si dezvoltare durabila - Masterat SNSPA,Facebook
+6e880cce-6bcf-45e2-ade9-932e94c02140,Aspyre,2023-03-08T19:34:08.601Z,90d04cae-5876-4660-b9c0-84fc53407b36,ZZZ,Romania,ro,103912818931501,Aspyre,Facebook
+72999458-4889-43c9-ba51-c34d23f6fc10,BCAMS,2023-03-08T19:44:54.438Z,b099fdc8-0802-451f-8143-b341219493ff,ZZZ,Romania,ro,1734893896774298,BCAMS,Facebook
+cf6e80d4-d0d9-4e8c-bb64-953be22623f5,WE CAN FLY,2023-03-08T19:44:54.626Z,e6c28dd0-7af2-4e7f-980d-a6c20afdd8ab,ZZZ,Romania,ro,100899732775908,WE CAN FLY,Facebook
+eee16fec-aec0-42b8-8f96-3c3d6c45a30f,aripidenoapte,2023-03-08T19:44:54.693Z,47e86642-3714-4ee2-a14f-f0fee7bac11e,ZZZ,Romania,ro,343907646063782,aripidenoapte,Facebook
+ee3c1644-aa82-4834-b7a6-0a0ec30a44c2,Psihoterapie printre cărți cu Adriana Turcu,2023-03-08T19:44:54.707Z,48b569c8-ce88-42a0-a77a-3830f028c68c,ZZZ,Romania,ro,104595908244239,Psihoterapie printre cărți cu Adriana Turcu,Facebook
+4aa927e1-852e-4aa7-ad91-32af97af0076,Sindicatul Politistilor Dolj,2023-03-08T20:06:07.780Z,05d8f3cb-6f10-47bb-9a12-280d2b5ffe37,ZZZ,Romania,ro,1647076338868989,Sindicatul Politistilor Dolj,Facebook
+cca343db-2ff2-4fb8-96cd-c2ea9a4728f5,Constanta de Azi,2023-03-08T20:06:07.784Z,d24f9bc5-7758-42e4-8499-2cc573c59450,ZZZ,Romania,ro,142667656411528,Constanta de Azi,Facebook
+3b554687-03f7-45fe-b91b-8e8b2e46f085,Trend path,2023-10-30T05:07:04.959Z,29005a02-acde-457b-9deb-7ff7dec9406e,ZZZ,Romania,ro,131694380021998,Trend path,Facebook
+592b6549-f423-414e-b039-19fd1f5a660e,Școala Waldorf ILIOS - învățământ de stat,2023-10-30T05:07:05.175Z,12a9f05e-d981-4b15-8fa2-fe36e38d6dd0,ZZZ,Romania,ro,596105307155621,Școala Waldorf ILIOS - învățământ de stat,Facebook
+16e84907-1a87-429c-848f-ee5bc9dce3d3,Motru News,2023-03-08T20:16:51.787Z,bd127eef-101c-45a3-a62a-cfb6574e5867,ZZZ,Romania,ro,103249702683499,Motru News,Facebook
+d1e94c06-b608-4b4c-8125-4494881ccd5a,Ion Geaca,2023-03-08T20:16:51.732Z,79630da9-5ea2-4912-b12c-7ea0adfd04fe,ZZZ,Romania,ro,111630635130586,Ion Geaca,Facebook
+21a85921-62f5-4f13-b3ae-af509cb534e0,Micutzu Politician,2023-03-08T20:16:51.753Z,61ef8bf7-7020-4030-9640-6dc6f215a0cd,ZZZ,Romania,ro,103537024549215,Micutzu Politician,Facebook
+dab48110-c65b-49c0-94fd-03c3e86e1bc8,RoInvest Enel,2023-10-30T05:07:05.120Z,f83c17c0-daa1-48fa-a6c3-3708a073be97,ZZZ,Romania,ro,148944131636986,RoInvest Enel,Facebook
+866c510a-5192-45f4-82aa-cf305e443eb7,Teach for Romania,2023-10-30T05:07:05.284Z,d3e8a743-802c-4180-ac76-cca343bcdc37,ZZZ,Romania,ro,203550139655283,Teach for Romania,Facebook
+d91e246b-c110-42ab-9b68-ad7f44e6de49,Ax Capital-International,2023-03-09T10:53:51.426Z,8b09e922-3461-4962-98b0-b8ce185cb6a6,ZZZ,Romania,ro,455062681718926,Ax Capital-International,Facebook
+b6bbe313-1809-4842-99d2-c3a126d6c8cc,Ciennan,2023-03-10T10:53:39.320Z,08b991be-b4fc-45dd-95e4-fdc2866ae604,ZZZ,Romania,ro,101768452843989,Ciennan,Facebook
+bbb4c515-651c-43c9-8b17-5c062eac637d,Perla Senior,2023-03-10T10:53:39.604Z,4475f9e7-e0e1-4e33-90b3-90c4f0bc8481,ZZZ,Romania,ro,101297362453922,Perla Senior,Facebook
+f43affd5-a232-4392-b1b3-39da6e25169c,"NOI, Românii VREM PACE",2023-03-10T10:53:39.583Z,ff711968-8ea2-44f2-be1b-f114dcf166d1,ZZZ,Romania,ro,112600634997433,"NOI, Românii VREM PACE",Facebook
+a8076c83-27df-458d-b212-05471fc83acd,Neamunit România,2023-03-11T10:53:51.139Z,c569c6dd-0224-4ed5-8599-8c0d7282b803,ZZZ,Romania,ro,441247076607605,Neamunit România,Facebook
+96543b9f-8583-4680-9cfc-069c2c7003aa,Rezist,2023-03-11T10:53:51.226Z,5f219791-858f-4895-bafd-cfb6c1112d6b,ZZZ,Romania,ro,102494214885947,Rezist,Facebook
+47ebb7f5-0a8c-4b54-a241-ce5066c38b1a,Ferma Apicola Marineac,2023-03-11T10:53:50.858Z,e882293d-1092-48ca-8d6c-c65f88bb78ca,ZZZ,Romania,ro,322006364823665,Ferma Apicola Marineac,Facebook
+29935a33-754d-4293-978b-67b9755f3912,AGROMEDIA,2023-03-11T10:53:51.261Z,d140e20c-5139-4a40-bf28-8fa61f4d49e3,ZZZ,Romania,ro,102170484505871,AGROMEDIA,Facebook
+f04097c1-d771-4fcb-abe5-eb438e1d6540,ThetaHealing cu Mihaela Maierean,2023-03-11T10:53:51.229Z,aaa6736c-caeb-4d94-ad84-ad83910e490d,ZZZ,Romania,ro,951994884872419,ThetaHealing cu Mihaela Maierean,Facebook
+22c4ac66-45c4-4c4c-a9ef-8e713df3a9f2,Pacientul 2.0,2023-03-12T10:53:46.684Z,9950278d-276b-492c-a36e-80b18fb11663,ZZZ,Romania,ro,1456975884566119,Pacientul 2.0,Facebook
+f09887e5-daaa-40e7-b275-6e78bd03a2d4,Deutsche Telekom Services Europe - Romania,2023-03-12T10:53:46.820Z,2ad034b3-d677-4d37-91b7-b04931ff7ce3,ZZZ,Romania,ro,330739480650857,Deutsche Telekom Services Europe - Romania,Facebook
+81e43b32-b1fa-4443-831f-739b13e77623,Daikin Romania,2023-03-12T10:53:46.648Z,f63828be-1c50-46e8-b2dd-53dcbd2e2dc3,ZZZ,Romania,ro,937166806327327,Daikin Romania,Facebook
+b51dce17-6e7e-487d-bad7-28b61a635547,Bertis,2023-03-12T10:53:46.963Z,9440a5d1-6b5f-4960-a5cc-a34793e41784,ZZZ,Romania,ro,256618781078944,Bertis,Facebook
+da603f1f-9251-4753-9303-148634ad856c,Pavel Georgini - gânduri și fapte bune,2023-03-12T10:53:47.049Z,02e664ac-02c5-4e5d-8878-e65f15ff8d03,ZZZ,Romania,ro,107651084218159,Pavel Georgini - gânduri și fapte bune,Facebook
+fd69ef8b-2bb3-4467-b150-9796e28694e9,afrolandromania,2023-03-12T10:53:46.761Z,4c581092-e8be-407b-9a31-8bbe1bf6b8df,ZZZ,Romania,ro,101878192713915,afrolandromania,Facebook
+c1162026-9f4f-46b4-8ee9-8dab265cf5f3,Audionova,2023-03-12T10:53:46.981Z,7346c45f-388b-4fae-805d-d89a884a7953,ZZZ,Romania,ro,135334229868100,Audionova,Facebook
+5046587f-624e-401b-8a28-d11c57c6f192,World Bank Romania,2023-12-11T06:41:15.667Z,3bf8cd9e-9bdb-4b29-bafb-2a2939cbae6d,ZZZ,Romania,ro,461025870762197,World Bank Romania,Facebook
+fdb94f3b-eba7-4631-bde4-38d52b515e30,Misstwist.artisanicecream,2023-03-13T10:53:34.791Z,15334ae6-caaa-4578-8385-fc9b24655144,ZZZ,Romania,ro,105976917839670,Misstwist.artisanicecream,Facebook
+57614725-2a02-44de-a65a-7d1b85f13dc2,Episcopia Ortodoxă Română a Maramureșului și Sătmarului,2023-03-13T10:53:34.971Z,5f1a3887-16b1-4495-a899-a66740353db9,ZZZ,Romania,ro,268992186614239,Episcopia Ortodoxă Română a Maramureșului și Sătmarului,Facebook
+17f708f3-c2b1-4a17-beb3-eb7aa696ccae,Qoobiss,2023-03-13T10:53:34.757Z,8ad34e8a-6ac2-4dd2-ab55-932645ef2912,ZZZ,Romania,ro,102648539026882,Qoobiss,Facebook
+7f84e2d3-ab61-43ce-a1ec-ecdd83314d58,Asociația ANAIS,2023-03-13T10:53:34.791Z,348922c4-5633-4b33-8273-3c0ae456ec83,ZZZ,Romania,ro,315741605195163,Asociația ANAIS,Facebook
+334c5b71-8114-4597-a40f-ffb942ed3a93,Editura Vellant,2023-03-13T10:53:34.956Z,034e670c-b6b4-4626-ac17-8f34bf6b6f98,ZZZ,Romania,ro,820571868024263,Editura Vellant,Facebook
+9af21198-c7c1-43de-a49f-af8fb8c78707,Bey House,2023-03-13T10:53:34.835Z,521d01b1-152c-4608-98c6-0170fe1ab275,ZZZ,Romania,ro,108845120948393,Bey House,Facebook
+b77509f9-2771-4d7d-8ed9-64f4aa2ee84a,Muzeul Micul Paris,2023-03-13T10:53:34.899Z,20d81ab7-5069-4217-b21f-f74975dd3da2,ZZZ,Romania,ro,1248001021968620,Muzeul Micul Paris,Facebook
+5bc1449f-4349-44c5-af28-977a8bb3fd39,Sc Leo Pet Com Srl,2023-10-31T05:16:24.826Z,6c4410d5-e3ec-4182-bacf-b63f97554d3e,ZZZ,Romania,ro,219777038892997,Sc Leo Pet Com Srl,Facebook
+2afdf405-141e-47c9-859f-c367407ea977,360medical.ro,2023-03-14T10:53:26.859Z,e5c04b2a-7f8a-4629-a7f7-bc72fe8e3d96,ZZZ,Romania,ro,431467304025393,360medical.ro,Facebook
+66f03b0c-5d5c-481d-8dee-44d3a2f5e855,Transcendental.com,2023-03-14T10:53:26.894Z,0bbaa83a-b679-4a1d-9570-8d2751f3e7e3,ZZZ,Romania,ro,111330667841989,Transcendental.com,Facebook
+6a369a43-6c27-437c-94e4-41244818244e,Biosil.ro,2023-03-14T10:53:26.681Z,7f79df23-9b9c-4b97-b6e6-a432a04285ba,ZZZ,Romania,ro,110434310342575,Biosil.ro,Facebook
+155c5bcf-79eb-430a-8be9-eacc06b75036,Pancomexim,2023-03-14T10:53:26.906Z,e8db072c-d3f1-4269-8862-2e6063ca476f,ZZZ,Romania,ro,101234755706979,Pancomexim,Facebook
+065df3eb-26bc-43ba-bd81-2024f3c77c09,Sindicatul Naţional Sport şi Tineret,2023-03-14T10:53:26.817Z,bdd848d8-c068-4729-8387-22feaa74acb7,ZZZ,Romania,ro,274364459598604,Sindicatul Naţional Sport şi Tineret,Facebook
+4942d6c0-728d-4d03-860c-3a89d9e083c9,Mercedes-Benz Romania,2023-03-15T10:53:56.590Z,23ae57fd-a27f-4ea7-9e14-877c49eeda94,ZZZ,Romania,ro,143617905673043,Mercedes-Benz Romania,Facebook
+916e781e-c654-48fe-9e13-b66521429935,Redactia 9,2023-03-15T10:53:57.548Z,837a9f45-6d2e-46a1-9798-b847ce823fe1,ZZZ,Romania,ro,559910421144190,Redactia 9,Facebook
+4c534f4a-637d-42b7-80a0-ac967f0e8e95,Voice Changer,2023-11-22T05:07:38.820Z,1b79ed1f-4c7e-4674-89f0-6a6f8ff4fafa,ZZZ,Romania,ro,148217568383132,Voice Changer,Facebook
+140ec55e-c9b3-4df1-a2b0-08d0f57cdc68,Ziar-Sinaia,2023-03-16T10:53:52.436Z,c9864712-fd82-4679-b06e-5eb1ddac7786,ZZZ,Romania,ro,110030098463492,Ziar-Sinaia,Facebook
+f25bdbed-f327-4809-9bd9-e3f1aaca8f1e,CMT Accounting,2023-03-16T10:53:52.646Z,4b33d7a7-a965-4495-9fcc-6a471486faf8,ZZZ,Romania,ro,109736468727169,CMT Accounting,Facebook
+141b409e-7ab7-43db-8e82-7d553e75d45b,Andrei V. Tatar,2023-03-16T10:53:52.386Z,c4941e84-7147-4240-b5e5-69f1c2f49bce,ZZZ,Romania,ro,175038365852533,Andrei V. Tatar,Facebook
+ea4c6a05-ae9a-43ac-bc52-259c02c3aebb,"Trans.INFO - transport, trucking and logistics news",2023-03-16T10:53:52.561Z,96cbd152-9546-4461-9dd9-24bb621a7b01,ZZZ,Romania,ro,310372402769384,"Trans.INFO - transport, trucking and logistics news",Facebook
+66b9e186-7374-4e98-ba6d-cae21a661e28,City Makers,2023-03-17T10:53:55.799Z,a2737a0c-4ede-4da2-97c5-760b13890492,ZZZ,Romania,ro,1422307794461374,City Makers,Facebook
+bb41e3c4-91e7-47ce-a776-b8442f25a7a6,Asociatia Art Mirror,2023-10-26T05:07:11.697Z,a97d4be3-eafd-441b-8f14-22e5a5724725,ZZZ,Romania,ro,291202621493466,Asociatia Art Mirror,Facebook
+fd2b2ef6-33f9-4e31-a6e8-969b500bb4e0,arac.projects,2023-11-13T05:07:56.443Z,0515b007-06de-4aa3-9a99-b529baa91ffd,ZZZ,Romania,ro,135835806275953,arac.projects,Facebook
+c1fea07d-fafc-4ad5-a6b0-2440cd90b6b7,BalticP,2023-10-17T05:07:11.301Z,dce36226-a042-4f32-92a6-6a0b71b99998,ZZZ,Romania,ro,134408149760495,BalticP,Facebook
+4d2cb26f-da40-45c9-bcbe-854ece6f28a4,Vera Green - Bio products & zero waste,2023-09-22T05:07:06.991Z,b36c8ea0-a247-4284-9593-1f8a6c99df19,ZZZ,Romania,ro,529229623912524,Vera Green - Bio products & zero waste,Facebook
+ce774291-c885-41ab-9e62-45023d44ff50,TRY Group,2023-08-15T05:07:31.820Z,1935c4a1-525d-44b8-97c3-b6b732216ced,ZZZ,Romania,ro,101327939731148,TRY Group,Facebook
+5dabb9da-4535-424b-b30c-97a15035fc40,"Scoala Sanitara Postliceala ""I. Gh. Duca"" Horezu",2023-08-30T05:07:06.758Z,506c0b70-aa71-43c8-9116-378db590b262,ZZZ,Romania,ro,136247406521801,"Scoala Sanitara Postliceala ""I. Gh. Duca"" Horezu",Facebook
+5ac5f8d0-f851-45a9-8357-399ed7703daf,Repere,2023-06-12T06:53:10.611Z,72997f7c-7aeb-4625-96e0-b70b22acd402,ZZZ,Romania,ro,752565288142668,Repere,Facebook
+7fb269d0-d5a9-4962-8651-7ca25f05f6d8,Sustainable Living Podcast,2023-03-18T10:53:37.882Z,70455747-2276-4297-a59e-d400c2b3432b,ZZZ,Romania,ro,101301682054427,Sustainable Living Podcast,Facebook
+f5ce2582-5b96-48d0-9338-b2dbea6090b3,Magyarlapádi RMDSZ-es tanácsosok,2023-03-19T10:53:35.287Z,af10a604-dd2d-4fc1-9411-628a24d30ef1,ZZZ,Romania,ro,578220312854953,Magyarlapádi RMDSZ-es tanácsosok,Facebook
+8a556393-9bee-4041-bab9-8f3778f044a4,Institutul pentru Cercetări în Economie Circulară şi Mediu “Ernest Lupan”,2023-03-19T10:53:35.355Z,786f9bc2-f77b-4b68-b5fe-e7d11f9e2302,ZZZ,Romania,ro,278290748940741,Institutul pentru Cercetări în Economie Circulară şi Mediu “Ernest Lupan”,Facebook
+4ae3a82f-929a-4ffe-8fb7-b2512beea497,Textar Romania,2023-03-19T10:53:34.846Z,2ddf8d9d-f5fd-4f36-a4b5-d163e83e4fee,ZZZ,Romania,ro,1307231352750984,Textar Romania,Facebook
 472f4017-a742-4815-a0d1-5e8895fe0b28,Romanian health,2023-09-18T05:07:03.960Z,8eb2c3b0-87ba-4abf-b992-7d16a7b80ab2,ZZZ,Romania,ro,107816292065788,Romanian health,Facebook
 e942e966-7131-4c6b-817e-097491cfabbe,Facultatea de Științe Politice - SNSPA,2023-07-10T06:51:31.566Z,0a8c420e-2ba4-4cc0-993c-06692c657cbb,ZZZ,Romania,ro,419361218194836,Facultatea de Științe Politice - SNSPA,Facebook
 3d131dbf-7527-4b6b-b624-6eb83062907b,Cardinalia,2023-07-11T06:07:46.581Z,20e02f9c-cda8-423f-9783-80473a49bc92,ZZZ,Romania,ro,1753191944986812,Cardinalia,Facebook
@@ -735,103 +825,6 @@ dc7c0771-13f2-43cc-bec9-476ae28cee71,Sunstone Cliffs,2023-11-13T05:07:56.139Z,86
 39363444-a70d-4b49-aa4a-c3adb4bdca26,Viata si speranta 2003,2023-03-08T17:47:07.552Z,936b5ecd-d746-4874-ab97-c24316ffa9cb,ZZZ,Romania,ro,129863897156315,Viata si speranta 2003,Facebook
 a84cc1e7-13ae-4cd4-ab38-c65f9f612f15,MOȚEC ȘTEFAN - Cabinet de Avocat,2023-03-08T17:57:50.493Z,5361ded8-feaf-4cb5-9bb0-b394632bf7ea,ZZZ,Romania,ro,109337248313065,MOȚEC ȘTEFAN - Cabinet de Avocat,Facebook
 2a1db4cf-33ab-4797-8fe2-e0f2d3ffd0ac,Frumentarius,2023-03-08T17:57:50.536Z,644048ae-004c-40bd-aaac-5bc33a4c25a8,ZZZ,Romania,ro,102050022309555,Frumentarius,Facebook
-1aee4a24-b8af-472c-8829-b98f52d0288d,Agra Asigurări,2023-03-08T17:57:50.645Z,1f728e64-2974-4e5b-b734-26f39231cc3c,ZZZ,Romania,ro,106715688123735,Agra Asigurări,Facebook
-2995b1f8-9c0a-418a-a265-0e23acf0e0f9,TSD Organizația Județeană Călărași,2023-03-08T17:57:50.660Z,b8cc3315-85b4-400a-a471-50f197720524,ZZZ,Romania,ro,833989853351001,TSD Organizația Județeană Călărași,Facebook
-af88bf09-00de-4bba-a33e-cc411b1836b7,bucharestofficialevents,2023-03-08T18:08:46.818Z,ebd5e2dc-4aec-445f-bd08-e542e8f43a09,ZZZ,Romania,ro,104527608893259,bucharestofficialevents,Facebook
-4f51f2cd-9576-4161-8b25-698fabb2bc65,bizz.club Ploiești Networking,2023-03-08T18:19:19.626Z,4ca49ca6-b96d-46d3-b19d-82b6c1f8ef6e,ZZZ,Romania,ro,901761319903190,bizz.club Ploiești Networking,Facebook
-7419dcfe-4fa5-437e-a442-2019d1826138,Anticriză,2023-03-08T18:19:19.695Z,ab4e4c06-d938-45a1-89bd-8e5039fa0838,ZZZ,Romania,ro,116762651302559,Anticriză,Facebook
-1717293c-4600-4ed4-81c2-5fb41e95ec1e,Radio Vision 24,2023-03-08T18:19:19.719Z,a5a58e12-ec2e-4f5f-8618-844d423682ee,ZZZ,Romania,ro,120942015970917,Radio Vision 24,Facebook
-ec7d0d80-11e2-4b99-883a-523c68895443,Wetterbest,2023-03-08T18:19:19.670Z,03114908-72a3-4d7d-9d77-2ab70931ceda,ZZZ,Romania,ro,227280317283754,Wetterbest,Facebook
-53b7397f-458e-4c38-ab01-bf58851c871f,Thailanda Altfel,2023-03-08T18:30:02.786Z,38b7bf67-0524-4db4-87ac-42d7ea1f3d70,ZZZ,Romania,ro,108691205451382,Thailanda Altfel,Facebook
-027fc375-1157-441c-ba30-e500cb759dc0,Trei Bețivi Bar,2023-03-08T18:30:02.812Z,8efb2a77-9f80-410c-8ef3-2cf3d3f02020,ZZZ,Romania,ro,149446588421265,Trei Bețivi Bar,Facebook
-bf5267ca-89e6-404f-b2f5-4e347f807715,Terre des hommes - Romania,2023-03-08T18:30:02.832Z,269f23f6-fb9c-4021-8828-105d8b580f82,ZZZ,Romania,ro,856883627814621,Terre des hommes - Romania,Facebook
-8292c08e-7fba-4183-b839-884157f99e1d,bespaliuc.catrin_art,2023-03-08T18:30:02.842Z,dbc9e224-204b-4ad5-9c5b-77f254c13894,ZZZ,Romania,ro,104686248959147,bespaliuc.catrin_art,Facebook
-30536005-6990-44af-af50-40768b3ad7a2,Universul Fiscal,2023-03-08T18:40:56.207Z,c5f0814d-e0c5-458e-8033-0304dec3295c,ZZZ,Romania,ro,1801593683498719,Universul Fiscal,Facebook
-7e7730d1-69da-481e-94c2-8c442ea55d55,Brit,2023-03-08T18:40:56.295Z,ac550068-843f-43e0-911d-14a31a68f3b9,ZZZ,Romania,ro,111667524353407,Brit,Facebook
-e78f062a-5501-4f56-80b1-998034cde43f,ProCredit Bank Romania,2023-03-08T18:40:56.293Z,0daaf0a5-d8d9-4046-9052-f734d7ffebbd,ZZZ,Romania,ro,2316295345280857,ProCredit Bank Romania,Facebook
-775780bf-4a5d-4410-87a8-649477f174f5,Electrocasnice Arctic,2023-03-08T19:02:15.433Z,ff27bc18-5168-4f0a-b0a4-5be5068c6a11,ZZZ,Romania,ro,1691529741068979,Electrocasnice Arctic,Facebook
-b55a3518-042c-4676-b016-2c5d1e20a9a7,Propagarta,2023-03-08T18:51:31.124Z,de6c8328-bf3d-444f-b9a1-a6b5a02d33e9,ZZZ,Romania,ro,101724508548402,Propagarta,Facebook
-48204490-9351-4069-8269-79b87c44d43a,H4L - home4life,2023-03-08T19:02:15.330Z,2229fedc-c12e-4a41-a509-3ca32d169845,ZZZ,Romania,ro,358909111252930,H4L - home4life,Facebook
-5f77b192-87fe-4ac6-9ed7-ec39fe31aa27,The Solomon Effect,2023-03-08T19:02:15.433Z,81537d4d-2f51-4f52-b7de-22b2c5344fb7,ZZZ,Romania,ro,111300113903116,The Solomon Effect,Facebook
-959cf201-2c1e-48f3-b18f-3c588b1a0fb7,TAXEU Forum,2023-03-08T19:12:50.861Z,1ca3bebe-ed31-4501-ba50-b7b9da4722b4,ZZZ,Romania,ro,471786019660741,TAXEU Forum,Facebook
-53376d85-a8b9-4ddb-9f50-59fb936d7dd4,IOM Romania,2023-03-08T19:23:33.751Z,f0b10191-d8cc-48fc-8e8b-36a7d01b0e00,ZZZ,Romania,ro,496967856999789,IOM Romania,Facebook
-fe69bb19-81ab-4b28-be45-361770fa22f7,Panouri Fotovoltaice Romania,2023-03-08T19:34:08.630Z,293d45fb-b0c0-49c7-9479-b7fc97438037,ZZZ,Romania,ro,482377718563494,Panouri Fotovoltaice Romania,Facebook
-1279cb31-e834-4e6d-bd28-0e85b71e45d9,nnromania,2023-03-08T19:34:08.775Z,8ab455e4-5476-4dde-9349-3cf98b33bc4c,ZZZ,Romania,ro,106988155552863,nnromania,Facebook
-081bee6b-449c-4c16-96c8-5799b553f053,AJOFM Bihor,2023-03-08T19:23:33.766Z,166572de-2b79-44c1-8eec-5847a83ef9b2,ZZZ,Romania,ro,611757062262641,AJOFM Bihor,Facebook
-a91ba402-d1fb-4168-a229-54a1db775ba6,Dragoș-Cristian VLAD,2023-03-08T19:23:33.766Z,92e65705-3799-4867-bae8-f75a772c32d6,ZZZ,Romania,ro,104574242437184,Dragoș-Cristian VLAD,Facebook
-0dcc4a5f-8a8d-403b-b23f-dfa3248468cd,Storia.ro,2023-03-08T19:23:33.674Z,8913d73c-b000-4f01-9c9a-1f5c026529da,ZZZ,Romania,ro,1737861319788511,Storia.ro,Facebook
-09ac24ea-5b3f-42f5-b3f2-e53b2bebfc85,ENTR ro,2023-03-08T19:34:08.427Z,5c129e8b-a0c3-496f-bd51-6b2a60589b6b,ZZZ,Romania,ro,101710008717971,ENTR ro,Facebook
-bb8e9a95-b06b-44b3-99aa-274afe7a0147,Studii de mediu si dezvoltare durabila - Masterat SNSPA,2023-03-08T19:34:08.745Z,11e38967-b354-40f9-a9a3-a6ff3e5c7e19,ZZZ,Romania,ro,104132791281170,Studii de mediu si dezvoltare durabila - Masterat SNSPA,Facebook
-6e880cce-6bcf-45e2-ade9-932e94c02140,Aspyre,2023-03-08T19:34:08.601Z,90d04cae-5876-4660-b9c0-84fc53407b36,ZZZ,Romania,ro,103912818931501,Aspyre,Facebook
-72999458-4889-43c9-ba51-c34d23f6fc10,BCAMS,2023-03-08T19:44:54.438Z,b099fdc8-0802-451f-8143-b341219493ff,ZZZ,Romania,ro,1734893896774298,BCAMS,Facebook
-cf6e80d4-d0d9-4e8c-bb64-953be22623f5,WE CAN FLY,2023-03-08T19:44:54.626Z,e6c28dd0-7af2-4e7f-980d-a6c20afdd8ab,ZZZ,Romania,ro,100899732775908,WE CAN FLY,Facebook
-eee16fec-aec0-42b8-8f96-3c3d6c45a30f,aripidenoapte,2023-03-08T19:44:54.693Z,47e86642-3714-4ee2-a14f-f0fee7bac11e,ZZZ,Romania,ro,343907646063782,aripidenoapte,Facebook
-ee3c1644-aa82-4834-b7a6-0a0ec30a44c2,Psihoterapie printre cărți cu Adriana Turcu,2023-03-08T19:44:54.707Z,48b569c8-ce88-42a0-a77a-3830f028c68c,ZZZ,Romania,ro,104595908244239,Psihoterapie printre cărți cu Adriana Turcu,Facebook
-4aa927e1-852e-4aa7-ad91-32af97af0076,Sindicatul Politistilor Dolj,2023-03-08T20:06:07.780Z,05d8f3cb-6f10-47bb-9a12-280d2b5ffe37,ZZZ,Romania,ro,1647076338868989,Sindicatul Politistilor Dolj,Facebook
-cca343db-2ff2-4fb8-96cd-c2ea9a4728f5,Constanta de Azi,2023-03-08T20:06:07.784Z,d24f9bc5-7758-42e4-8499-2cc573c59450,ZZZ,Romania,ro,142667656411528,Constanta de Azi,Facebook
-3b554687-03f7-45fe-b91b-8e8b2e46f085,Trend path,2023-10-30T05:07:04.959Z,29005a02-acde-457b-9deb-7ff7dec9406e,ZZZ,Romania,ro,131694380021998,Trend path,Facebook
-592b6549-f423-414e-b039-19fd1f5a660e,Școala Waldorf ILIOS - învățământ de stat,2023-10-30T05:07:05.175Z,12a9f05e-d981-4b15-8fa2-fe36e38d6dd0,ZZZ,Romania,ro,596105307155621,Școala Waldorf ILIOS - învățământ de stat,Facebook
-16e84907-1a87-429c-848f-ee5bc9dce3d3,Motru News,2023-03-08T20:16:51.787Z,bd127eef-101c-45a3-a62a-cfb6574e5867,ZZZ,Romania,ro,103249702683499,Motru News,Facebook
-d1e94c06-b608-4b4c-8125-4494881ccd5a,Ion Geaca,2023-03-08T20:16:51.732Z,79630da9-5ea2-4912-b12c-7ea0adfd04fe,ZZZ,Romania,ro,111630635130586,Ion Geaca,Facebook
-21a85921-62f5-4f13-b3ae-af509cb534e0,Micutzu Politician,2023-03-08T20:16:51.753Z,61ef8bf7-7020-4030-9640-6dc6f215a0cd,ZZZ,Romania,ro,103537024549215,Micutzu Politician,Facebook
-dab48110-c65b-49c0-94fd-03c3e86e1bc8,RoInvest Enel,2023-10-30T05:07:05.120Z,f83c17c0-daa1-48fa-a6c3-3708a073be97,ZZZ,Romania,ro,148944131636986,RoInvest Enel,Facebook
-866c510a-5192-45f4-82aa-cf305e443eb7,Teach for Romania,2023-10-30T05:07:05.284Z,d3e8a743-802c-4180-ac76-cca343bcdc37,ZZZ,Romania,ro,203550139655283,Teach for Romania,Facebook
-d91e246b-c110-42ab-9b68-ad7f44e6de49,Ax Capital-International,2023-03-09T10:53:51.426Z,8b09e922-3461-4962-98b0-b8ce185cb6a6,ZZZ,Romania,ro,455062681718926,Ax Capital-International,Facebook
-b6bbe313-1809-4842-99d2-c3a126d6c8cc,Ciennan,2023-03-10T10:53:39.320Z,08b991be-b4fc-45dd-95e4-fdc2866ae604,ZZZ,Romania,ro,101768452843989,Ciennan,Facebook
-bbb4c515-651c-43c9-8b17-5c062eac637d,Perla Senior,2023-03-10T10:53:39.604Z,4475f9e7-e0e1-4e33-90b3-90c4f0bc8481,ZZZ,Romania,ro,101297362453922,Perla Senior,Facebook
-f43affd5-a232-4392-b1b3-39da6e25169c,"NOI, Românii VREM PACE",2023-03-10T10:53:39.583Z,ff711968-8ea2-44f2-be1b-f114dcf166d1,ZZZ,Romania,ro,112600634997433,"NOI, Românii VREM PACE",Facebook
-a8076c83-27df-458d-b212-05471fc83acd,Neamunit România,2023-03-11T10:53:51.139Z,c569c6dd-0224-4ed5-8599-8c0d7282b803,ZZZ,Romania,ro,441247076607605,Neamunit România,Facebook
-96543b9f-8583-4680-9cfc-069c2c7003aa,Rezist,2023-03-11T10:53:51.226Z,5f219791-858f-4895-bafd-cfb6c1112d6b,ZZZ,Romania,ro,102494214885947,Rezist,Facebook
-47ebb7f5-0a8c-4b54-a241-ce5066c38b1a,Ferma Apicola Marineac,2023-03-11T10:53:50.858Z,e882293d-1092-48ca-8d6c-c65f88bb78ca,ZZZ,Romania,ro,322006364823665,Ferma Apicola Marineac,Facebook
-29935a33-754d-4293-978b-67b9755f3912,AGROMEDIA,2023-03-11T10:53:51.261Z,d140e20c-5139-4a40-bf28-8fa61f4d49e3,ZZZ,Romania,ro,102170484505871,AGROMEDIA,Facebook
-f04097c1-d771-4fcb-abe5-eb438e1d6540,ThetaHealing cu Mihaela Maierean,2023-03-11T10:53:51.229Z,aaa6736c-caeb-4d94-ad84-ad83910e490d,ZZZ,Romania,ro,951994884872419,ThetaHealing cu Mihaela Maierean,Facebook
-22c4ac66-45c4-4c4c-a9ef-8e713df3a9f2,Pacientul 2.0,2023-03-12T10:53:46.684Z,9950278d-276b-492c-a36e-80b18fb11663,ZZZ,Romania,ro,1456975884566119,Pacientul 2.0,Facebook
-f09887e5-daaa-40e7-b275-6e78bd03a2d4,Deutsche Telekom Services Europe - Romania,2023-03-12T10:53:46.820Z,2ad034b3-d677-4d37-91b7-b04931ff7ce3,ZZZ,Romania,ro,330739480650857,Deutsche Telekom Services Europe - Romania,Facebook
-81e43b32-b1fa-4443-831f-739b13e77623,Daikin Romania,2023-03-12T10:53:46.648Z,f63828be-1c50-46e8-b2dd-53dcbd2e2dc3,ZZZ,Romania,ro,937166806327327,Daikin Romania,Facebook
-b51dce17-6e7e-487d-bad7-28b61a635547,Bertis,2023-03-12T10:53:46.963Z,9440a5d1-6b5f-4960-a5cc-a34793e41784,ZZZ,Romania,ro,256618781078944,Bertis,Facebook
-da603f1f-9251-4753-9303-148634ad856c,Pavel Georgini - gânduri și fapte bune,2023-03-12T10:53:47.049Z,02e664ac-02c5-4e5d-8878-e65f15ff8d03,ZZZ,Romania,ro,107651084218159,Pavel Georgini - gânduri și fapte bune,Facebook
-fd69ef8b-2bb3-4467-b150-9796e28694e9,afrolandromania,2023-03-12T10:53:46.761Z,4c581092-e8be-407b-9a31-8bbe1bf6b8df,ZZZ,Romania,ro,101878192713915,afrolandromania,Facebook
-c1162026-9f4f-46b4-8ee9-8dab265cf5f3,Audionova,2023-03-12T10:53:46.981Z,7346c45f-388b-4fae-805d-d89a884a7953,ZZZ,Romania,ro,135334229868100,Audionova,Facebook
-5046587f-624e-401b-8a28-d11c57c6f192,World Bank Romania,2023-12-11T06:41:15.667Z,3bf8cd9e-9bdb-4b29-bafb-2a2939cbae6d,ZZZ,Romania,ro,461025870762197,World Bank Romania,Facebook
-fdb94f3b-eba7-4631-bde4-38d52b515e30,Misstwist.artisanicecream,2023-03-13T10:53:34.791Z,15334ae6-caaa-4578-8385-fc9b24655144,ZZZ,Romania,ro,105976917839670,Misstwist.artisanicecream,Facebook
-57614725-2a02-44de-a65a-7d1b85f13dc2,Episcopia Ortodoxă Română a Maramureșului și Sătmarului,2023-03-13T10:53:34.971Z,5f1a3887-16b1-4495-a899-a66740353db9,ZZZ,Romania,ro,268992186614239,Episcopia Ortodoxă Română a Maramureșului și Sătmarului,Facebook
-17f708f3-c2b1-4a17-beb3-eb7aa696ccae,Qoobiss,2023-03-13T10:53:34.757Z,8ad34e8a-6ac2-4dd2-ab55-932645ef2912,ZZZ,Romania,ro,102648539026882,Qoobiss,Facebook
-7f84e2d3-ab61-43ce-a1ec-ecdd83314d58,Asociația ANAIS,2023-03-13T10:53:34.791Z,348922c4-5633-4b33-8273-3c0ae456ec83,ZZZ,Romania,ro,315741605195163,Asociația ANAIS,Facebook
-334c5b71-8114-4597-a40f-ffb942ed3a93,Editura Vellant,2023-03-13T10:53:34.956Z,034e670c-b6b4-4626-ac17-8f34bf6b6f98,ZZZ,Romania,ro,820571868024263,Editura Vellant,Facebook
-9af21198-c7c1-43de-a49f-af8fb8c78707,Bey House,2023-03-13T10:53:34.835Z,521d01b1-152c-4608-98c6-0170fe1ab275,ZZZ,Romania,ro,108845120948393,Bey House,Facebook
-b77509f9-2771-4d7d-8ed9-64f4aa2ee84a,Muzeul Micul Paris,2023-03-13T10:53:34.899Z,20d81ab7-5069-4217-b21f-f74975dd3da2,ZZZ,Romania,ro,1248001021968620,Muzeul Micul Paris,Facebook
-5bc1449f-4349-44c5-af28-977a8bb3fd39,Sc Leo Pet Com Srl,2023-10-31T05:16:24.826Z,6c4410d5-e3ec-4182-bacf-b63f97554d3e,ZZZ,Romania,ro,219777038892997,Sc Leo Pet Com Srl,Facebook
-2afdf405-141e-47c9-859f-c367407ea977,360medical.ro,2023-03-14T10:53:26.859Z,e5c04b2a-7f8a-4629-a7f7-bc72fe8e3d96,ZZZ,Romania,ro,431467304025393,360medical.ro,Facebook
-66f03b0c-5d5c-481d-8dee-44d3a2f5e855,Transcendental.com,2023-03-14T10:53:26.894Z,0bbaa83a-b679-4a1d-9570-8d2751f3e7e3,ZZZ,Romania,ro,111330667841989,Transcendental.com,Facebook
-6a369a43-6c27-437c-94e4-41244818244e,Biosil.ro,2023-03-14T10:53:26.681Z,7f79df23-9b9c-4b97-b6e6-a432a04285ba,ZZZ,Romania,ro,110434310342575,Biosil.ro,Facebook
-155c5bcf-79eb-430a-8be9-eacc06b75036,Pancomexim,2023-03-14T10:53:26.906Z,e8db072c-d3f1-4269-8862-2e6063ca476f,ZZZ,Romania,ro,101234755706979,Pancomexim,Facebook
-065df3eb-26bc-43ba-bd81-2024f3c77c09,Sindicatul Naţional Sport şi Tineret,2023-03-14T10:53:26.817Z,bdd848d8-c068-4729-8387-22feaa74acb7,ZZZ,Romania,ro,274364459598604,Sindicatul Naţional Sport şi Tineret,Facebook
-4942d6c0-728d-4d03-860c-3a89d9e083c9,Mercedes-Benz Romania,2023-03-15T10:53:56.590Z,23ae57fd-a27f-4ea7-9e14-877c49eeda94,ZZZ,Romania,ro,143617905673043,Mercedes-Benz Romania,Facebook
-916e781e-c654-48fe-9e13-b66521429935,Redactia 9,2023-03-15T10:53:57.548Z,837a9f45-6d2e-46a1-9798-b847ce823fe1,ZZZ,Romania,ro,559910421144190,Redactia 9,Facebook
-4c534f4a-637d-42b7-80a0-ac967f0e8e95,Voice Changer,2023-11-22T05:07:38.820Z,1b79ed1f-4c7e-4674-89f0-6a6f8ff4fafa,ZZZ,Romania,ro,148217568383132,Voice Changer,Facebook
-140ec55e-c9b3-4df1-a2b0-08d0f57cdc68,Ziar-Sinaia,2023-03-16T10:53:52.436Z,c9864712-fd82-4679-b06e-5eb1ddac7786,ZZZ,Romania,ro,110030098463492,Ziar-Sinaia,Facebook
-f25bdbed-f327-4809-9bd9-e3f1aaca8f1e,CMT Accounting,2023-03-16T10:53:52.646Z,4b33d7a7-a965-4495-9fcc-6a471486faf8,ZZZ,Romania,ro,109736468727169,CMT Accounting,Facebook
-141b409e-7ab7-43db-8e82-7d553e75d45b,Andrei V. Tatar,2023-03-16T10:53:52.386Z,c4941e84-7147-4240-b5e5-69f1c2f49bce,ZZZ,Romania,ro,175038365852533,Andrei V. Tatar,Facebook
-ea4c6a05-ae9a-43ac-bc52-259c02c3aebb,"Trans.INFO - transport, trucking and logistics news",2023-03-16T10:53:52.561Z,96cbd152-9546-4461-9dd9-24bb621a7b01,ZZZ,Romania,ro,310372402769384,"Trans.INFO - transport, trucking and logistics news",Facebook
-66b9e186-7374-4e98-ba6d-cae21a661e28,City Makers,2023-03-17T10:53:55.799Z,a2737a0c-4ede-4da2-97c5-760b13890492,ZZZ,Romania,ro,1422307794461374,City Makers,Facebook
-bb41e3c4-91e7-47ce-a776-b8442f25a7a6,Asociatia Art Mirror,2023-10-26T05:07:11.697Z,a97d4be3-eafd-441b-8f14-22e5a5724725,ZZZ,Romania,ro,291202621493466,Asociatia Art Mirror,Facebook
-fd2b2ef6-33f9-4e31-a6e8-969b500bb4e0,arac.projects,2023-11-13T05:07:56.443Z,0515b007-06de-4aa3-9a99-b529baa91ffd,ZZZ,Romania,ro,135835806275953,arac.projects,Facebook
-c1fea07d-fafc-4ad5-a6b0-2440cd90b6b7,BalticP,2023-10-17T05:07:11.301Z,dce36226-a042-4f32-92a6-6a0b71b99998,ZZZ,Romania,ro,134408149760495,BalticP,Facebook
-4d2cb26f-da40-45c9-bcbe-854ece6f28a4,Vera Green - Bio products & zero waste,2023-09-22T05:07:06.991Z,b36c8ea0-a247-4284-9593-1f8a6c99df19,ZZZ,Romania,ro,529229623912524,Vera Green - Bio products & zero waste,Facebook
-ce774291-c885-41ab-9e62-45023d44ff50,TRY Group,2023-08-15T05:07:31.820Z,1935c4a1-525d-44b8-97c3-b6b732216ced,ZZZ,Romania,ro,101327939731148,TRY Group,Facebook
-5dabb9da-4535-424b-b30c-97a15035fc40,"Scoala Sanitara Postliceala ""I. Gh. Duca"" Horezu",2023-08-30T05:07:06.758Z,506c0b70-aa71-43c8-9116-378db590b262,ZZZ,Romania,ro,136247406521801,"Scoala Sanitara Postliceala ""I. Gh. Duca"" Horezu",Facebook
-5ac5f8d0-f851-45a9-8357-399ed7703daf,Repere,2023-06-12T06:53:10.611Z,72997f7c-7aeb-4625-96e0-b70b22acd402,ZZZ,Romania,ro,752565288142668,Repere,Facebook
-7fb269d0-d5a9-4962-8651-7ca25f05f6d8,Sustainable Living Podcast,2023-03-18T10:53:37.882Z,70455747-2276-4297-a59e-d400c2b3432b,ZZZ,Romania,ro,101301682054427,Sustainable Living Podcast,Facebook
-f5ce2582-5b96-48d0-9338-b2dbea6090b3,Magyarlapádi RMDSZ-es tanácsosok,2023-03-19T10:53:35.287Z,af10a604-dd2d-4fc1-9411-628a24d30ef1,ZZZ,Romania,ro,578220312854953,Magyarlapádi RMDSZ-es tanácsosok,Facebook
-8a556393-9bee-4041-bab9-8f3778f044a4,Institutul pentru Cercetări în Economie Circulară şi Mediu “Ernest Lupan”,2023-03-19T10:53:35.355Z,786f9bc2-f77b-4b68-b5fe-e7d11f9e2302,ZZZ,Romania,ro,278290748940741,Institutul pentru Cercetări în Economie Circulară şi Mediu “Ernest Lupan”,Facebook
-4ae3a82f-929a-4ffe-8fb7-b2512beea497,Textar Romania,2023-03-19T10:53:34.846Z,2ddf8d9d-f5fd-4f36-a4b5-d163e83e4fee,ZZZ,Romania,ro,1307231352750984,Textar Romania,Facebook
-d9b0f00b-52bd-443d-a19d-d68475ac5339,Kristal Club,2023-03-20T10:53:35.412Z,f217fbb2-21a6-4192-806d-c34a84f9e40f,ZZZ,Romania,ro,164436276942086,Kristal Club,Facebook
-28312951-8868-47a8-b8c7-747a97b07f2b,Asociatia Donam Plasma,2023-03-20T10:53:35.353Z,34427a96-c2cc-4499-8a39-44841e3feff2,ZZZ,Romania,ro,100558705864201,Asociatia Donam Plasma,Facebook
-57a36507-dc5e-42db-9ba4-2e3fe653cc95,DoctorMusetel.ro,2023-03-20T10:53:35.297Z,30054098-7746-474b-9282-1be964fc91be,ZZZ,Romania,ro,169102416455801,DoctorMusetel.ro,Facebook
-56a346f9-add2-407c-9d29-5e4a796fb4ba,PBA Platform Influ2,2023-03-20T10:53:35.468Z,770dbe64-8b00-42dc-90a5-f744a82254a6,ZZZ,Romania,ro,115479278081178,PBA Platform Influ2,Facebook
-5a772aec-ef9e-4c29-856b-1ba577b6c785,ethics_beauty,2023-03-20T10:53:35.332Z,9061109c-5a17-4675-9ff1-c024bf738e4d,ZZZ,Romania,ro,125269318872009,ethics_beauty,Facebook
-a1ff74b6-ce62-49f7-a53e-f57f2348b06c,A IV A Putere - RNTV,2023-11-15T05:07:07.203Z,d3014643-1d61-41e4-8d4f-6dd737562a58,ZZZ,Romania,ro,127369143789334,A IV A Putere - RNTV,Facebook
-c9c7bf07-0a49-4981-8b91-287c0997f4ef,Watzinger United,2023-11-15T05:07:07.125Z,08f080e5-0d71-4bd1-adf6-ad9dfcba720e,ZZZ,Romania,ro,108323255605643,Watzinger United,Facebook
 0fb64aca-a4a8-4aff-b030-5d327f367289,TogetherforVictor,2023-03-22T10:53:26.721Z,9509af77-0acc-44a8-a070-7e8882d49990,ZZZ,Romania,ro,104078418949788,TogetherforVictor,Facebook
 b8e0b18b-e532-4ce0-8cfb-1cdef938f1c1,Holiday Boutique,2023-03-22T10:53:26.961Z,9f82a433-9bcd-458f-ba0e-f0964efe8193,ZZZ,Romania,ro,1374631872800535,Holiday Boutique,Facebook
 48d31ace-9593-4611-a901-daba06a96204,Citizens Climate Bucharest,2023-03-23T10:53:42.898Z,2396cb7e-d47d-412b-97fa-ede4c5f45319,ZZZ,Romania,ro,110173088496726,Citizens Climate Bucharest,Facebook
@@ -935,97 +928,13 @@ eadbd11b-b517-47a2-9c53-c2d9a3581403,ENGIE,2023-04-25T06:53:21.126Z,81d3c1a9-823
 0cc2ef32-d3c1-4f1f-96f7-c882a315914d,PressCode,2023-04-25T06:53:21.091Z,4857a18a-c6ab-4f0e-8005-400e5f6867bc,ZZZ,Romania,ro,104257381778291,PressCode,Facebook
 08117e1d-46a3-4848-aa31-90321a3ee878,Ax Adr,2023-11-05T05:07:01.824Z,2cde2614-aa4a-42e7-aa39-9545cb4908c3,ZZZ,Romania,ro,122095355888010116,Ax Adr,Facebook
 7cdfcfcc-8d91-4d84-887f-0223261b547a,Palma Shop HU,2023-04-26T06:53:46.414Z,b5462a41-f199-4624-a23d-196c8311a9dd,ZZZ,Romania,ro,115107270281128,Palma Shop HU,Facebook
-5602ef30-b24e-4844-8764-e0977241fea1,GymBeam,2023-04-26T06:53:46.442Z,356ee4ca-dad7-4f9f-a878-f19af414969e,ZZZ,Romania,ro,589346561252006,GymBeam,Facebook
-de1c47dd-4b60-4df3-b74e-8396b9c723b7,Zoria.ro,2023-04-26T06:53:46.504Z,2c58f358-4fbe-4c92-b268-7d0337ed2a30,ZZZ,Romania,ro,102131768363052,Zoria.ro,Facebook
-a34c1a7b-ec6c-44a3-be21-b8ae9abe1ecd,Avocat Velicu Daniel,2023-04-26T06:53:46.108Z,772c7468-ee73-426d-adbf-b6dc004d38df,ZZZ,Romania,ro,147021175998819,Avocat Velicu Daniel,Facebook
-68e20d49-bd31-41d0-96a4-43ba24cc444f,Circul Metropolitan Bucuresti,2023-04-26T06:53:46.492Z,5144437f-b2ef-42f6-a35b-4dc35de09033,ZZZ,Romania,ro,335991603478421,Circul Metropolitan Bucuresti,Facebook
-07c166e6-bdcb-4dc8-9e59-c427906585f3,SELLification - The Professional's Selling Game,2023-04-26T06:53:46.141Z,fcee75dd-f111-432c-a383-2056a29315af,ZZZ,Romania,ro,1706960769618930,SELLification - The Professional's Selling Game,Facebook
-da96e032-bf54-4912-bf3a-e850d33c04d2,Raul Pop - page,2023-11-05T05:07:01.759Z,11c059c3-9fe0-48bb-bb12-04a285e23830,ZZZ,Romania,ro,1971627573137454,Raul Pop - page,Facebook
-186ea6a4-7d6c-4b97-97bf-bd4cba913c5a,Justice Initiative Romania,2023-04-27T06:53:32.522Z,a68d7579-23d0-413f-9626-1ca18f88b52e,ZZZ,Romania,ro,103359025738044,Justice Initiative Romania,Facebook
-a6a12aaf-2683-42e3-b6c2-50d2996dcd5b,Stagii pe Bune,2023-04-27T06:53:32.638Z,d7430b69-b3d5-43db-8b3b-a064a1617e76,ZZZ,Romania,ro,110269785674808,Stagii pe Bune,Facebook
-8e70d140-9b7f-4e4d-ae90-f9fe06633fa2,MyTex - Stiri Online Brasov,2023-04-27T06:53:32.758Z,485598f1-7077-4efd-800f-8e68ecb0990e,ZZZ,Romania,ro,139546752732140,MyTex - Stiri Online Brasov,Facebook
-71b3cb8c-13ea-45fc-a530-9ff64832d9ac,Crama Ceptura,2023-04-27T06:53:32.918Z,954cb660-f405-43fa-b003-84e0394458e0,ZZZ,Romania,ro,292307010813140,Crama Ceptura,Facebook
-c9f35fd5-553b-4920-8203-66fa8743250b,Euroccoper,2023-04-28T06:53:22.088Z,fc932294-84d4-40f2-90f2-7083ced84615,ZZZ,Romania,ro,232331760308845,Euroccoper,Facebook
-e695a2a4-1d2e-43ed-85ff-921e617a55cc,astro_ares_tarot,2023-04-28T06:53:22.119Z,8bbde93e-b8a6-4b1f-96f2-bb8d399a8685,ZZZ,Romania,ro,102726702458906,astro_ares_tarot,Facebook
-889f7677-5583-4f93-93ea-be8d5aeed5b0,Romatom Oficial,2023-04-28T06:53:21.715Z,b9ce14e7-0468-4efc-866d-124db72f8022,ZZZ,Romania,ro,1690234811282383,Romatom Oficial,Facebook
-8495d840-245d-4053-b954-5d6ce334bd3e,Pantum International,2023-04-28T06:53:21.757Z,ba143890-11cf-4f45-bdb5-a694f952ba27,ZZZ,Romania,ro,102485661587914,Pantum International,Facebook
-99f08f56-6a28-42e0-8445-06ceb9d70b76,Astra Film Festival,2023-10-17T05:07:11.629Z,81947832-25d3-49a4-8040-31e18e6b361b,ZZZ,Romania,ro,123661717708902,Astra Film Festival,Facebook
-dfdaff24-7f19-4fda-bfce-1d8df336d62f,4Culture,2023-04-29T06:53:32.192Z,65bb9725-e9fa-46c7-a321-f153402cecf9,ZZZ,Romania,ro,362676257102247,4Culture,Facebook
-a36344a1-334a-4efb-a1ef-c3e85b5d3226,Agrocentrala,2023-04-29T06:53:32.179Z,d0065a46-8141-40b9-b2ea-fc010508df38,ZZZ,Romania,ro,101462959574536,Agrocentrala,Facebook
-ccc236d9-ff0a-441a-9e14-f1223fb917d2,Dezvoltarea Inteligenței Digitale pentru o Cetățenie activă,2023-04-29T06:53:32.000Z,f8c7fc23-d0e2-4aa6-9142-c2b642eb4a1e,ZZZ,Romania,ro,101746676021385,Dezvoltarea Inteligenței Digitale pentru o Cetățenie activă,Facebook
-72483b49-117f-4c87-9202-1d19321b631c,Psiholog dr.Sandra O'Connor,2023-04-29T06:53:32.201Z,18aa5c59-6b25-438a-9c91-da60981e9eb6,ZZZ,Romania,ro,1128422237172476,Psiholog dr.Sandra O'Connor,Facebook
-44377f9d-2df3-4b88-9fa4-613ce2638ad8,CE ȘTIȚI VOI despre  VOI ? -satira,2023-04-29T06:53:31.942Z,5106365a-b12f-42d2-a68f-8c8857d8e4c4,ZZZ,Romania,ro,105971909138735,CE ȘTIȚI VOI despre  VOI ? -satira,Facebook
-68aae3df-8cee-46b7-9bb9-3e1b1d3d09f2,Apa Nova Bucureşti,2023-04-30T06:53:10.978Z,d660dde0-774c-4732-8d8c-38bfde9b3283,ZZZ,Romania,ro,119951381384296,Apa Nova Bucureşti,Facebook
-0a8f967f-e580-462c-9f4e-73b4aaf269bd,Itthon közösen a holnapért,2023-04-30T06:53:11.184Z,b5cbb990-b6ba-4c47-8f54-afc4db1a2c43,ZZZ,Romania,ro,102546752207217,Itthon közösen a holnapért,Facebook
-c79f6c77-96d6-48ee-8e99-71ce8e41f681,Ben & Jerry's,2023-05-01T06:53:18.460Z,18b7ed95-bfef-43df-8795-0c2e6bd943c8,ZZZ,Romania,ro,2013474412218518,Ben & Jerry's,Facebook
-8198f40d-90ad-44d2-8423-0201162254e7,Alcedo,2023-05-01T06:53:18.611Z,2f2d0021-a9c2-432b-9d2e-e6f167906147,ZZZ,Romania,ro,288706567858884,Alcedo,Facebook
-df898b56-bfd5-4240-a705-387f1e222489,Mediawise Society,2023-05-01T06:53:18.612Z,4fc7b308-c610-4f19-bafb-539549b0c4d9,ZZZ,Romania,ro,534069573370920,Mediawise Society,Facebook
-a20c5dd3-f489-4a85-b453-8ba89be5f2a6,Ravago ROM,2023-05-01T06:53:18.564Z,4b64d09f-b660-47a5-9c39-522955e3566b,ZZZ,Romania,ro,101517868661106,Ravago ROM,Facebook
-d11f917d-be70-4f41-86a4-5717c25102cd,DHL Express Romania,2023-05-01T06:53:18.685Z,9a22bf5e-5450-42e6-b8e2-f77cd64ff5af,ZZZ,Romania,ro,531530300240592,DHL Express Romania,Facebook
-67269b1d-91e2-47a6-bf0c-d8bb647e565d,Casa Vidu - Carmen Lidia Vidu,2023-05-02T06:53:33.639Z,c5ee5f89-5793-4d35-a3ec-d54de3715ce3,ZZZ,Romania,ro,189352387913996,Casa Vidu - Carmen Lidia Vidu,Facebook
-aa560bb8-c95c-4817-a26e-fd1e279ca958,Asociația de Dezvoltare Intercomunitară Eco Sibiu,2023-05-03T06:53:10.654Z,4a9bac8e-0a39-44f8-86b4-35321095a83a,ZZZ,Romania,ro,101356408760202,Asociația de Dezvoltare Intercomunitară Eco Sibiu,Facebook
-5b018e99-a95a-4e38-8d54-0a036e96e128,Skillab.ro,2023-05-02T06:53:33.625Z,8a023eec-26aa-4a90-82a7-1e6a34137ed8,ZZZ,Romania,ro,114221411288902,Skillab.ro,Facebook
-a1425efb-d0b4-4c14-a2a4-93aa14100499,Ulpia Dental,2023-05-02T06:53:33.840Z,7f121cfb-3d2b-4a40-9bf6-17c45a2417b5,ZZZ,Romania,ro,144599289030954,Ulpia Dental,Facebook
-d2ec5fa3-591d-4f64-9b90-d8f628a2aea1,Solution Media,2023-05-02T06:53:33.846Z,469bbb7c-62a9-42ba-9f9e-94c92eb400f2,ZZZ,Romania,ro,2300162673547611,Solution Media,Facebook
-fdd82095-89ec-4a49-809f-306b40b59861,OTP Bank Romania,2023-05-02T06:53:33.861Z,0e58806a-1908-4879-9922-af5cadcde56f,ZZZ,Romania,ro,1299282843440783,OTP Bank Romania,Facebook
-9325d6f3-a87b-4604-9354-d2230185427c,Jurnal de Arges,2023-05-02T06:53:33.827Z,ed806626-0ea7-4623-b296-5fb1ac934746,ZZZ,Romania,ro,420078551521096,Jurnal de Arges,Facebook
-30ac344a-a711-45f2-a688-32a0b2ab23f4,ThePressOffice.ro,2023-05-02T06:53:33.802Z,aff8c4c8-a82d-4b3b-a38e-da4dc4241f39,ZZZ,Romania,ro,108509428219475,ThePressOffice.ro,Facebook
-f5a23127-872d-4ef7-883e-a5f0871bbe7d,BCR,2023-05-02T06:53:33.848Z,4f3bee64-8eca-4816-a2b6-80f7e3be263d,ZZZ,Romania,ro,124341250922171,BCR,Facebook
-50e1d6cf-8eae-4982-848d-702820a198d9,Tarkett Romania,2023-05-02T06:53:33.609Z,7dba06f7-eab7-4f3f-ace7-eda93f81d1ab,ZZZ,Romania,ro,612435692581450,Tarkett Romania,Facebook
-4e2d55e8-e2d6-467c-bba7-ac50c53a3c41,Transilvania Business,2023-05-02T06:53:33.861Z,9ab412dd-322c-4e58-8c3c-d39a0f8f8734,ZZZ,Romania,ro,168847279827937,Transilvania Business,Facebook
-04309615-b20f-4462-bcef-01d2cf9abb5a,Primaria Municipiului Medgidia,2023-05-04T06:53:12.457Z,2924af2a-3f0b-4b1c-860e-7f68124213d2,ZZZ,Romania,ro,371878612956220,Primaria Municipiului Medgidia,Facebook
-7e9649f6-c2ad-464e-9070-68479f2a4ef5,Nuculus,2023-05-04T06:53:12.744Z,704dd28e-e7b5-44d5-abc2-2197ae4dba61,ZZZ,Romania,ro,2172465239662815,Nuculus,Facebook
-8bbfd564-d0cc-4cfa-9d3e-be5fd39160af,Beko,2023-05-04T06:53:12.652Z,dc154c4f-b458-4ee4-afc2-64f24e4f9b14,ZZZ,Romania,ro,925684247458441,Beko,Facebook
-0bc9a9de-bd0a-4e95-bb68-c3a6114cde74,Simpozion Stăniloae,2023-05-05T06:53:06.244Z,629310e7-202e-43ae-a65d-2df41bb85829,ZZZ,Romania,ro,237853790013322,Simpozion Stăniloae,Facebook
-c08496df-f2a1-4c75-8027-c6e53faa77f1,ROMCIM a CRH Company,2023-10-18T05:07:09.338Z,f35b4ad5-5c66-4247-8e07-fd3174820975,ZZZ,Romania,ro,473532706155933,ROMCIM a CRH Company,Facebook
-4678dc5c-72f0-4d69-8ef9-8973c4250487,CPE - Centrul Parteneriat pentru Egalitate,2023-05-05T06:53:06.168Z,72fe5577-ef77-4cc2-82cb-63cbcc783cfb,ZZZ,Romania,ro,190236071081911,CPE - Centrul Parteneriat pentru Egalitate,Facebook
-62863c34-1d63-447d-a627-aa9910f35b90,Punctul culminant,2023-05-05T06:53:06.246Z,9b76e74d-6da2-473a-bd86-4886585761bf,ZZZ,Romania,ro,1850182705109274,Punctul culminant,Facebook
-ef23079d-43e0-43be-8dfa-f19d2b514e03,Descoperă Eco-România,2023-05-05T06:53:06.230Z,6aeb21d9-db30-4959-8e70-a84e2afca25e,ZZZ,Romania,ro,130698233727400,Descoperă Eco-România,Facebook
-cb304b66-6741-492a-9d66-cfbb53edb7c7,Glass Sawyer,2023-05-06T06:53:27.392Z,72c64f85-e712-4b36-b05f-c6361d86bae9,ZZZ,Romania,ro,105192925668057,Glass Sawyer,Facebook
-8e6407d1-dc51-4db4-b691-8d50f5e72322,Bucharest Tech Week,2023-05-06T06:53:27.796Z,ca92bc8a-ef9e-47a6-8eb9-2eef40a33070,ZZZ,Romania,ro,1691348914457144,Bucharest Tech Week,Facebook
-20eceb8e-7e33-42aa-8a95-17b2343fa530,Color Smart Timișoara,2023-05-06T06:53:27.792Z,26b140c0-9ed1-4126-b002-f2f3578c80a8,ZZZ,Romania,ro,111886501532972,Color Smart Timișoara,Facebook
-d7bb661d-3073-4c9b-a859-b06ddda3c2e9,Sora & Asociatii,2023-05-07T06:52:58.944Z,9d7b6df9-1ad7-47f7-8369-a83dd1b4c847,ZZZ,Romania,ro,231807190252592,Sora & Asociatii,Facebook
-23d5512f-3607-4801-837e-30f4a22e39f3,Desprecopii,2023-05-07T06:52:59.152Z,780d9f92-ab71-4434-bdec-7e02300d2ec0,ZZZ,Romania,ro,106736629357774,Desprecopii,Facebook
-e83f70c3-f7dd-4278-b7ae-dc8b7df0a2b6,Eva.ro,2023-05-07T06:52:59.245Z,3f805e56-b6c0-4b85-ac9d-fd531805e6e4,ZZZ,Romania,ro,263597980340,Eva.ro,Facebook
-25140bc0-6c60-44ad-b4fb-2601fc6364f4,BookLand Romania,2023-05-07T06:52:59.249Z,35336201-d46a-4002-a1c3-f3de46e0e108,ZZZ,Romania,ro,314966175215208,BookLand Romania,Facebook
-1208bfb6-19aa-49da-865e-b503190b5b4c,Zetea Silviu - Președinte,2023-05-07T06:52:59.276Z,08aa05e1-0c39-424e-accd-11f922f43168,ZZZ,Romania,ro,101298739026938,Zetea Silviu - Președinte,Facebook
-bcbe7e73-543e-4f71-be5a-e83e20c2ce76,preferiti_ro,2023-05-07T06:52:59.344Z,ea7b0e97-7bae-4241-8abe-658bf2efb3f1,ZZZ,Romania,ro,108541675501130,preferiti_ro,Facebook
-2eab6bb8-e812-4046-84b6-cf8dddf2cc69,simpe_oficial,2023-05-08T06:53:16.023Z,b13f45ef-5677-4104-a08a-136220622732,ZZZ,Romania,ro,103811462683630,simpe_oficial,Facebook
-67a568b3-fca6-4518-a907-3b8831095b3c,depozit lemne de foc Arad,2023-05-08T06:53:16.061Z,013c514b-a231-4546-9541-4343cf8540d8,ZZZ,Romania,ro,123050917412990,depozit lemne de foc Arad,Facebook
-7b6c9730-4b0a-4f03-b113-472a6ec36e30,OSRAM Automotive Romania,2023-05-08T06:53:16.060Z,e462d431-f5a1-4324-b716-964a852ed857,ZZZ,Romania,ro,1624620711157942,OSRAM Automotive Romania,Facebook
-e358628b-997c-4465-8c35-299135405586,EnergyPal,2023-05-09T06:53:23.141Z,fa2503f1-2f31-46c0-9f97-cafc7ff7ff5f,ZZZ,Romania,ro,1478299532499760,EnergyPal,Facebook
-a1bc7be4-eb72-462c-a22b-2bd085691042,Joblandia,2023-05-09T06:53:23.176Z,596beaf8-abfa-4576-825f-3420cdc147f9,ZZZ,Romania,ro,114349841590453,Joblandia,Facebook
-24bb3db8-c179-4a70-81ce-5543577233c1,GD Tax and Financial Consulting,2023-05-09T06:53:23.108Z,1440754f-97bb-42b0-96ee-9889d76fd5dc,ZZZ,Romania,ro,109375075062801,GD Tax and Financial Consulting,Facebook
-63f2f9d7-5ef5-4e48-b5da-687fe06db871,Calea prosperității,2023-05-09T06:53:23.176Z,c6415cc4-8475-4f71-bc5a-5bc9219238f7,ZZZ,Romania,ro,228249294595194,Calea prosperității,Facebook
-5e61dde4-813d-406b-b8bf-41328b1fdd80,Euro Jobs,2023-05-09T06:53:23.076Z,601726a9-fc06-405f-9c19-4ca64c942526,ZZZ,Romania,ro,289057221137118,Euro Jobs,Facebook
-48f08ee5-306d-47ec-95c0-bc49e326f43d,Editura ACT și Politon,2023-05-09T06:53:23.232Z,d100bb78-4b3a-4450-9f0c-404dc3d5e151,ZZZ,Romania,ro,1422968087949705,Editura ACT și Politon,Facebook
-bc44982d-281e-48de-93e9-cbba5e790aaa,Speo Cristal,2023-05-09T06:53:23.134Z,9e515245-38b2-4797-bdb2-5881669a1994,ZZZ,Romania,ro,264423257362008,Speo Cristal,Facebook
-fcd7f9f6-009c-4a2a-b902-be315666edc2,HELLA,2023-05-10T06:53:50.394Z,d574ae44-0022-49fe-8662-7dc1e163c10c,ZZZ,Romania,ro,473158102774676,HELLA,Facebook
-9c39410e-19a8-41dd-a1b6-6223c566ff8f,Asociatia Lions Club Sportiv Mereu Impreuna Pentru Oameni,2023-05-10T06:53:50.420Z,85cde70d-784d-4e8b-abe0-bd9d68ca67e6,ZZZ,Romania,ro,1274760009338125,Asociatia Lions Club Sportiv Mereu Impreuna Pentru Oameni,Facebook
-390cabd7-3054-4c3f-aece-7c7e75a624a6,Crestemidei,2023-05-10T06:53:50.523Z,7cff37bd-34f9-4b8b-92e4-cbf44d1ff5f4,ZZZ,Romania,ro,495396537153337,Crestemidei,Facebook
-8765439a-88c8-4f26-bb91-cd5034bd910e,CoBuild,2023-05-11T06:53:49.425Z,f9402fb9-742b-459c-a991-844dc576062e,ZZZ,Romania,ro,102028619234772,CoBuild,Facebook
-3cd26cce-9335-4b62-b47b-bc6b76d315d5,BMW România,2023-11-07T05:07:08.663Z,8706ffa1-2a58-4432-a3a1-8f2501e237bf,ZZZ,Romania,ro,114475405255795,BMW România,Facebook
-0f4c4a26-4f68-4457-a5bd-926937ae5e54,Lockout Stereotypes,2023-05-12T06:53:17.163Z,70d7a9dd-bffc-4c84-bf07-fbeceac0921b,ZZZ,Romania,ro,104515455871123,Lockout Stereotypes,Facebook
-2c0837a0-55b3-47dc-b8b6-d3398295f13f,Bianca Mircea - Cabinet de Avocat,2023-05-12T06:53:17.497Z,db7b1868-f476-4ca0-9fa1-45cf26166a46,ZZZ,Romania,ro,102381955983563,Bianca Mircea - Cabinet de Avocat,Facebook
-9634fabf-d0e8-4278-8241-b1737eea59e7,Historic,2023-05-12T06:53:17.483Z,58b1bda0-e302-42e8-8923-9b4a38510243,ZZZ,Romania,ro,343985289762259,Historic,Facebook
-8b28227d-e306-4da8-b2f4-f9488143c541,GMMC,2023-05-14T06:53:42.872Z,6f68cb7d-49aa-42ee-ac77-ef88b6f9573e,ZZZ,Romania,ro,236342810167716,GMMC,Facebook
-d2efc089-6b3c-4772-b517-602ca57017fc,Tineri Europeni / Young Europeans Romania,2023-05-14T06:53:42.874Z,23804375-9873-4df1-b79d-394df410f2ce,ZZZ,Romania,ro,121357538490187,Tineri Europeni / Young Europeans Romania,Facebook
-fe1c61ce-d9b8-43ee-a6fa-1d6957361260,Greenline Energy România,2023-05-14T06:53:42.857Z,aa35e136-698c-4f0b-ab70-7429591a50ec,ZZZ,Romania,ro,108067045560894,Greenline Energy România,Facebook
-7ac0e392-6738-4803-9156-f69bcd919f3d,Clubul Profesorilor,2023-05-14T06:53:42.874Z,4e9f6076-32a8-4706-8b5d-9254940d2b6c,ZZZ,Romania,ro,114843431594687,Clubul Profesorilor,Facebook
-d4ac20c6-2e7f-4b87-92ec-cb7e4f73af29,Fleming Kris,2023-05-13T06:53:40.658Z,5d630d3d-7410-407e-ac66-ff5c08e60904,ZZZ,Romania,ro,106315865565038,Fleming Kris,Facebook
-cd2f316d-befd-47cf-b585-ed5c867dfe2c,WASP Working Art Space and Production,2023-05-13T06:53:40.887Z,50410de7-ec8b-4dd4-9a34-08276a957d63,ZZZ,Romania,ro,539397199419143,WASP Working Art Space and Production,Facebook
-a1c249eb-940c-407d-bdad-a359cb09e017,Skillab,2023-05-14T06:53:42.795Z,390e312b-b03e-43ce-8453-c555bd857792,ZZZ,Romania,ro,106648655054049,Skillab,Facebook
-c4f278d1-9daa-49d5-a494-8ae65a52c915,WWF Romania,2023-05-14T06:53:42.870Z,402e5e23-a206-495a-9423-26cff8b32b33,ZZZ,Romania,ro,189728367297,WWF Romania,Facebook
-b6a196f0-8d18-4c10-9b26-974ad5cea211,Fortune Olette,2023-05-13T06:53:40.648Z,2e4c0a42-0299-4454-9951-b769ab5ff645,ZZZ,Romania,ro,102157602643370,Fortune Olette,Facebook
-a73b63e8-a52e-4ba6-b188-871e0839c73f,Smartliving.ro,2023-10-20T05:07:10.247Z,42106e22-14a4-4a98-be89-0b9a6c48adc3,ZZZ,Romania,ro,103725481171150,Smartliving.ro,Facebook
-4e0b10d0-7d54-45a3-8ce0-3a3ace3772a6,Eutron Invest Romania,2023-05-16T06:53:34.051Z,9ff9e09a-281e-494c-b9b8-c9e029bc8314,ZZZ,Romania,ro,708757925952969,Eutron Invest Romania,Facebook
-2322f2fd-96ce-42b4-8902-1ce976547901,Every Can Counts,2023-05-15T06:53:47.101Z,16f5db71-1222-48ee-91ac-c1bcaa672ab9,ZZZ,Romania,ro,979128092114200,Every Can Counts,Facebook
-1af387d0-6fbd-4ecf-9de6-29645fa282a7,Audio Alfa,2023-05-15T06:53:47.162Z,e643c1c9-c6d4-4bbe-be51-7ff9ba6da709,ZZZ,Romania,ro,1935179676747488,Audio Alfa,Facebook
-8e4a07d6-31c8-4477-9123-5686eb8e1f67,Aciocarlanoae Andrei,2023-05-15T06:53:46.979Z,d364b49e-95c8-47b0-930a-df2de6e8d510,ZZZ,Romania,ro,1376982875659603,Aciocarlanoae Andrei,Facebook
-957ca8ef-e679-4e77-9eff-0bff23536bf0,Non's táskái,2023-05-16T06:53:34.053Z,98b2d571-7955-417b-b2a0-3f7dea312973,ZZZ,Romania,ro,1561982447361791,Non's táskái,Facebook
-814cc01b-e5db-4c1f-81e0-425504cc80c2,Catena - Farmacia Inimii,2023-05-15T06:53:46.981Z,a74df243-f208-4eaf-865f-91f868641950,ZZZ,Romania,ro,185997004328,Catena - Farmacia Inimii,Facebook
-d1224a6c-de99-4fc5-9fdf-939266accd60,Zona Metropolitană Cluj,2023-05-15T06:53:47.116Z,301da22b-6c09-4725-8764-f111693d645b,ZZZ,Romania,ro,102845501378487,Zona Metropolitană Cluj,Facebook
-7ee5753d-7375-4c69-a5a5-f4da4e2fad32,SOS Satele Copiilor Romania,2023-05-16T06:53:34.116Z,ad21c2a4-53e2-4cdc-ade8-0f7f6270f80b,ZZZ,Romania,ro,153018728044101,SOS Satele Copiilor Romania,Facebook
+d9b0f00b-52bd-443d-a19d-d68475ac5339,Kristal Club,2023-03-20T10:53:35.412Z,f217fbb2-21a6-4192-806d-c34a84f9e40f,ZZZ,Romania,ro,164436276942086,Kristal Club,Facebook
+28312951-8868-47a8-b8c7-747a97b07f2b,Asociatia Donam Plasma,2023-03-20T10:53:35.353Z,34427a96-c2cc-4499-8a39-44841e3feff2,ZZZ,Romania,ro,100558705864201,Asociatia Donam Plasma,Facebook
+57a36507-dc5e-42db-9ba4-2e3fe653cc95,DoctorMusetel.ro,2023-03-20T10:53:35.297Z,30054098-7746-474b-9282-1be964fc91be,ZZZ,Romania,ro,169102416455801,DoctorMusetel.ro,Facebook
+56a346f9-add2-407c-9d29-5e4a796fb4ba,PBA Platform Influ2,2023-03-20T10:53:35.468Z,770dbe64-8b00-42dc-90a5-f744a82254a6,ZZZ,Romania,ro,115479278081178,PBA Platform Influ2,Facebook
+5a772aec-ef9e-4c29-856b-1ba577b6c785,ethics_beauty,2023-03-20T10:53:35.332Z,9061109c-5a17-4675-9ff1-c024bf738e4d,ZZZ,Romania,ro,125269318872009,ethics_beauty,Facebook
+a1ff74b6-ce62-49f7-a53e-f57f2348b06c,A IV A Putere - RNTV,2023-11-15T05:07:07.203Z,d3014643-1d61-41e4-8d4f-6dd737562a58,ZZZ,Romania,ro,127369143789334,A IV A Putere - RNTV,Facebook
+c9c7bf07-0a49-4981-8b91-287c0997f4ef,Watzinger United,2023-11-15T05:07:07.125Z,08f080e5-0d71-4bd1-adf6-ad9dfcba720e,ZZZ,Romania,ro,108323255605643,Watzinger United,Facebook
 cd1a5b69-3b64-437c-93fc-0328f12c900d,Revista Ferma,2023-05-16T06:53:33.980Z,1152370d-7fd1-431d-9451-755e9c2fd296,ZZZ,Romania,ro,205808149439773,Revista Ferma,Facebook
 11439a0a-0404-45e2-a754-e5f9ce2b57b6,Azi pentru Maine,2023-05-17T06:53:02.597Z,6417fe60-ed33-4d79-831a-8a02805f81f9,ZZZ,Romania,ro,100449101898995,Azi pentru Maine,Facebook
 1fc9e11b-7d82-4ccb-990c-960d274adba4,"Targul National Imobiliar-TNI, 19-21 MAI 2023, Palatul Parlamentului",2023-05-17T06:53:02.701Z,acc398c6-cdc2-451c-b468-0c16c93882a8,ZZZ,Romania,ro,348442895223932,"Targul National Imobiliar-TNI, 19-21 MAI 2023, Palatul Parlamentului",Facebook
@@ -1175,6 +1084,97 @@ c66058d1-19cc-489e-a21d-d4ac830be380,Іnvеstitori Еnеl,2023-11-26T05:07:40.68
 4f7b57f1-39da-4d41-afea-15c276f2a9b6,teiusinfo.ro,2023-12-17T05:06:48.527Z,6c712a0d-370f-4991-a140-9870dff95119,ZZZ,Romania,ro,398986586862769,teiusinfo.ro,Facebook
 dc5a67f7-d274-4e80-86b7-a03f6c227609,Sweet Peach,2023-12-01T05:07:40.385Z,4c7f18b7-42ed-45bb-935b-4d5934bad10a,ZZZ,Romania,ro,101670311779187,Sweet Peach,Facebook
 90492086-70bd-45f5-b688-7e9303e3097a,Sport Club Municipal Bacau Pagina Oficiala,2023-12-22T05:06:47.419Z,74badd4a-3b45-4e72-b674-efd162406de0,ZZZ,Romania,ro,109279681609692,Sport Club Municipal Bacau Pagina Oficiala,Facebook
+5602ef30-b24e-4844-8764-e0977241fea1,GymBeam,2023-04-26T06:53:46.442Z,356ee4ca-dad7-4f9f-a878-f19af414969e,ZZZ,Romania,ro,589346561252006,GymBeam,Facebook
+de1c47dd-4b60-4df3-b74e-8396b9c723b7,Zoria.ro,2023-04-26T06:53:46.504Z,2c58f358-4fbe-4c92-b268-7d0337ed2a30,ZZZ,Romania,ro,102131768363052,Zoria.ro,Facebook
+a34c1a7b-ec6c-44a3-be21-b8ae9abe1ecd,Avocat Velicu Daniel,2023-04-26T06:53:46.108Z,772c7468-ee73-426d-adbf-b6dc004d38df,ZZZ,Romania,ro,147021175998819,Avocat Velicu Daniel,Facebook
+68e20d49-bd31-41d0-96a4-43ba24cc444f,Circul Metropolitan Bucuresti,2023-04-26T06:53:46.492Z,5144437f-b2ef-42f6-a35b-4dc35de09033,ZZZ,Romania,ro,335991603478421,Circul Metropolitan Bucuresti,Facebook
+07c166e6-bdcb-4dc8-9e59-c427906585f3,SELLification - The Professional's Selling Game,2023-04-26T06:53:46.141Z,fcee75dd-f111-432c-a383-2056a29315af,ZZZ,Romania,ro,1706960769618930,SELLification - The Professional's Selling Game,Facebook
+da96e032-bf54-4912-bf3a-e850d33c04d2,Raul Pop - page,2023-11-05T05:07:01.759Z,11c059c3-9fe0-48bb-bb12-04a285e23830,ZZZ,Romania,ro,1971627573137454,Raul Pop - page,Facebook
+186ea6a4-7d6c-4b97-97bf-bd4cba913c5a,Justice Initiative Romania,2023-04-27T06:53:32.522Z,a68d7579-23d0-413f-9626-1ca18f88b52e,ZZZ,Romania,ro,103359025738044,Justice Initiative Romania,Facebook
+a6a12aaf-2683-42e3-b6c2-50d2996dcd5b,Stagii pe Bune,2023-04-27T06:53:32.638Z,d7430b69-b3d5-43db-8b3b-a064a1617e76,ZZZ,Romania,ro,110269785674808,Stagii pe Bune,Facebook
+8e70d140-9b7f-4e4d-ae90-f9fe06633fa2,MyTex - Stiri Online Brasov,2023-04-27T06:53:32.758Z,485598f1-7077-4efd-800f-8e68ecb0990e,ZZZ,Romania,ro,139546752732140,MyTex - Stiri Online Brasov,Facebook
+71b3cb8c-13ea-45fc-a530-9ff64832d9ac,Crama Ceptura,2023-04-27T06:53:32.918Z,954cb660-f405-43fa-b003-84e0394458e0,ZZZ,Romania,ro,292307010813140,Crama Ceptura,Facebook
+c9f35fd5-553b-4920-8203-66fa8743250b,Euroccoper,2023-04-28T06:53:22.088Z,fc932294-84d4-40f2-90f2-7083ced84615,ZZZ,Romania,ro,232331760308845,Euroccoper,Facebook
+e695a2a4-1d2e-43ed-85ff-921e617a55cc,astro_ares_tarot,2023-04-28T06:53:22.119Z,8bbde93e-b8a6-4b1f-96f2-bb8d399a8685,ZZZ,Romania,ro,102726702458906,astro_ares_tarot,Facebook
+889f7677-5583-4f93-93ea-be8d5aeed5b0,Romatom Oficial,2023-04-28T06:53:21.715Z,b9ce14e7-0468-4efc-866d-124db72f8022,ZZZ,Romania,ro,1690234811282383,Romatom Oficial,Facebook
+8495d840-245d-4053-b954-5d6ce334bd3e,Pantum International,2023-04-28T06:53:21.757Z,ba143890-11cf-4f45-bdb5-a694f952ba27,ZZZ,Romania,ro,102485661587914,Pantum International,Facebook
+99f08f56-6a28-42e0-8445-06ceb9d70b76,Astra Film Festival,2023-10-17T05:07:11.629Z,81947832-25d3-49a4-8040-31e18e6b361b,ZZZ,Romania,ro,123661717708902,Astra Film Festival,Facebook
+dfdaff24-7f19-4fda-bfce-1d8df336d62f,4Culture,2023-04-29T06:53:32.192Z,65bb9725-e9fa-46c7-a321-f153402cecf9,ZZZ,Romania,ro,362676257102247,4Culture,Facebook
+a36344a1-334a-4efb-a1ef-c3e85b5d3226,Agrocentrala,2023-04-29T06:53:32.179Z,d0065a46-8141-40b9-b2ea-fc010508df38,ZZZ,Romania,ro,101462959574536,Agrocentrala,Facebook
+ccc236d9-ff0a-441a-9e14-f1223fb917d2,Dezvoltarea Inteligenței Digitale pentru o Cetățenie activă,2023-04-29T06:53:32.000Z,f8c7fc23-d0e2-4aa6-9142-c2b642eb4a1e,ZZZ,Romania,ro,101746676021385,Dezvoltarea Inteligenței Digitale pentru o Cetățenie activă,Facebook
+72483b49-117f-4c87-9202-1d19321b631c,Psiholog dr.Sandra O'Connor,2023-04-29T06:53:32.201Z,18aa5c59-6b25-438a-9c91-da60981e9eb6,ZZZ,Romania,ro,1128422237172476,Psiholog dr.Sandra O'Connor,Facebook
+44377f9d-2df3-4b88-9fa4-613ce2638ad8,CE ȘTIȚI VOI despre  VOI ? -satira,2023-04-29T06:53:31.942Z,5106365a-b12f-42d2-a68f-8c8857d8e4c4,ZZZ,Romania,ro,105971909138735,CE ȘTIȚI VOI despre  VOI ? -satira,Facebook
+68aae3df-8cee-46b7-9bb9-3e1b1d3d09f2,Apa Nova Bucureşti,2023-04-30T06:53:10.978Z,d660dde0-774c-4732-8d8c-38bfde9b3283,ZZZ,Romania,ro,119951381384296,Apa Nova Bucureşti,Facebook
+0a8f967f-e580-462c-9f4e-73b4aaf269bd,Itthon közösen a holnapért,2023-04-30T06:53:11.184Z,b5cbb990-b6ba-4c47-8f54-afc4db1a2c43,ZZZ,Romania,ro,102546752207217,Itthon közösen a holnapért,Facebook
+c79f6c77-96d6-48ee-8e99-71ce8e41f681,Ben & Jerry's,2023-05-01T06:53:18.460Z,18b7ed95-bfef-43df-8795-0c2e6bd943c8,ZZZ,Romania,ro,2013474412218518,Ben & Jerry's,Facebook
+8198f40d-90ad-44d2-8423-0201162254e7,Alcedo,2023-05-01T06:53:18.611Z,2f2d0021-a9c2-432b-9d2e-e6f167906147,ZZZ,Romania,ro,288706567858884,Alcedo,Facebook
+df898b56-bfd5-4240-a705-387f1e222489,Mediawise Society,2023-05-01T06:53:18.612Z,4fc7b308-c610-4f19-bafb-539549b0c4d9,ZZZ,Romania,ro,534069573370920,Mediawise Society,Facebook
+a20c5dd3-f489-4a85-b453-8ba89be5f2a6,Ravago ROM,2023-05-01T06:53:18.564Z,4b64d09f-b660-47a5-9c39-522955e3566b,ZZZ,Romania,ro,101517868661106,Ravago ROM,Facebook
+d11f917d-be70-4f41-86a4-5717c25102cd,DHL Express Romania,2023-05-01T06:53:18.685Z,9a22bf5e-5450-42e6-b8e2-f77cd64ff5af,ZZZ,Romania,ro,531530300240592,DHL Express Romania,Facebook
+67269b1d-91e2-47a6-bf0c-d8bb647e565d,Casa Vidu - Carmen Lidia Vidu,2023-05-02T06:53:33.639Z,c5ee5f89-5793-4d35-a3ec-d54de3715ce3,ZZZ,Romania,ro,189352387913996,Casa Vidu - Carmen Lidia Vidu,Facebook
+aa560bb8-c95c-4817-a26e-fd1e279ca958,Asociația de Dezvoltare Intercomunitară Eco Sibiu,2023-05-03T06:53:10.654Z,4a9bac8e-0a39-44f8-86b4-35321095a83a,ZZZ,Romania,ro,101356408760202,Asociația de Dezvoltare Intercomunitară Eco Sibiu,Facebook
+5b018e99-a95a-4e38-8d54-0a036e96e128,Skillab.ro,2023-05-02T06:53:33.625Z,8a023eec-26aa-4a90-82a7-1e6a34137ed8,ZZZ,Romania,ro,114221411288902,Skillab.ro,Facebook
+a1425efb-d0b4-4c14-a2a4-93aa14100499,Ulpia Dental,2023-05-02T06:53:33.840Z,7f121cfb-3d2b-4a40-9bf6-17c45a2417b5,ZZZ,Romania,ro,144599289030954,Ulpia Dental,Facebook
+d2ec5fa3-591d-4f64-9b90-d8f628a2aea1,Solution Media,2023-05-02T06:53:33.846Z,469bbb7c-62a9-42ba-9f9e-94c92eb400f2,ZZZ,Romania,ro,2300162673547611,Solution Media,Facebook
+fdd82095-89ec-4a49-809f-306b40b59861,OTP Bank Romania,2023-05-02T06:53:33.861Z,0e58806a-1908-4879-9922-af5cadcde56f,ZZZ,Romania,ro,1299282843440783,OTP Bank Romania,Facebook
+9325d6f3-a87b-4604-9354-d2230185427c,Jurnal de Arges,2023-05-02T06:53:33.827Z,ed806626-0ea7-4623-b296-5fb1ac934746,ZZZ,Romania,ro,420078551521096,Jurnal de Arges,Facebook
+30ac344a-a711-45f2-a688-32a0b2ab23f4,ThePressOffice.ro,2023-05-02T06:53:33.802Z,aff8c4c8-a82d-4b3b-a38e-da4dc4241f39,ZZZ,Romania,ro,108509428219475,ThePressOffice.ro,Facebook
+f5a23127-872d-4ef7-883e-a5f0871bbe7d,BCR,2023-05-02T06:53:33.848Z,4f3bee64-8eca-4816-a2b6-80f7e3be263d,ZZZ,Romania,ro,124341250922171,BCR,Facebook
+50e1d6cf-8eae-4982-848d-702820a198d9,Tarkett Romania,2023-05-02T06:53:33.609Z,7dba06f7-eab7-4f3f-ace7-eda93f81d1ab,ZZZ,Romania,ro,612435692581450,Tarkett Romania,Facebook
+4e2d55e8-e2d6-467c-bba7-ac50c53a3c41,Transilvania Business,2023-05-02T06:53:33.861Z,9ab412dd-322c-4e58-8c3c-d39a0f8f8734,ZZZ,Romania,ro,168847279827937,Transilvania Business,Facebook
+04309615-b20f-4462-bcef-01d2cf9abb5a,Primaria Municipiului Medgidia,2023-05-04T06:53:12.457Z,2924af2a-3f0b-4b1c-860e-7f68124213d2,ZZZ,Romania,ro,371878612956220,Primaria Municipiului Medgidia,Facebook
+7e9649f6-c2ad-464e-9070-68479f2a4ef5,Nuculus,2023-05-04T06:53:12.744Z,704dd28e-e7b5-44d5-abc2-2197ae4dba61,ZZZ,Romania,ro,2172465239662815,Nuculus,Facebook
+8bbfd564-d0cc-4cfa-9d3e-be5fd39160af,Beko,2023-05-04T06:53:12.652Z,dc154c4f-b458-4ee4-afc2-64f24e4f9b14,ZZZ,Romania,ro,925684247458441,Beko,Facebook
+0bc9a9de-bd0a-4e95-bb68-c3a6114cde74,Simpozion Stăniloae,2023-05-05T06:53:06.244Z,629310e7-202e-43ae-a65d-2df41bb85829,ZZZ,Romania,ro,237853790013322,Simpozion Stăniloae,Facebook
+c08496df-f2a1-4c75-8027-c6e53faa77f1,ROMCIM a CRH Company,2023-10-18T05:07:09.338Z,f35b4ad5-5c66-4247-8e07-fd3174820975,ZZZ,Romania,ro,473532706155933,ROMCIM a CRH Company,Facebook
+4678dc5c-72f0-4d69-8ef9-8973c4250487,CPE - Centrul Parteneriat pentru Egalitate,2023-05-05T06:53:06.168Z,72fe5577-ef77-4cc2-82cb-63cbcc783cfb,ZZZ,Romania,ro,190236071081911,CPE - Centrul Parteneriat pentru Egalitate,Facebook
+62863c34-1d63-447d-a627-aa9910f35b90,Punctul culminant,2023-05-05T06:53:06.246Z,9b76e74d-6da2-473a-bd86-4886585761bf,ZZZ,Romania,ro,1850182705109274,Punctul culminant,Facebook
+ef23079d-43e0-43be-8dfa-f19d2b514e03,Descoperă Eco-România,2023-05-05T06:53:06.230Z,6aeb21d9-db30-4959-8e70-a84e2afca25e,ZZZ,Romania,ro,130698233727400,Descoperă Eco-România,Facebook
+cb304b66-6741-492a-9d66-cfbb53edb7c7,Glass Sawyer,2023-05-06T06:53:27.392Z,72c64f85-e712-4b36-b05f-c6361d86bae9,ZZZ,Romania,ro,105192925668057,Glass Sawyer,Facebook
+8e6407d1-dc51-4db4-b691-8d50f5e72322,Bucharest Tech Week,2023-05-06T06:53:27.796Z,ca92bc8a-ef9e-47a6-8eb9-2eef40a33070,ZZZ,Romania,ro,1691348914457144,Bucharest Tech Week,Facebook
+20eceb8e-7e33-42aa-8a95-17b2343fa530,Color Smart Timișoara,2023-05-06T06:53:27.792Z,26b140c0-9ed1-4126-b002-f2f3578c80a8,ZZZ,Romania,ro,111886501532972,Color Smart Timișoara,Facebook
+d7bb661d-3073-4c9b-a859-b06ddda3c2e9,Sora & Asociatii,2023-05-07T06:52:58.944Z,9d7b6df9-1ad7-47f7-8369-a83dd1b4c847,ZZZ,Romania,ro,231807190252592,Sora & Asociatii,Facebook
+23d5512f-3607-4801-837e-30f4a22e39f3,Desprecopii,2023-05-07T06:52:59.152Z,780d9f92-ab71-4434-bdec-7e02300d2ec0,ZZZ,Romania,ro,106736629357774,Desprecopii,Facebook
+e83f70c3-f7dd-4278-b7ae-dc8b7df0a2b6,Eva.ro,2023-05-07T06:52:59.245Z,3f805e56-b6c0-4b85-ac9d-fd531805e6e4,ZZZ,Romania,ro,263597980340,Eva.ro,Facebook
+25140bc0-6c60-44ad-b4fb-2601fc6364f4,BookLand Romania,2023-05-07T06:52:59.249Z,35336201-d46a-4002-a1c3-f3de46e0e108,ZZZ,Romania,ro,314966175215208,BookLand Romania,Facebook
+1208bfb6-19aa-49da-865e-b503190b5b4c,Zetea Silviu - Președinte,2023-05-07T06:52:59.276Z,08aa05e1-0c39-424e-accd-11f922f43168,ZZZ,Romania,ro,101298739026938,Zetea Silviu - Președinte,Facebook
+bcbe7e73-543e-4f71-be5a-e83e20c2ce76,preferiti_ro,2023-05-07T06:52:59.344Z,ea7b0e97-7bae-4241-8abe-658bf2efb3f1,ZZZ,Romania,ro,108541675501130,preferiti_ro,Facebook
+2eab6bb8-e812-4046-84b6-cf8dddf2cc69,simpe_oficial,2023-05-08T06:53:16.023Z,b13f45ef-5677-4104-a08a-136220622732,ZZZ,Romania,ro,103811462683630,simpe_oficial,Facebook
+67a568b3-fca6-4518-a907-3b8831095b3c,depozit lemne de foc Arad,2023-05-08T06:53:16.061Z,013c514b-a231-4546-9541-4343cf8540d8,ZZZ,Romania,ro,123050917412990,depozit lemne de foc Arad,Facebook
+7b6c9730-4b0a-4f03-b113-472a6ec36e30,OSRAM Automotive Romania,2023-05-08T06:53:16.060Z,e462d431-f5a1-4324-b716-964a852ed857,ZZZ,Romania,ro,1624620711157942,OSRAM Automotive Romania,Facebook
+e358628b-997c-4465-8c35-299135405586,EnergyPal,2023-05-09T06:53:23.141Z,fa2503f1-2f31-46c0-9f97-cafc7ff7ff5f,ZZZ,Romania,ro,1478299532499760,EnergyPal,Facebook
+a1bc7be4-eb72-462c-a22b-2bd085691042,Joblandia,2023-05-09T06:53:23.176Z,596beaf8-abfa-4576-825f-3420cdc147f9,ZZZ,Romania,ro,114349841590453,Joblandia,Facebook
+24bb3db8-c179-4a70-81ce-5543577233c1,GD Tax and Financial Consulting,2023-05-09T06:53:23.108Z,1440754f-97bb-42b0-96ee-9889d76fd5dc,ZZZ,Romania,ro,109375075062801,GD Tax and Financial Consulting,Facebook
+63f2f9d7-5ef5-4e48-b5da-687fe06db871,Calea prosperității,2023-05-09T06:53:23.176Z,c6415cc4-8475-4f71-bc5a-5bc9219238f7,ZZZ,Romania,ro,228249294595194,Calea prosperității,Facebook
+5e61dde4-813d-406b-b8bf-41328b1fdd80,Euro Jobs,2023-05-09T06:53:23.076Z,601726a9-fc06-405f-9c19-4ca64c942526,ZZZ,Romania,ro,289057221137118,Euro Jobs,Facebook
+48f08ee5-306d-47ec-95c0-bc49e326f43d,Editura ACT și Politon,2023-05-09T06:53:23.232Z,d100bb78-4b3a-4450-9f0c-404dc3d5e151,ZZZ,Romania,ro,1422968087949705,Editura ACT și Politon,Facebook
+bc44982d-281e-48de-93e9-cbba5e790aaa,Speo Cristal,2023-05-09T06:53:23.134Z,9e515245-38b2-4797-bdb2-5881669a1994,ZZZ,Romania,ro,264423257362008,Speo Cristal,Facebook
+fcd7f9f6-009c-4a2a-b902-be315666edc2,HELLA,2023-05-10T06:53:50.394Z,d574ae44-0022-49fe-8662-7dc1e163c10c,ZZZ,Romania,ro,473158102774676,HELLA,Facebook
+9c39410e-19a8-41dd-a1b6-6223c566ff8f,Asociatia Lions Club Sportiv Mereu Impreuna Pentru Oameni,2023-05-10T06:53:50.420Z,85cde70d-784d-4e8b-abe0-bd9d68ca67e6,ZZZ,Romania,ro,1274760009338125,Asociatia Lions Club Sportiv Mereu Impreuna Pentru Oameni,Facebook
+390cabd7-3054-4c3f-aece-7c7e75a624a6,Crestemidei,2023-05-10T06:53:50.523Z,7cff37bd-34f9-4b8b-92e4-cbf44d1ff5f4,ZZZ,Romania,ro,495396537153337,Crestemidei,Facebook
+8765439a-88c8-4f26-bb91-cd5034bd910e,CoBuild,2023-05-11T06:53:49.425Z,f9402fb9-742b-459c-a991-844dc576062e,ZZZ,Romania,ro,102028619234772,CoBuild,Facebook
+3cd26cce-9335-4b62-b47b-bc6b76d315d5,BMW România,2023-11-07T05:07:08.663Z,8706ffa1-2a58-4432-a3a1-8f2501e237bf,ZZZ,Romania,ro,114475405255795,BMW România,Facebook
+0f4c4a26-4f68-4457-a5bd-926937ae5e54,Lockout Stereotypes,2023-05-12T06:53:17.163Z,70d7a9dd-bffc-4c84-bf07-fbeceac0921b,ZZZ,Romania,ro,104515455871123,Lockout Stereotypes,Facebook
+2c0837a0-55b3-47dc-b8b6-d3398295f13f,Bianca Mircea - Cabinet de Avocat,2023-05-12T06:53:17.497Z,db7b1868-f476-4ca0-9fa1-45cf26166a46,ZZZ,Romania,ro,102381955983563,Bianca Mircea - Cabinet de Avocat,Facebook
+9634fabf-d0e8-4278-8241-b1737eea59e7,Historic,2023-05-12T06:53:17.483Z,58b1bda0-e302-42e8-8923-9b4a38510243,ZZZ,Romania,ro,343985289762259,Historic,Facebook
+8b28227d-e306-4da8-b2f4-f9488143c541,GMMC,2023-05-14T06:53:42.872Z,6f68cb7d-49aa-42ee-ac77-ef88b6f9573e,ZZZ,Romania,ro,236342810167716,GMMC,Facebook
+d2efc089-6b3c-4772-b517-602ca57017fc,Tineri Europeni / Young Europeans Romania,2023-05-14T06:53:42.874Z,23804375-9873-4df1-b79d-394df410f2ce,ZZZ,Romania,ro,121357538490187,Tineri Europeni / Young Europeans Romania,Facebook
+fe1c61ce-d9b8-43ee-a6fa-1d6957361260,Greenline Energy România,2023-05-14T06:53:42.857Z,aa35e136-698c-4f0b-ab70-7429591a50ec,ZZZ,Romania,ro,108067045560894,Greenline Energy România,Facebook
+7ac0e392-6738-4803-9156-f69bcd919f3d,Clubul Profesorilor,2023-05-14T06:53:42.874Z,4e9f6076-32a8-4706-8b5d-9254940d2b6c,ZZZ,Romania,ro,114843431594687,Clubul Profesorilor,Facebook
+d4ac20c6-2e7f-4b87-92ec-cb7e4f73af29,Fleming Kris,2023-05-13T06:53:40.658Z,5d630d3d-7410-407e-ac66-ff5c08e60904,ZZZ,Romania,ro,106315865565038,Fleming Kris,Facebook
+cd2f316d-befd-47cf-b585-ed5c867dfe2c,WASP Working Art Space and Production,2023-05-13T06:53:40.887Z,50410de7-ec8b-4dd4-9a34-08276a957d63,ZZZ,Romania,ro,539397199419143,WASP Working Art Space and Production,Facebook
+a1c249eb-940c-407d-bdad-a359cb09e017,Skillab,2023-05-14T06:53:42.795Z,390e312b-b03e-43ce-8453-c555bd857792,ZZZ,Romania,ro,106648655054049,Skillab,Facebook
+c4f278d1-9daa-49d5-a494-8ae65a52c915,WWF Romania,2023-05-14T06:53:42.870Z,402e5e23-a206-495a-9423-26cff8b32b33,ZZZ,Romania,ro,189728367297,WWF Romania,Facebook
+b6a196f0-8d18-4c10-9b26-974ad5cea211,Fortune Olette,2023-05-13T06:53:40.648Z,2e4c0a42-0299-4454-9951-b769ab5ff645,ZZZ,Romania,ro,102157602643370,Fortune Olette,Facebook
+a73b63e8-a52e-4ba6-b188-871e0839c73f,Smartliving.ro,2023-10-20T05:07:10.247Z,42106e22-14a4-4a98-be89-0b9a6c48adc3,ZZZ,Romania,ro,103725481171150,Smartliving.ro,Facebook
+4e0b10d0-7d54-45a3-8ce0-3a3ace3772a6,Eutron Invest Romania,2023-05-16T06:53:34.051Z,9ff9e09a-281e-494c-b9b8-c9e029bc8314,ZZZ,Romania,ro,708757925952969,Eutron Invest Romania,Facebook
+2322f2fd-96ce-42b4-8902-1ce976547901,Every Can Counts,2023-05-15T06:53:47.101Z,16f5db71-1222-48ee-91ac-c1bcaa672ab9,ZZZ,Romania,ro,979128092114200,Every Can Counts,Facebook
+1af387d0-6fbd-4ecf-9de6-29645fa282a7,Audio Alfa,2023-05-15T06:53:47.162Z,e643c1c9-c6d4-4bbe-be51-7ff9ba6da709,ZZZ,Romania,ro,1935179676747488,Audio Alfa,Facebook
+8e4a07d6-31c8-4477-9123-5686eb8e1f67,Aciocarlanoae Andrei,2023-05-15T06:53:46.979Z,d364b49e-95c8-47b0-930a-df2de6e8d510,ZZZ,Romania,ro,1376982875659603,Aciocarlanoae Andrei,Facebook
+957ca8ef-e679-4e77-9eff-0bff23536bf0,Non's táskái,2023-05-16T06:53:34.053Z,98b2d571-7955-417b-b2a0-3f7dea312973,ZZZ,Romania,ro,1561982447361791,Non's táskái,Facebook
+814cc01b-e5db-4c1f-81e0-425504cc80c2,Catena - Farmacia Inimii,2023-05-15T06:53:46.981Z,a74df243-f208-4eaf-865f-91f868641950,ZZZ,Romania,ro,185997004328,Catena - Farmacia Inimii,Facebook
+d1224a6c-de99-4fc5-9fdf-939266accd60,Zona Metropolitană Cluj,2023-05-15T06:53:47.116Z,301da22b-6c09-4725-8764-f111693d645b,ZZZ,Romania,ro,102845501378487,Zona Metropolitană Cluj,Facebook
+7ee5753d-7375-4c69-a5a5-f4da4e2fad32,SOS Satele Copiilor Romania,2023-05-16T06:53:34.116Z,ad21c2a4-53e2-4cdc-ade8-0f7f6270f80b,ZZZ,Romania,ro,153018728044101,SOS Satele Copiilor Romania,Facebook
 6c47a787-91e7-4e43-b8e1-1bcd195a0f9f,PNL Filiala Hunedoara,2024-01-16T05:06:47.744Z,5bdf0965-c6ce-411b-8f5a-eedce3c215e8,PNL,Romania,ro,1563516727242105,PNL Filiala Hunedoara,Facebook
 48b89108-40aa-4eeb-a50c-c3e06f50c0c5,Partidul Miscarea Populara Turda,2023-04-25T06:53:20.908Z,d02ce155-4e4a-4234-89a7-fd10a243c663,PMP,Romania,ro,708954802458499,Partidul Miscarea Populara Turda,Facebook
 702211f8-9eb3-4a32-83e9-45a3c7f19008,Cătălin Volintiru,2023-10-21T05:07:44.545Z,6bd403ed-9696-4830-aab8-ef18b41461d3,USR,Romania,ro,110846767347441,Cătălin Volintiru,Facebook
